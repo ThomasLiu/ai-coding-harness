@@ -60,31 +60,29 @@ main() {
         return 1
     fi
 
-    # 转换格式，保留已有分析数据
+    # 转换格式，保留已有分析数据和历史记录
     log "转换格式..."
     today=$(date '+%Y-%m-%d')
 
-    # 读取已有分析数据，构建 URL -> 分析数据 映射
-    existing_analysis=$(cat "$DATA_FILE" 2>/dev/null | jq 'INDEX(.repos[].url) | to_entries[] | {url: .key, description_zh: .value.description_zh, pros: .value.pros, cons: .value.cons, analyzed: .value.analyzed}' 2>/dev/null || echo "[]")
+    # 读取已有仓库数据，构建 URL -> 仓库 索引
+    existing_repos=$(cat "$DATA_FILE" 2>/dev/null | jq '.repos | INDEX(.url)' 2>/dev/null || echo "{}")
 
-    echo "$all_repos" | jq --arg today "$today" --argjson existing "$existing_analysis" '
-        def getExisting(url):
-            $existing | map(select(.url == url)) | first // {};
+    echo "$all_repos" | jq --arg today "$today" --argjson existing "$existing_repos" '
         map({
             name: .name,
             owner: .owner.login,
             url: .url,
             description: (.description // ""),
-            description_zh: (getExisting(.url).description_zh // ""),
-            pros: (getExisting(.url).pros // []),
-            cons: (getExisting(.url).cons // []),
-            analyzed: (getExisting(.url).analyzed // false),
+            description_zh: ($existing[.url].description_zh // ""),
+            pros: ($existing[.url].pros // []),
+            cons: ($existing[.url].cons // []),
+            analyzed: ($existing[.url].analyzed // false),
             stars: (.stargazersCount // 0),
             created_at: .createdAt,
             repo_updated_at: .updatedAt,
             last_collected_at: (now | strftime("%Y-%m-%dT%H:%M:%SZ")),
             last_updated: $today,
-            history: [{date: $today, stars: (.stargazersCount // 0)}]
+            history: (($existing[.url].history // []) + [{date: $today, stars: (.stargazersCount // 0)}])
         })
     ' > "$TEMP_FILE.processed"
 

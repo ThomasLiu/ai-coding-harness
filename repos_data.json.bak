@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "collected_at": "2026-03-26T09:15:53Z",
+  "collected_at": "2026-03-26T08:54:51Z",
   "last_collection": "2026-03-26",
   "repos": [
     {
@@ -12,19 +12,15 @@
       "pros": [],
       "cons": [],
       "analyzed": false,
-      "stars": 20582,
+      "stars": 20581,
       "created_at": "2023-09-14T02:05:12Z",
-      "repo_updated_at": "2026-03-26T09:10:01Z",
-      "last_collected_at": "2026-03-26T09:15:53Z",
+      "repo_updated_at": "2026-03-26T08:09:11Z",
+      "last_collected_at": "2026-03-26T08:54:51Z",
       "last_updated": "2026-03-26",
       "history": [
         {
           "date": "2026-03-26",
           "stars": 20581
-        },
-        {
-          "date": "2026-03-26",
-          "stars": 20582
         }
       ]
     },
@@ -40,13 +36,9 @@
       "stars": 5301,
       "created_at": "2026-01-14T02:12:40Z",
       "repo_updated_at": "2026-03-26T08:00:28Z",
-      "last_collected_at": "2026-03-26T09:15:53Z",
+      "last_collected_at": "2026-03-26T08:54:51Z",
       "last_updated": "2026-03-26",
       "history": [
-        {
-          "date": "2026-03-26",
-          "stars": 5301
-        },
         {
           "date": "2026-03-26",
           "stars": 5301
@@ -65,13 +57,9 @@
       "stars": 558,
       "created_at": "2023-07-20T00:23:21Z",
       "repo_updated_at": "2026-03-26T00:38:28Z",
-      "last_collected_at": "2026-03-26T09:15:53Z",
+      "last_collected_at": "2026-03-26T08:54:51Z",
       "last_updated": "2026-03-26",
       "history": [
-        {
-          "date": "2026-03-26",
-          "stars": 558
-        },
         {
           "date": "2026-03-26",
           "stars": 558
@@ -90,13 +78,9 @@
       "stars": 39906,
       "created_at": "2024-07-01T13:11:38Z",
       "repo_updated_at": "2026-03-26T08:47:08Z",
-      "last_collected_at": "2026-03-26T09:15:53Z",
+      "last_collected_at": "2026-03-26T08:54:51Z",
       "last_updated": "2026-03-26",
       "history": [
-        {
-          "date": "2026-03-26",
-          "stars": 39906
-        },
         {
           "date": "2026-03-26",
           "stars": 39906
@@ -115,13 +99,9 @@
       "stars": 357,
       "created_at": "2026-02-27T00:57:01Z",
       "repo_updated_at": "2026-03-26T08:41:41Z",
-      "last_collected_at": "2026-03-26T09:15:53Z",
+      "last_collected_at": "2026-03-26T08:54:51Z",
       "last_updated": "2026-03-26",
       "history": [
-        {
-          "date": "2026-03-26",
-          "stars": 357
-        },
         {
           "date": "2026-03-26",
           "stars": 357
@@ -137,19 +117,15 @@
       "pros": [],
       "cons": [],
       "analyzed": false,
-      "stars": 27533,
+      "stars": 27525,
       "created_at": "2022-12-08T13:27:46Z",
-      "repo_updated_at": "2026-03-26T09:14:31Z",
-      "last_collected_at": "2026-03-26T09:15:53Z",
+      "repo_updated_at": "2026-03-26T08:49:09Z",
+      "last_collected_at": "2026-03-26T08:54:51Z",
       "last_updated": "2026-03-26",
       "history": [
         {
           "date": "2026-03-26",
-          "stars": 27528
-        },
-        {
-          "date": "2026-03-26",
-          "stars": 27533
+          "stars": 27525
         }
       ]
     },
@@ -165,13 +141,9 @@
       "stars": 11317,
       "created_at": "2025-06-08T15:36:50Z",
       "repo_updated_at": "2026-03-26T06:47:39Z",
-      "last_collected_at": "2026-03-26T09:15:53Z",
+      "last_collected_at": "2026-03-26T08:54:51Z",
       "last_updated": "2026-03-26",
       "history": [
-        {
-          "date": "2026-03-26",
-          "stars": 11317
-        },
         {
           "date": "2026-03-26",
           "stars": 11317
@@ -190,13 +162,9 @@
       "stars": 272,
       "created_at": "2024-12-23T08:07:13Z",
       "repo_updated_at": "2026-03-11T02:01:13Z",
-      "last_collected_at": "2026-03-26T09:15:53Z",
+      "last_collected_at": "2026-03-26T08:54:51Z",
       "last_updated": "2026-03-26",
       "history": [
-        {
-          "date": "2026-03-26",
-          "stars": 272
-        },
         {
           "date": "2026-03-26",
           "stars": 272
@@ -215,13 +183,9 @@
       "stars": 241,
       "created_at": "2023-10-24T16:37:29Z",
       "repo_updated_at": "2026-03-20T09:05:41Z",
-      "last_collected_at": "2026-03-26T09:15:53Z",
+      "last_collected_at": "2026-03-26T08:54:51Z",
       "last_updated": "2026-03-26",
       "history": [
-        {
-          "date": "2026-03-26",
-          "stars": 241
-        },
         {
           "date": "2026-03-26",
           "stars": 241
@@ -237,19 +201,15 @@
       "pros": [],
       "cons": [],
       "analyzed": false,
-      "stars": 23831,
+      "stars": 23829,
       "created_at": "2025-06-14T19:10:21Z",
-      "repo_updated_at": "2026-03-26T09:08:17Z",
-      "last_collected_at": "2026-03-26T09:15:53Z",
+      "repo_updated_at": "2026-03-26T08:32:59Z",
+      "last_collected_at": "2026-03-26T08:54:51Z",
       "last_updated": "2026-03-26",
       "history": [
         {
           "date": "2026-03-26",
           "stars": 23829
-        },
-        {
-          "date": "2026-03-26",
-          "stars": 23831
         }
       ]
     },
@@ -265,13 +225,9 @@
       "stars": 27758,
       "created_at": "2019-06-07T11:03:41Z",
       "repo_updated_at": "2026-03-26T08:51:52Z",
-      "last_collected_at": "2026-03-26T09:15:53Z",
+      "last_collected_at": "2026-03-26T08:54:51Z",
       "last_updated": "2026-03-26",
       "history": [
-        {
-          "date": "2026-03-26",
-          "stars": 27758
-        },
         {
           "date": "2026-03-26",
           "stars": 27758
@@ -290,13 +246,9 @@
       "stars": 4287,
       "created_at": "2024-05-23T12:30:24Z",
       "repo_updated_at": "2026-03-25T11:31:49Z",
-      "last_collected_at": "2026-03-26T09:15:53Z",
+      "last_collected_at": "2026-03-26T08:54:51Z",
       "last_updated": "2026-03-26",
       "history": [
-        {
-          "date": "2026-03-26",
-          "stars": 4287
-        },
         {
           "date": "2026-03-26",
           "stars": 4287
@@ -315,13 +267,9 @@
       "stars": 980,
       "created_at": "2012-02-17T18:48:04Z",
       "repo_updated_at": "2026-03-02T05:32:04Z",
-      "last_collected_at": "2026-03-26T09:15:53Z",
+      "last_collected_at": "2026-03-26T08:54:51Z",
       "last_updated": "2026-03-26",
       "history": [
-        {
-          "date": "2026-03-26",
-          "stars": 980
-        },
         {
           "date": "2026-03-26",
           "stars": 980
@@ -340,13 +288,9 @@
       "stars": 322,
       "created_at": "2025-12-12T03:57:21Z",
       "repo_updated_at": "2026-03-26T08:50:50Z",
-      "last_collected_at": "2026-03-26T09:15:53Z",
+      "last_collected_at": "2026-03-26T08:54:51Z",
       "last_updated": "2026-03-26",
       "history": [
-        {
-          "date": "2026-03-26",
-          "stars": 322
-        },
         {
           "date": "2026-03-26",
           "stars": 322
@@ -362,19 +306,15 @@
       "pros": [],
       "cons": [],
       "analyzed": false,
-      "stars": 42359,
+      "stars": 42358,
       "created_at": "2024-05-24T01:56:26Z",
-      "repo_updated_at": "2026-03-26T09:13:19Z",
-      "last_collected_at": "2026-03-26T09:15:53Z",
+      "repo_updated_at": "2026-03-26T08:33:05Z",
+      "last_collected_at": "2026-03-26T08:54:51Z",
       "last_updated": "2026-03-26",
       "history": [
         {
           "date": "2026-03-26",
           "stars": 42358
-        },
-        {
-          "date": "2026-03-26",
-          "stars": 42359
         }
       ]
     },
@@ -390,13 +330,9 @@
       "stars": 341,
       "created_at": "2026-02-04T06:56:16Z",
       "repo_updated_at": "2026-03-26T01:00:29Z",
-      "last_collected_at": "2026-03-26T09:15:53Z",
+      "last_collected_at": "2026-03-26T08:54:51Z",
       "last_updated": "2026-03-26",
       "history": [
-        {
-          "date": "2026-03-26",
-          "stars": 341
-        },
         {
           "date": "2026-03-26",
           "stars": 341
@@ -415,13 +351,9 @@
       "stars": 5581,
       "created_at": "2026-01-06T18:51:02Z",
       "repo_updated_at": "2026-03-26T06:41:01Z",
-      "last_collected_at": "2026-03-26T09:15:53Z",
+      "last_collected_at": "2026-03-26T08:54:51Z",
       "last_updated": "2026-03-26",
       "history": [
-        {
-          "date": "2026-03-26",
-          "stars": 5581
-        },
         {
           "date": "2026-03-26",
           "stars": 5581
@@ -437,19 +369,15 @@
       "pros": [],
       "cons": [],
       "analyzed": false,
-      "stars": 31615,
+      "stars": 31609,
       "created_at": "2025-09-11T10:39:55Z",
-      "repo_updated_at": "2026-03-26T09:15:00Z",
-      "last_collected_at": "2026-03-26T09:15:53Z",
+      "repo_updated_at": "2026-03-26T08:54:08Z",
+      "last_collected_at": "2026-03-26T08:54:51Z",
       "last_updated": "2026-03-26",
       "history": [
         {
           "date": "2026-03-26",
-          "stars": 31610
-        },
-        {
-          "date": "2026-03-26",
-          "stars": 31615
+          "stars": 31609
         }
       ]
     },
@@ -462,19 +390,15 @@
       "pros": [],
       "cons": [],
       "analyzed": false,
-      "stars": 5445,
+      "stars": 5446,
       "created_at": "2026-02-13T09:52:36Z",
-      "repo_updated_at": "2026-03-26T08:59:03Z",
-      "last_collected_at": "2026-03-26T09:15:53Z",
+      "repo_updated_at": "2026-03-26T08:32:03Z",
+      "last_collected_at": "2026-03-26T08:54:51Z",
       "last_updated": "2026-03-26",
       "history": [
         {
           "date": "2026-03-26",
-          "stars": 5445
-        },
-        {
-          "date": "2026-03-26",
-          "stars": 5445
+          "stars": 5446
         }
       ]
     },
@@ -487,19 +411,15 @@
       "pros": [],
       "cons": [],
       "analyzed": false,
-      "stars": 48003,
+      "stars": 47995,
       "created_at": "2025-10-17T07:15:01Z",
-      "repo_updated_at": "2026-03-26T09:15:07Z",
-      "last_collected_at": "2026-03-26T09:15:53Z",
+      "repo_updated_at": "2026-03-26T08:51:31Z",
+      "last_collected_at": "2026-03-26T08:54:51Z",
       "last_updated": "2026-03-26",
       "history": [
         {
           "date": "2026-03-26",
-          "stars": 47999
-        },
-        {
-          "date": "2026-03-26",
-          "stars": 48003
+          "stars": 47995
         }
       ]
     },
@@ -515,13 +435,9 @@
       "stars": 27528,
       "created_at": "2024-02-23T13:58:27Z",
       "repo_updated_at": "2026-03-26T08:27:41Z",
-      "last_collected_at": "2026-03-26T09:15:53Z",
+      "last_collected_at": "2026-03-26T08:54:51Z",
       "last_updated": "2026-03-26",
       "history": [
-        {
-          "date": "2026-03-26",
-          "stars": 27528
-        },
         {
           "date": "2026-03-26",
           "stars": 27528
@@ -537,19 +453,15 @@
       "pros": [],
       "cons": [],
       "analyzed": false,
-      "stars": 29784,
+      "stars": 29783,
       "created_at": "2023-06-19T04:08:31Z",
-      "repo_updated_at": "2026-03-26T08:59:00Z",
-      "last_collected_at": "2026-03-26T09:15:53Z",
+      "repo_updated_at": "2026-03-26T08:54:29Z",
+      "last_collected_at": "2026-03-26T08:54:51Z",
       "last_updated": "2026-03-26",
       "history": [
         {
           "date": "2026-03-26",
-          "stars": 29784
-        },
-        {
-          "date": "2026-03-26",
-          "stars": 29784
+          "stars": 29783
         }
       ]
     },
@@ -562,19 +474,15 @@
       "pros": [],
       "cons": [],
       "analyzed": false,
-      "stars": 4271,
+      "stars": 4268,
       "created_at": "2026-01-05T00:41:45Z",
-      "repo_updated_at": "2026-03-26T09:14:43Z",
-      "last_collected_at": "2026-03-26T09:15:53Z",
+      "repo_updated_at": "2026-03-26T07:04:01Z",
+      "last_collected_at": "2026-03-26T08:54:51Z",
       "last_updated": "2026-03-26",
       "history": [
         {
           "date": "2026-03-26",
-          "stars": 4269
-        },
-        {
-          "date": "2026-03-26",
-          "stars": 4271
+          "stars": 4268
         }
       ]
     },
@@ -587,19 +495,15 @@
       "pros": [],
       "cons": [],
       "analyzed": false,
-      "stars": 5404,
+      "stars": 5388,
       "created_at": "2026-02-12T05:21:38Z",
-      "repo_updated_at": "2026-03-26T09:15:13Z",
-      "last_collected_at": "2026-03-26T09:15:53Z",
+      "repo_updated_at": "2026-03-26T08:54:30Z",
+      "last_collected_at": "2026-03-26T08:54:51Z",
       "last_updated": "2026-03-26",
       "history": [
         {
           "date": "2026-03-26",
-          "stars": 5397
-        },
-        {
-          "date": "2026-03-26",
-          "stars": 5404
+          "stars": 5388
         }
       ]
     },
@@ -615,13 +519,9 @@
       "stars": 11853,
       "created_at": "2020-08-28T00:09:15Z",
       "repo_updated_at": "2026-03-26T08:46:23Z",
-      "last_collected_at": "2026-03-26T09:15:53Z",
+      "last_collected_at": "2026-03-26T08:54:51Z",
       "last_updated": "2026-03-26",
       "history": [
-        {
-          "date": "2026-03-26",
-          "stars": 11853
-        },
         {
           "date": "2026-03-26",
           "stars": 11853
@@ -637,19 +537,15 @@
       "pros": [],
       "cons": [],
       "analyzed": false,
-      "stars": 11144,
+      "stars": 11142,
       "created_at": "2025-10-09T19:43:46Z",
-      "repo_updated_at": "2026-03-26T09:12:41Z",
-      "last_collected_at": "2026-03-26T09:15:53Z",
+      "repo_updated_at": "2026-03-26T08:47:36Z",
+      "last_collected_at": "2026-03-26T08:54:51Z",
       "last_updated": "2026-03-26",
       "history": [
         {
           "date": "2026-03-26",
-          "stars": 11143
-        },
-        {
-          "date": "2026-03-26",
-          "stars": 11144
+          "stars": 11142
         }
       ]
     },
@@ -662,19 +558,15 @@
       "pros": [],
       "cons": [],
       "analyzed": false,
-      "stars": 1979,
+      "stars": 1973,
       "created_at": "2026-01-26T11:19:26Z",
-      "repo_updated_at": "2026-03-26T09:08:32Z",
-      "last_collected_at": "2026-03-26T09:15:53Z",
+      "repo_updated_at": "2026-03-26T08:53:31Z",
+      "last_collected_at": "2026-03-26T08:54:51Z",
       "last_updated": "2026-03-26",
       "history": [
         {
           "date": "2026-03-26",
-          "stars": 1974
-        },
-        {
-          "date": "2026-03-26",
-          "stars": 1979
+          "stars": 1973
         }
       ]
     },
@@ -690,13 +582,9 @@
       "stars": 51100,
       "created_at": "2023-03-31T12:23:09Z",
       "repo_updated_at": "2026-03-26T08:50:54Z",
-      "last_collected_at": "2026-03-26T09:15:53Z",
+      "last_collected_at": "2026-03-26T08:54:51Z",
       "last_updated": "2026-03-26",
       "history": [
-        {
-          "date": "2026-03-26",
-          "stars": 51100
-        },
         {
           "date": "2026-03-26",
           "stars": 51100
@@ -712,19 +600,15 @@
       "pros": [],
       "cons": [],
       "analyzed": false,
-      "stars": 25640,
+      "stars": 25639,
       "created_at": "2025-02-19T18:03:06Z",
-      "repo_updated_at": "2026-03-26T08:57:10Z",
-      "last_collected_at": "2026-03-26T09:15:53Z",
+      "repo_updated_at": "2026-03-26T08:27:04Z",
+      "last_collected_at": "2026-03-26T08:54:51Z",
       "last_updated": "2026-03-26",
       "history": [
         {
           "date": "2026-03-26",
-          "stars": 25640
-        },
-        {
-          "date": "2026-03-26",
-          "stars": 25640
+          "stars": 25639
         }
       ]
     },
@@ -737,19 +621,15 @@
       "pros": [],
       "cons": [],
       "analyzed": false,
-      "stars": 66207,
+      "stars": 66204,
       "created_at": "2023-06-30T09:04:55Z",
-      "repo_updated_at": "2026-03-26T09:09:42Z",
-      "last_collected_at": "2026-03-26T09:15:53Z",
+      "repo_updated_at": "2026-03-26T08:32:31Z",
+      "last_collected_at": "2026-03-26T08:54:51Z",
       "last_updated": "2026-03-26",
       "history": [
         {
           "date": "2026-03-26",
           "stars": 66204
-        },
-        {
-          "date": "2026-03-26",
-          "stars": 66207
         }
       ]
     },
@@ -765,13 +645,9 @@
       "stars": 281,
       "created_at": "2024-02-14T15:46:38Z",
       "repo_updated_at": "2026-01-31T09:41:44Z",
-      "last_collected_at": "2026-03-26T09:15:53Z",
+      "last_collected_at": "2026-03-26T08:54:51Z",
       "last_updated": "2026-03-26",
       "history": [
-        {
-          "date": "2026-03-26",
-          "stars": 281
-        },
         {
           "date": "2026-03-26",
           "stars": 281
@@ -790,13 +666,9 @@
       "stars": 13969,
       "created_at": "2025-02-13T02:55:06Z",
       "repo_updated_at": "2026-03-26T08:51:02Z",
-      "last_collected_at": "2026-03-26T09:15:53Z",
+      "last_collected_at": "2026-03-26T08:54:51Z",
       "last_updated": "2026-03-26",
       "history": [
-        {
-          "date": "2026-03-26",
-          "stars": 13969
-        },
         {
           "date": "2026-03-26",
           "stars": 13969
@@ -815,13 +687,9 @@
       "stars": 1003,
       "created_at": "2016-04-12T08:29:14Z",
       "repo_updated_at": "2026-03-14T10:41:58Z",
-      "last_collected_at": "2026-03-26T09:15:53Z",
+      "last_collected_at": "2026-03-26T08:54:51Z",
       "last_updated": "2026-03-26",
       "history": [
-        {
-          "date": "2026-03-26",
-          "stars": 1003
-        },
         {
           "date": "2026-03-26",
           "stars": 1003
@@ -840,13 +708,9 @@
       "stars": 503,
       "created_at": "2025-01-25T01:48:34Z",
       "repo_updated_at": "2026-03-23T07:16:32Z",
-      "last_collected_at": "2026-03-26T09:15:53Z",
+      "last_collected_at": "2026-03-26T08:54:51Z",
       "last_updated": "2026-03-26",
       "history": [
-        {
-          "date": "2026-03-26",
-          "stars": 503
-        },
         {
           "date": "2026-03-26",
           "stars": 503
@@ -865,13 +729,9 @@
       "stars": 267,
       "created_at": "2019-01-29T16:39:28Z",
       "repo_updated_at": "2026-03-24T12:27:53Z",
-      "last_collected_at": "2026-03-26T09:15:53Z",
+      "last_collected_at": "2026-03-26T08:54:51Z",
       "last_updated": "2026-03-26",
       "history": [
-        {
-          "date": "2026-03-26",
-          "stars": 267
-        },
         {
           "date": "2026-03-26",
           "stars": 267
@@ -890,13 +750,9 @@
       "stars": 8692,
       "created_at": "2025-02-06T12:47:15Z",
       "repo_updated_at": "2026-03-26T06:57:03Z",
-      "last_collected_at": "2026-03-26T09:15:53Z",
+      "last_collected_at": "2026-03-26T08:54:51Z",
       "last_updated": "2026-03-26",
       "history": [
-        {
-          "date": "2026-03-26",
-          "stars": 8692
-        },
         {
           "date": "2026-03-26",
           "stars": 8692
@@ -912,19 +768,15 @@
       "pros": [],
       "cons": [],
       "analyzed": false,
-      "stars": 23337,
+      "stars": 23319,
       "created_at": "2026-03-08T13:52:57Z",
-      "repo_updated_at": "2026-03-26T09:15:04Z",
-      "last_collected_at": "2026-03-26T09:15:53Z",
+      "repo_updated_at": "2026-03-26T08:53:18Z",
+      "last_collected_at": "2026-03-26T08:54:51Z",
       "last_updated": "2026-03-26",
       "history": [
         {
           "date": "2026-03-26",
-          "stars": 23325
-        },
-        {
-          "date": "2026-03-26",
-          "stars": 23337
+          "stars": 23319
         }
       ]
     },
@@ -940,13 +792,9 @@
       "stars": 15020,
       "created_at": "2025-05-14T05:23:02Z",
       "repo_updated_at": "2026-03-26T08:34:21Z",
-      "last_collected_at": "2026-03-26T09:15:53Z",
+      "last_collected_at": "2026-03-26T08:54:51Z",
       "last_updated": "2026-03-26",
       "history": [
-        {
-          "date": "2026-03-26",
-          "stars": 15020
-        },
         {
           "date": "2026-03-26",
           "stars": 15020
@@ -962,19 +810,15 @@
       "pros": [],
       "cons": [],
       "analyzed": false,
-      "stars": 7321,
+      "stars": 7320,
       "created_at": "2025-10-20T20:27:22Z",
-      "repo_updated_at": "2026-03-26T09:03:46Z",
-      "last_collected_at": "2026-03-26T09:15:53Z",
+      "repo_updated_at": "2026-03-26T08:24:28Z",
+      "last_collected_at": "2026-03-26T08:54:51Z",
       "last_updated": "2026-03-26",
       "history": [
         {
           "date": "2026-03-26",
           "stars": 7320
-        },
-        {
-          "date": "2026-03-26",
-          "stars": 7321
         }
       ]
     },
@@ -990,13 +834,9 @@
       "stars": 226,
       "created_at": "2023-05-21T15:57:43Z",
       "repo_updated_at": "2025-10-07T14:36:50Z",
-      "last_collected_at": "2026-03-26T09:15:53Z",
+      "last_collected_at": "2026-03-26T08:54:51Z",
       "last_updated": "2026-03-26",
       "history": [
-        {
-          "date": "2026-03-26",
-          "stars": 226
-        },
         {
           "date": "2026-03-26",
           "stars": 226
@@ -1015,13 +855,9 @@
       "stars": 346,
       "created_at": "2018-06-10T20:41:20Z",
       "repo_updated_at": "2026-02-08T21:45:55Z",
-      "last_collected_at": "2026-03-26T09:15:53Z",
+      "last_collected_at": "2026-03-26T08:54:51Z",
       "last_updated": "2026-03-26",
       "history": [
-        {
-          "date": "2026-03-26",
-          "stars": 346
-        },
         {
           "date": "2026-03-26",
           "stars": 346
@@ -1037,19 +873,15 @@
       "pros": [],
       "cons": [],
       "analyzed": false,
-      "stars": 17203,
+      "stars": 17202,
       "created_at": "2025-03-10T15:34:26Z",
-      "repo_updated_at": "2026-03-26T09:09:19Z",
-      "last_collected_at": "2026-03-26T09:15:53Z",
+      "repo_updated_at": "2026-03-26T07:45:04Z",
+      "last_collected_at": "2026-03-26T08:54:51Z",
       "last_updated": "2026-03-26",
       "history": [
         {
           "date": "2026-03-26",
-          "stars": 17203
-        },
-        {
-          "date": "2026-03-26",
-          "stars": 17203
+          "stars": 17202
         }
       ]
     },
@@ -1065,13 +897,9 @@
       "stars": 791,
       "created_at": "2023-09-27T22:03:49Z",
       "repo_updated_at": "2026-03-19T07:41:41Z",
-      "last_collected_at": "2026-03-26T09:15:53Z",
+      "last_collected_at": "2026-03-26T08:54:51Z",
       "last_updated": "2026-03-26",
       "history": [
-        {
-          "date": "2026-03-26",
-          "stars": 791
-        },
         {
           "date": "2026-03-26",
           "stars": 791
@@ -1087,19 +915,15 @@
       "pros": [],
       "cons": [],
       "analyzed": false,
-      "stars": 6324,
+      "stars": 6319,
       "created_at": "2026-03-15T02:30:51Z",
-      "repo_updated_at": "2026-03-26T09:14:31Z",
-      "last_collected_at": "2026-03-26T09:15:53Z",
+      "repo_updated_at": "2026-03-26T08:54:15Z",
+      "last_collected_at": "2026-03-26T08:54:51Z",
       "last_updated": "2026-03-26",
       "history": [
         {
           "date": "2026-03-26",
-          "stars": 6321
-        },
-        {
-          "date": "2026-03-26",
-          "stars": 6324
+          "stars": 6319
         }
       ]
     },
@@ -1112,19 +936,15 @@
       "pros": [],
       "cons": [],
       "analyzed": false,
-      "stars": 7142,
+      "stars": 7141,
       "created_at": "2025-06-19T00:00:05Z",
-      "repo_updated_at": "2026-03-26T09:12:19Z",
-      "last_collected_at": "2026-03-26T09:15:53Z",
+      "repo_updated_at": "2026-03-26T08:28:35Z",
+      "last_collected_at": "2026-03-26T08:54:51Z",
       "last_updated": "2026-03-26",
       "history": [
         {
           "date": "2026-03-26",
           "stars": 7141
-        },
-        {
-          "date": "2026-03-26",
-          "stars": 7142
         }
       ]
     },
@@ -1140,13 +960,9 @@
       "stars": 5729,
       "created_at": "2024-03-19T16:45:25Z",
       "repo_updated_at": "2026-03-26T06:35:59Z",
-      "last_collected_at": "2026-03-26T09:15:53Z",
+      "last_collected_at": "2026-03-26T08:54:51Z",
       "last_updated": "2026-03-26",
       "history": [
-        {
-          "date": "2026-03-26",
-          "stars": 5729
-        },
         {
           "date": "2026-03-26",
           "stars": 5729
@@ -1165,13 +981,9 @@
       "stars": 4355,
       "created_at": "2025-04-28T10:44:33Z",
       "repo_updated_at": "2026-03-26T08:41:29Z",
-      "last_collected_at": "2026-03-26T09:15:53Z",
+      "last_collected_at": "2026-03-26T08:54:51Z",
       "last_updated": "2026-03-26",
       "history": [
-        {
-          "date": "2026-03-26",
-          "stars": 4355
-        },
         {
           "date": "2026-03-26",
           "stars": 4355
@@ -1190,13 +1002,9 @@
       "stars": 7378,
       "created_at": "2025-10-15T12:58:03Z",
       "repo_updated_at": "2026-03-26T08:50:40Z",
-      "last_collected_at": "2026-03-26T09:15:53Z",
+      "last_collected_at": "2026-03-26T08:54:51Z",
       "last_updated": "2026-03-26",
       "history": [
-        {
-          "date": "2026-03-26",
-          "stars": 7378
-        },
         {
           "date": "2026-03-26",
           "stars": 7378
@@ -1215,13 +1023,9 @@
       "stars": 642,
       "created_at": "2015-07-08T01:05:26Z",
       "repo_updated_at": "2026-02-26T18:18:33Z",
-      "last_collected_at": "2026-03-26T09:15:53Z",
+      "last_collected_at": "2026-03-26T08:54:51Z",
       "last_updated": "2026-03-26",
       "history": [
-        {
-          "date": "2026-03-26",
-          "stars": 642
-        },
         {
           "date": "2026-03-26",
           "stars": 642
@@ -1240,13 +1044,9 @@
       "stars": 20793,
       "created_at": "2024-09-09T20:10:19Z",
       "repo_updated_at": "2026-03-26T05:55:43Z",
-      "last_collected_at": "2026-03-26T09:15:53Z",
+      "last_collected_at": "2026-03-26T08:54:51Z",
       "last_updated": "2026-03-26",
       "history": [
-        {
-          "date": "2026-03-26",
-          "stars": 20793
-        },
         {
           "date": "2026-03-26",
           "stars": 20793
@@ -1264,14 +1064,10 @@
       "analyzed": false,
       "stars": 18475,
       "created_at": "2025-06-16T17:33:44Z",
-      "repo_updated_at": "2026-03-26T08:57:40Z",
-      "last_collected_at": "2026-03-26T09:15:53Z",
+      "repo_updated_at": "2026-03-26T08:51:19Z",
+      "last_collected_at": "2026-03-26T08:54:51Z",
       "last_updated": "2026-03-26",
       "history": [
-        {
-          "date": "2026-03-26",
-          "stars": 18475
-        },
         {
           "date": "2026-03-26",
           "stars": 18475
@@ -1287,19 +1083,15 @@
       "pros": [],
       "cons": [],
       "analyzed": false,
-      "stars": 13431,
+      "stars": 13423,
       "created_at": "2025-07-22T22:22:28Z",
-      "repo_updated_at": "2026-03-26T09:13:07Z",
-      "last_collected_at": "2026-03-26T09:15:53Z",
+      "repo_updated_at": "2026-03-26T08:53:22Z",
+      "last_collected_at": "2026-03-26T08:54:51Z",
       "last_updated": "2026-03-26",
       "history": [
         {
           "date": "2026-03-26",
-          "stars": 13426
-        },
-        {
-          "date": "2026-03-26",
-          "stars": 13431
+          "stars": 13423
         }
       ]
     },
@@ -1312,19 +1104,15 @@
       "pros": [],
       "cons": [],
       "analyzed": false,
-      "stars": 63586,
+      "stars": 63585,
       "created_at": "2020-12-20T10:46:38Z",
-      "repo_updated_at": "2026-03-26T08:59:37Z",
-      "last_collected_at": "2026-03-26T09:15:53Z",
+      "repo_updated_at": "2026-03-26T08:43:43Z",
+      "last_collected_at": "2026-03-26T08:54:51Z",
       "last_updated": "2026-03-26",
       "history": [
         {
           "date": "2026-03-26",
-          "stars": 63586
-        },
-        {
-          "date": "2026-03-26",
-          "stars": 63586
+          "stars": 63585
         }
       ]
     },
@@ -1339,14 +1127,10 @@
       "analyzed": false,
       "stars": 31871,
       "created_at": "2023-08-28T02:18:13Z",
-      "repo_updated_at": "2026-03-26T09:09:30Z",
-      "last_collected_at": "2026-03-26T09:15:53Z",
+      "repo_updated_at": "2026-03-26T08:46:38Z",
+      "last_collected_at": "2026-03-26T08:54:51Z",
       "last_updated": "2026-03-26",
       "history": [
-        {
-          "date": "2026-03-26",
-          "stars": 31870
-        },
         {
           "date": "2026-03-26",
           "stars": 31871
@@ -1365,13 +1149,9 @@
       "stars": 5639,
       "created_at": "2025-11-03T06:13:06Z",
       "repo_updated_at": "2026-03-26T08:44:26Z",
-      "last_collected_at": "2026-03-26T09:15:53Z",
+      "last_collected_at": "2026-03-26T08:54:51Z",
       "last_updated": "2026-03-26",
       "history": [
-        {
-          "date": "2026-03-26",
-          "stars": 5639
-        },
         {
           "date": "2026-03-26",
           "stars": 5639
@@ -1387,19 +1167,15 @@
       "pros": [],
       "cons": [],
       "analyzed": false,
-      "stars": 17304,
+      "stars": 17301,
       "created_at": "2026-01-03T07:37:28Z",
-      "repo_updated_at": "2026-03-26T09:14:55Z",
-      "last_collected_at": "2026-03-26T09:15:53Z",
+      "repo_updated_at": "2026-03-26T08:53:46Z",
+      "last_collected_at": "2026-03-26T08:54:51Z",
       "last_updated": "2026-03-26",
       "history": [
         {
           "date": "2026-03-26",
-          "stars": 17302
-        },
-        {
-          "date": "2026-03-26",
-          "stars": 17304
+          "stars": 17301
         }
       ]
     },
@@ -1412,19 +1188,15 @@
       "pros": [],
       "cons": [],
       "analyzed": false,
-      "stars": 10817,
+      "stars": 10812,
       "created_at": "2026-02-24T02:10:24Z",
-      "repo_updated_at": "2026-03-26T09:09:43Z",
-      "last_collected_at": "2026-03-26T09:15:53Z",
+      "repo_updated_at": "2026-03-26T08:47:31Z",
+      "last_collected_at": "2026-03-26T08:54:51Z",
       "last_updated": "2026-03-26",
       "history": [
         {
           "date": "2026-03-26",
-          "stars": 10815
-        },
-        {
-          "date": "2026-03-26",
-          "stars": 10817
+          "stars": 10812
         }
       ]
     },
@@ -1440,13 +1212,9 @@
       "stars": 4163,
       "created_at": "2026-02-09T23:12:48Z",
       "repo_updated_at": "2026-03-26T07:42:09Z",
-      "last_collected_at": "2026-03-26T09:15:53Z",
+      "last_collected_at": "2026-03-26T08:54:51Z",
       "last_updated": "2026-03-26",
       "history": [
-        {
-          "date": "2026-03-26",
-          "stars": 4163
-        },
         {
           "date": "2026-03-26",
           "stars": 4163
@@ -1462,19 +1230,15 @@
       "pros": [],
       "cons": [],
       "analyzed": false,
-      "stars": 6728,
+      "stars": 6724,
       "created_at": "2025-11-18T21:26:33Z",
-      "repo_updated_at": "2026-03-26T09:15:42Z",
-      "last_collected_at": "2026-03-26T09:15:53Z",
+      "repo_updated_at": "2026-03-26T08:53:58Z",
+      "last_collected_at": "2026-03-26T08:54:51Z",
       "last_updated": "2026-03-26",
       "history": [
         {
           "date": "2026-03-26",
-          "stars": 6726
-        },
-        {
-          "date": "2026-03-26",
-          "stars": 6728
+          "stars": 6724
         }
       ]
     },
@@ -1487,19 +1251,15 @@
       "pros": [],
       "cons": [],
       "analyzed": false,
-      "stars": 5061,
+      "stars": 5060,
       "created_at": "2025-10-19T05:36:13Z",
-      "repo_updated_at": "2026-03-26T09:14:29Z",
-      "last_collected_at": "2026-03-26T09:15:53Z",
+      "repo_updated_at": "2026-03-26T08:50:47Z",
+      "last_collected_at": "2026-03-26T08:54:51Z",
       "last_updated": "2026-03-26",
       "history": [
         {
           "date": "2026-03-26",
           "stars": 5060
-        },
-        {
-          "date": "2026-03-26",
-          "stars": 5061
         }
       ]
     },
@@ -1515,13 +1275,9 @@
       "stars": 15775,
       "created_at": "2023-09-22T02:24:56Z",
       "repo_updated_at": "2026-03-26T06:34:20Z",
-      "last_collected_at": "2026-03-26T09:15:53Z",
+      "last_collected_at": "2026-03-26T08:54:51Z",
       "last_updated": "2026-03-26",
       "history": [
-        {
-          "date": "2026-03-26",
-          "stars": 15775
-        },
         {
           "date": "2026-03-26",
           "stars": 15775
@@ -1537,19 +1293,15 @@
       "pros": [],
       "cons": [],
       "analyzed": false,
-      "stars": 21084,
+      "stars": 21081,
       "created_at": "2025-06-26T01:37:46Z",
-      "repo_updated_at": "2026-03-26T09:13:23Z",
-      "last_collected_at": "2026-03-26T09:15:53Z",
+      "repo_updated_at": "2026-03-26T08:15:39Z",
+      "last_collected_at": "2026-03-26T08:54:51Z",
       "last_updated": "2026-03-26",
       "history": [
         {
           "date": "2026-03-26",
-          "stars": 21082
-        },
-        {
-          "date": "2026-03-26",
-          "stars": 21084
+          "stars": 21081
         }
       ]
     },
@@ -1565,13 +1317,9 @@
       "stars": 909,
       "created_at": "2023-09-25T21:58:31Z",
       "repo_updated_at": "2026-03-21T19:12:40Z",
-      "last_collected_at": "2026-03-26T09:15:53Z",
+      "last_collected_at": "2026-03-26T08:54:51Z",
       "last_updated": "2026-03-26",
       "history": [
-        {
-          "date": "2026-03-26",
-          "stars": 909
-        },
         {
           "date": "2026-03-26",
           "stars": 909
@@ -1590,13 +1338,9 @@
       "stars": 22845,
       "created_at": "2024-10-31T17:56:50Z",
       "repo_updated_at": "2026-03-26T08:22:53Z",
-      "last_collected_at": "2026-03-26T09:15:53Z",
+      "last_collected_at": "2026-03-26T08:54:51Z",
       "last_updated": "2026-03-26",
       "history": [
-        {
-          "date": "2026-03-26",
-          "stars": 22845
-        },
         {
           "date": "2026-03-26",
           "stars": 22845
@@ -1615,13 +1359,9 @@
       "stars": 18850,
       "created_at": "2024-04-02T04:09:47Z",
       "repo_updated_at": "2026-03-26T08:09:42Z",
-      "last_collected_at": "2026-03-26T09:15:53Z",
+      "last_collected_at": "2026-03-26T08:54:51Z",
       "last_updated": "2026-03-26",
       "history": [
-        {
-          "date": "2026-03-26",
-          "stars": 18850
-        },
         {
           "date": "2026-03-26",
           "stars": 18850
@@ -1637,19 +1377,15 @@
       "pros": [],
       "cons": [],
       "analyzed": false,
-      "stars": 4429,
+      "stars": 4426,
       "created_at": "2025-12-02T19:20:20Z",
-      "repo_updated_at": "2026-03-26T09:13:34Z",
-      "last_collected_at": "2026-03-26T09:15:53Z",
+      "repo_updated_at": "2026-03-26T08:48:00Z",
+      "last_collected_at": "2026-03-26T08:54:51Z",
       "last_updated": "2026-03-26",
       "history": [
         {
           "date": "2026-03-26",
           "stars": 4426
-        },
-        {
-          "date": "2026-03-26",
-          "stars": 4429
         }
       ]
     },
@@ -1662,19 +1398,15 @@
       "pros": [],
       "cons": [],
       "analyzed": false,
-      "stars": 333,
+      "stars": 332,
       "created_at": "2026-03-20T05:42:54Z",
-      "repo_updated_at": "2026-03-26T09:10:55Z",
-      "last_collected_at": "2026-03-26T09:15:53Z",
+      "repo_updated_at": "2026-03-26T08:44:53Z",
+      "last_collected_at": "2026-03-26T08:54:51Z",
       "last_updated": "2026-03-26",
       "history": [
         {
           "date": "2026-03-26",
           "stars": 332
-        },
-        {
-          "date": "2026-03-26",
-          "stars": 333
         }
       ]
     },
@@ -1690,13 +1422,9 @@
       "stars": 267,
       "created_at": "2024-06-20T17:55:26Z",
       "repo_updated_at": "2026-03-26T07:26:20Z",
-      "last_collected_at": "2026-03-26T09:15:53Z",
+      "last_collected_at": "2026-03-26T08:54:51Z",
       "last_updated": "2026-03-26",
       "history": [
-        {
-          "date": "2026-03-26",
-          "stars": 267
-        },
         {
           "date": "2026-03-26",
           "stars": 267
@@ -1708,28 +1436,16 @@
       "owner": "Shubhamsaboo",
       "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
       "description": "Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.",
-      "description_zh": "收集 GPT、Claude、Gemini 等大模型的 AI Agent 与 RAG 应用合集，10 万 + Star 的热门开源资源库。",
-      "pros": [
-        "涵盖多主流大模型（OpenAI/Anthropic/Gemini/开源）",
-        "AI Agents 与 RAG 两大核心应用方向",
-        "社区认可度高（10 万 + Star）",
-        "应用场景丰富覆盖多个领域"
-      ],
-      "cons": [
-        "合集性质导致各项目代码质量参差不齐",
-        "缺乏系统性教程，新手上手门槛较高"
-      ],
+      "description_zh": "",
+      "pros": [],
+      "cons": [],
       "analyzed": true,
       "stars": 103621,
       "created_at": "2024-04-29T05:30:25Z",
       "repo_updated_at": "2026-03-26T08:47:17Z",
-      "last_collected_at": "2026-03-26T09:15:53Z",
+      "last_collected_at": "2026-03-26T08:54:51Z",
       "last_updated": "2026-03-26",
       "history": [
-        {
-          "date": "2026-03-26",
-          "stars": 103621
-        },
         {
           "date": "2026-03-26",
           "stars": 103621
@@ -1748,13 +1464,9 @@
       "stars": 227,
       "created_at": "2026-03-23T01:24:17Z",
       "repo_updated_at": "2026-03-26T08:44:00Z",
-      "last_collected_at": "2026-03-26T09:15:53Z",
+      "last_collected_at": "2026-03-26T08:54:51Z",
       "last_updated": "2026-03-26",
       "history": [
-        {
-          "date": "2026-03-26",
-          "stars": 227
-        },
         {
           "date": "2026-03-26",
           "stars": 227
@@ -1773,13 +1485,9 @@
       "stars": 18344,
       "created_at": "2013-07-22T01:15:48Z",
       "repo_updated_at": "2026-03-25T21:50:10Z",
-      "last_collected_at": "2026-03-26T09:15:53Z",
+      "last_collected_at": "2026-03-26T08:54:51Z",
       "last_updated": "2026-03-26",
       "history": [
-        {
-          "date": "2026-03-26",
-          "stars": 18344
-        },
         {
           "date": "2026-03-26",
           "stars": 18344
@@ -1798,13 +1506,9 @@
       "stars": 21943,
       "created_at": "2025-06-22T12:03:53Z",
       "repo_updated_at": "2026-03-26T08:34:25Z",
-      "last_collected_at": "2026-03-26T09:15:53Z",
+      "last_collected_at": "2026-03-26T08:54:51Z",
       "last_updated": "2026-03-26",
       "history": [
-        {
-          "date": "2026-03-26",
-          "stars": 21943
-        },
         {
           "date": "2026-03-26",
           "stars": 21943
@@ -1820,19 +1524,15 @@
       "pros": [],
       "cons": [],
       "analyzed": false,
-      "stars": 42087,
+      "stars": 42068,
       "created_at": "2024-12-28T03:31:08Z",
-      "repo_updated_at": "2026-03-26T09:14:59Z",
-      "last_collected_at": "2026-03-26T09:15:53Z",
+      "repo_updated_at": "2026-03-26T08:53:49Z",
+      "last_collected_at": "2026-03-26T08:54:51Z",
       "last_updated": "2026-03-26",
       "history": [
         {
           "date": "2026-03-26",
-          "stars": 42073
-        },
-        {
-          "date": "2026-03-26",
-          "stars": 42087
+          "stars": 42068
         }
       ]
     },
@@ -1848,13 +1548,9 @@
       "stars": 1132,
       "created_at": "2024-12-10T20:34:46Z",
       "repo_updated_at": "2026-03-26T06:53:05Z",
-      "last_collected_at": "2026-03-26T09:15:53Z",
+      "last_collected_at": "2026-03-26T08:54:51Z",
       "last_updated": "2026-03-26",
       "history": [
-        {
-          "date": "2026-03-26",
-          "stars": 1132
-        },
         {
           "date": "2026-03-26",
           "stars": 1132
@@ -1873,13 +1569,9 @@
       "stars": 739,
       "created_at": "2024-05-21T22:43:38Z",
       "repo_updated_at": "2026-03-25T23:33:44Z",
-      "last_collected_at": "2026-03-26T09:15:53Z",
+      "last_collected_at": "2026-03-26T08:54:51Z",
       "last_updated": "2026-03-26",
       "history": [
-        {
-          "date": "2026-03-26",
-          "stars": 739
-        },
         {
           "date": "2026-03-26",
           "stars": 739
@@ -1898,13 +1590,9 @@
       "stars": 37657,
       "created_at": "2021-03-30T08:51:34Z",
       "repo_updated_at": "2026-03-26T08:46:32Z",
-      "last_collected_at": "2026-03-26T09:15:53Z",
+      "last_collected_at": "2026-03-26T08:54:51Z",
       "last_updated": "2026-03-26",
       "history": [
-        {
-          "date": "2026-03-26",
-          "stars": 37657
-        },
         {
           "date": "2026-03-26",
           "stars": 37657
@@ -1923,13 +1611,9 @@
       "stars": 5803,
       "created_at": "2025-07-30T06:09:00Z",
       "repo_updated_at": "2026-03-26T07:43:42Z",
-      "last_collected_at": "2026-03-26T09:15:53Z",
+      "last_collected_at": "2026-03-26T08:54:51Z",
       "last_updated": "2026-03-26",
       "history": [
-        {
-          "date": "2026-03-26",
-          "stars": 5803
-        },
         {
           "date": "2026-03-26",
           "stars": 5803
@@ -1945,19 +1629,15 @@
       "pros": [],
       "cons": [],
       "analyzed": false,
-      "stars": 12900,
+      "stars": 12897,
       "created_at": "2025-10-28T08:55:32Z",
-      "repo_updated_at": "2026-03-26T09:09:14Z",
-      "last_collected_at": "2026-03-26T09:15:53Z",
+      "repo_updated_at": "2026-03-26T08:54:32Z",
+      "last_collected_at": "2026-03-26T08:54:51Z",
       "last_updated": "2026-03-26",
       "history": [
         {
           "date": "2026-03-26",
-          "stars": 12899
-        },
-        {
-          "date": "2026-03-26",
-          "stars": 12900
+          "stars": 12897
         }
       ]
     },
@@ -1973,13 +1653,9 @@
       "stars": 15217,
       "created_at": "2025-07-30T12:31:51Z",
       "repo_updated_at": "2026-03-26T08:52:36Z",
-      "last_collected_at": "2026-03-26T09:15:53Z",
+      "last_collected_at": "2026-03-26T08:54:51Z",
       "last_updated": "2026-03-26",
       "history": [
-        {
-          "date": "2026-03-26",
-          "stars": 15217
-        },
         {
           "date": "2026-03-26",
           "stars": 15217
@@ -1995,19 +1671,15 @@
       "pros": [],
       "cons": [],
       "analyzed": false,
-      "stars": 10120,
+      "stars": 10117,
       "created_at": "2025-07-14T10:11:32Z",
-      "repo_updated_at": "2026-03-26T09:12:45Z",
-      "last_collected_at": "2026-03-26T09:15:53Z",
+      "repo_updated_at": "2026-03-26T08:52:06Z",
+      "last_collected_at": "2026-03-26T08:54:51Z",
       "last_updated": "2026-03-26",
       "history": [
         {
           "date": "2026-03-26",
-          "stars": 10118
-        },
-        {
-          "date": "2026-03-26",
-          "stars": 10120
+          "stars": 10117
         }
       ]
     },
@@ -2020,19 +1692,15 @@
       "pros": [],
       "cons": [],
       "analyzed": false,
-      "stars": 8563,
+      "stars": 8559,
       "created_at": "2025-12-18T02:26:18Z",
-      "repo_updated_at": "2026-03-26T09:14:21Z",
-      "last_collected_at": "2026-03-26T09:15:53Z",
+      "repo_updated_at": "2026-03-26T08:52:16Z",
+      "last_collected_at": "2026-03-26T08:54:51Z",
       "last_updated": "2026-03-26",
       "history": [
         {
           "date": "2026-03-26",
           "stars": 8559
-        },
-        {
-          "date": "2026-03-26",
-          "stars": 8563
         }
       ]
     },
@@ -2048,13 +1716,9 @@
       "stars": 234,
       "created_at": "2021-12-31T01:42:29Z",
       "repo_updated_at": "2026-03-26T03:43:20Z",
-      "last_collected_at": "2026-03-26T09:15:53Z",
+      "last_collected_at": "2026-03-26T08:54:51Z",
       "last_updated": "2026-03-26",
       "history": [
-        {
-          "date": "2026-03-26",
-          "stars": 234
-        },
         {
           "date": "2026-03-26",
           "stars": 234
@@ -2073,13 +1737,9 @@
       "stars": 1101,
       "created_at": "2025-07-19T10:33:15Z",
       "repo_updated_at": "2026-03-25T13:58:43Z",
-      "last_collected_at": "2026-03-26T09:15:53Z",
+      "last_collected_at": "2026-03-26T08:54:51Z",
       "last_updated": "2026-03-26",
       "history": [
-        {
-          "date": "2026-03-26",
-          "stars": 1101
-        },
         {
           "date": "2026-03-26",
           "stars": 1101
@@ -2098,13 +1758,9 @@
       "stars": 267,
       "created_at": "2022-12-13T01:57:05Z",
       "repo_updated_at": "2026-03-18T08:16:33Z",
-      "last_collected_at": "2026-03-26T09:15:53Z",
+      "last_collected_at": "2026-03-26T08:54:51Z",
       "last_updated": "2026-03-26",
       "history": [
-        {
-          "date": "2026-03-26",
-          "stars": 267
-        },
         {
           "date": "2026-03-26",
           "stars": 267
@@ -2120,19 +1776,15 @@
       "pros": [],
       "cons": [],
       "analyzed": false,
-      "stars": 11863,
+      "stars": 11854,
       "created_at": "2026-01-09T03:36:29Z",
-      "repo_updated_at": "2026-03-26T09:12:27Z",
-      "last_collected_at": "2026-03-26T09:15:53Z",
+      "repo_updated_at": "2026-03-26T08:53:45Z",
+      "last_collected_at": "2026-03-26T08:54:51Z",
       "last_updated": "2026-03-26",
       "history": [
         {
           "date": "2026-03-26",
-          "stars": 11857
-        },
-        {
-          "date": "2026-03-26",
-          "stars": 11863
+          "stars": 11854
         }
       ]
     },
@@ -2145,19 +1797,15 @@
       "pros": [],
       "cons": [],
       "analyzed": false,
-      "stars": 5168,
+      "stars": 5167,
       "created_at": "2025-12-05T17:58:26Z",
-      "repo_updated_at": "2026-03-26T09:11:34Z",
-      "last_collected_at": "2026-03-26T09:15:53Z",
+      "repo_updated_at": "2026-03-26T08:43:36Z",
+      "last_collected_at": "2026-03-26T08:54:51Z",
       "last_updated": "2026-03-26",
       "history": [
         {
           "date": "2026-03-26",
           "stars": 5167
-        },
-        {
-          "date": "2026-03-26",
-          "stars": 5168
         }
       ]
     },
@@ -2173,13 +1821,9 @@
       "stars": 274,
       "created_at": "2024-01-30T08:02:03Z",
       "repo_updated_at": "2026-03-25T11:02:28Z",
-      "last_collected_at": "2026-03-26T09:15:53Z",
+      "last_collected_at": "2026-03-26T08:54:51Z",
       "last_updated": "2026-03-26",
       "history": [
-        {
-          "date": "2026-03-26",
-          "stars": 274
-        },
         {
           "date": "2026-03-26",
           "stars": 274
@@ -2197,14 +1841,10 @@
       "analyzed": false,
       "stars": 22827,
       "created_at": "2025-03-25T18:44:21Z",
-      "repo_updated_at": "2026-03-26T09:00:29Z",
-      "last_collected_at": "2026-03-26T09:15:53Z",
+      "repo_updated_at": "2026-03-26T08:47:18Z",
+      "last_collected_at": "2026-03-26T08:54:51Z",
       "last_updated": "2026-03-26",
       "history": [
-        {
-          "date": "2026-03-26",
-          "stars": 22827
-        },
         {
           "date": "2026-03-26",
           "stars": 22827
@@ -2223,13 +1863,9 @@
       "stars": 314,
       "created_at": "2016-05-13T19:15:58Z",
       "repo_updated_at": "2026-02-24T03:01:28Z",
-      "last_collected_at": "2026-03-26T09:15:53Z",
+      "last_collected_at": "2026-03-26T08:54:51Z",
       "last_updated": "2026-03-26",
       "history": [
-        {
-          "date": "2026-03-26",
-          "stars": 314
-        },
         {
           "date": "2026-03-26",
           "stars": 314
@@ -2248,13 +1884,9 @@
       "stars": 209,
       "created_at": "2026-02-20T08:52:34Z",
       "repo_updated_at": "2026-03-26T02:58:29Z",
-      "last_collected_at": "2026-03-26T09:15:53Z",
+      "last_collected_at": "2026-03-26T08:54:51Z",
       "last_updated": "2026-03-26",
       "history": [
-        {
-          "date": "2026-03-26",
-          "stars": 209
-        },
         {
           "date": "2026-03-26",
           "stars": 209
@@ -2270,19 +1902,15 @@
       "pros": [],
       "cons": [],
       "analyzed": false,
-      "stars": 19768,
+      "stars": 19764,
       "created_at": "2025-08-02T23:20:31Z",
-      "repo_updated_at": "2026-03-26T09:13:53Z",
-      "last_collected_at": "2026-03-26T09:15:53Z",
+      "repo_updated_at": "2026-03-26T08:53:37Z",
+      "last_collected_at": "2026-03-26T08:54:51Z",
       "last_updated": "2026-03-26",
       "history": [
         {
           "date": "2026-03-26",
-          "stars": 19766
-        },
-        {
-          "date": "2026-03-26",
-          "stars": 19768
+          "stars": 19764
         }
       ]
     },
@@ -2298,13 +1926,9 @@
       "stars": 287,
       "created_at": "2017-01-16T19:07:22Z",
       "repo_updated_at": "2026-03-24T05:30:19Z",
-      "last_collected_at": "2026-03-26T09:15:53Z",
+      "last_collected_at": "2026-03-26T08:54:51Z",
       "last_updated": "2026-03-26",
       "history": [
-        {
-          "date": "2026-03-26",
-          "stars": 287
-        },
         {
           "date": "2026-03-26",
           "stars": 287
@@ -2320,19 +1944,15 @@
       "pros": [],
       "cons": [],
       "analyzed": false,
-      "stars": 21427,
+      "stars": 21426,
       "created_at": "2022-12-03T02:52:46Z",
-      "repo_updated_at": "2026-03-26T09:01:09Z",
-      "last_collected_at": "2026-03-26T09:15:53Z",
+      "repo_updated_at": "2026-03-26T08:30:16Z",
+      "last_collected_at": "2026-03-26T08:54:51Z",
       "last_updated": "2026-03-26",
       "history": [
         {
           "date": "2026-03-26",
-          "stars": 21427
-        },
-        {
-          "date": "2026-03-26",
-          "stars": 21427
+          "stars": 21426
         }
       ]
     },
@@ -2348,13 +1968,9 @@
       "stars": 9827,
       "created_at": "2026-01-12T00:04:22Z",
       "repo_updated_at": "2026-03-26T08:51:49Z",
-      "last_collected_at": "2026-03-26T09:15:53Z",
+      "last_collected_at": "2026-03-26T08:54:51Z",
       "last_updated": "2026-03-26",
       "history": [
-        {
-          "date": "2026-03-26",
-          "stars": 9827
-        },
         {
           "date": "2026-03-26",
           "stars": 9827
@@ -2370,19 +1986,15 @@
       "pros": [],
       "cons": [],
       "analyzed": true,
-      "stars": 108997,
+      "stars": 108961,
       "created_at": "2026-01-18T00:51:51Z",
-      "repo_updated_at": "2026-03-26T09:14:45Z",
-      "last_collected_at": "2026-03-26T09:15:53Z",
+      "repo_updated_at": "2026-03-26T08:54:08Z",
+      "last_collected_at": "2026-03-26T08:54:51Z",
       "last_updated": "2026-03-26",
       "history": [
         {
           "date": "2026-03-26",
-          "stars": 108975
-        },
-        {
-          "date": "2026-03-26",
-          "stars": 108997
+          "stars": 108961
         }
       ]
     },
@@ -2398,13 +2010,9 @@
       "stars": 19408,
       "created_at": "2025-08-19T17:22:54Z",
       "repo_updated_at": "2026-03-26T08:51:48Z",
-      "last_collected_at": "2026-03-26T09:15:53Z",
+      "last_collected_at": "2026-03-26T08:54:51Z",
       "last_updated": "2026-03-26",
       "history": [
-        {
-          "date": "2026-03-26",
-          "stars": 19408
-        },
         {
           "date": "2026-03-26",
           "stars": 19408
@@ -2420,19 +2028,15 @@
       "pros": [],
       "cons": [],
       "analyzed": false,
-      "stars": 38938,
+      "stars": 38937,
       "created_at": "2022-05-04T15:23:02Z",
-      "repo_updated_at": "2026-03-26T09:10:36Z",
-      "last_collected_at": "2026-03-26T09:15:53Z",
+      "repo_updated_at": "2026-03-26T06:24:03Z",
+      "last_collected_at": "2026-03-26T08:54:51Z",
       "last_updated": "2026-03-26",
       "history": [
         {
           "date": "2026-03-26",
           "stars": 38937
-        },
-        {
-          "date": "2026-03-26",
-          "stars": 38938
         }
       ]
     },
@@ -2447,14 +2051,10 @@
       "analyzed": false,
       "stars": 6800,
       "created_at": "2025-10-17T10:08:55Z",
-      "repo_updated_at": "2026-03-26T09:02:47Z",
-      "last_collected_at": "2026-03-26T09:15:53Z",
+      "repo_updated_at": "2026-03-26T08:14:06Z",
+      "last_collected_at": "2026-03-26T08:54:51Z",
       "last_updated": "2026-03-26",
       "history": [
-        {
-          "date": "2026-03-26",
-          "stars": 6800
-        },
         {
           "date": "2026-03-26",
           "stars": 6800
@@ -2473,13 +2073,9 @@
       "stars": 221,
       "created_at": "2024-11-03T11:57:53Z",
       "repo_updated_at": "2026-03-11T01:32:37Z",
-      "last_collected_at": "2026-03-26T09:15:53Z",
+      "last_collected_at": "2026-03-26T08:54:51Z",
       "last_updated": "2026-03-26",
       "history": [
-        {
-          "date": "2026-03-26",
-          "stars": 221
-        },
         {
           "date": "2026-03-26",
           "stars": 221
@@ -2498,13 +2094,9 @@
       "stars": 326,
       "created_at": "2026-01-16T14:47:02Z",
       "repo_updated_at": "2026-03-25T23:52:52Z",
-      "last_collected_at": "2026-03-26T09:15:53Z",
+      "last_collected_at": "2026-03-26T08:54:51Z",
       "last_updated": "2026-03-26",
       "history": [
-        {
-          "date": "2026-03-26",
-          "stars": 326
-        },
         {
           "date": "2026-03-26",
           "stars": 326
@@ -2520,19 +2112,15 @@
       "pros": [],
       "cons": [],
       "analyzed": false,
-      "stars": 5765,
+      "stars": 5764,
       "created_at": "2025-05-15T11:46:52Z",
-      "repo_updated_at": "2026-03-26T09:15:38Z",
-      "last_collected_at": "2026-03-26T09:15:53Z",
+      "repo_updated_at": "2026-03-26T06:17:45Z",
+      "last_collected_at": "2026-03-26T08:54:51Z",
       "last_updated": "2026-03-26",
       "history": [
         {
           "date": "2026-03-26",
           "stars": 5764
-        },
-        {
-          "date": "2026-03-26",
-          "stars": 5765
         }
       ]
     },
@@ -2545,19 +2133,15 @@
       "pros": [],
       "cons": [],
       "analyzed": false,
-      "stars": 7044,
+      "stars": 7039,
       "created_at": "2025-10-19T04:04:05Z",
-      "repo_updated_at": "2026-03-26T09:10:59Z",
-      "last_collected_at": "2026-03-26T09:15:53Z",
+      "repo_updated_at": "2026-03-26T08:52:12Z",
+      "last_collected_at": "2026-03-26T08:54:51Z",
       "last_updated": "2026-03-26",
       "history": [
         {
           "date": "2026-03-26",
-          "stars": 7042
-        },
-        {
-          "date": "2026-03-26",
-          "stars": 7044
+          "stars": 7039
         }
       ]
     },
@@ -2570,19 +2154,15 @@
       "pros": [],
       "cons": [],
       "analyzed": true,
-      "stars": 130607,
+      "stars": 130597,
       "created_at": "2025-04-30T20:08:00Z",
-      "repo_updated_at": "2026-03-26T09:14:25Z",
-      "last_collected_at": "2026-03-26T09:15:53Z",
+      "repo_updated_at": "2026-03-26T08:50:44Z",
+      "last_collected_at": "2026-03-26T08:54:51Z",
       "last_updated": "2026-03-26",
       "history": [
         {
           "date": "2026-03-26",
-          "stars": 130601
-        },
-        {
-          "date": "2026-03-26",
-          "stars": 130607
+          "stars": 130597
         }
       ]
     },
@@ -2598,13 +2178,9 @@
       "stars": 68382,
       "created_at": "2012-03-06T14:58:02Z",
       "repo_updated_at": "2026-03-26T06:07:39Z",
-      "last_collected_at": "2026-03-26T09:15:53Z",
+      "last_collected_at": "2026-03-26T08:54:51Z",
       "last_updated": "2026-03-26",
       "history": [
-        {
-          "date": "2026-03-26",
-          "stars": 68382
-        },
         {
           "date": "2026-03-26",
           "stars": 68382
@@ -2620,19 +2196,15 @@
       "pros": [],
       "cons": [],
       "analyzed": false,
-      "stars": 82951,
+      "stars": 82948,
       "created_at": "2025-02-22T17:41:21Z",
-      "repo_updated_at": "2026-03-26T09:10:40Z",
-      "last_collected_at": "2026-03-26T09:15:53Z",
+      "repo_updated_at": "2026-03-26T08:51:08Z",
+      "last_collected_at": "2026-03-26T08:54:51Z",
       "last_updated": "2026-03-26",
       "history": [
         {
           "date": "2026-03-26",
-          "stars": 82949
-        },
-        {
-          "date": "2026-03-26",
-          "stars": 82951
+          "stars": 82948
         }
       ]
     },
@@ -2645,19 +2217,15 @@
       "pros": [],
       "cons": [],
       "analyzed": false,
-      "stars": 6603,
+      "stars": 6602,
       "created_at": "2025-05-19T15:26:50Z",
-      "repo_updated_at": "2026-03-26T09:02:30Z",
-      "last_collected_at": "2026-03-26T09:15:53Z",
+      "repo_updated_at": "2026-03-26T08:48:37Z",
+      "last_collected_at": "2026-03-26T08:54:51Z",
       "last_updated": "2026-03-26",
       "history": [
         {
           "date": "2026-03-26",
-          "stars": 6603
-        },
-        {
-          "date": "2026-03-26",
-          "stars": 6603
+          "stars": 6602
         }
       ]
     },
@@ -2670,19 +2238,15 @@
       "pros": [],
       "cons": [],
       "analyzed": false,
-      "stars": 14761,
+      "stars": 14757,
       "created_at": "2025-11-20T18:36:20Z",
-      "repo_updated_at": "2026-03-26T09:15:18Z",
-      "last_collected_at": "2026-03-26T09:15:53Z",
+      "repo_updated_at": "2026-03-26T08:49:51Z",
+      "last_collected_at": "2026-03-26T08:54:51Z",
       "last_updated": "2026-03-26",
       "history": [
         {
           "date": "2026-03-26",
-          "stars": 14759
-        },
-        {
-          "date": "2026-03-26",
-          "stars": 14761
+          "stars": 14757
         }
       ]
     },
@@ -2695,19 +2259,15 @@
       "pros": [],
       "cons": [],
       "analyzed": true,
-      "stars": 103316,
+      "stars": 103290,
       "created_at": "2025-09-22T15:53:31Z",
-      "repo_updated_at": "2026-03-26T09:15:29Z",
-      "last_collected_at": "2026-03-26T09:15:53Z",
+      "repo_updated_at": "2026-03-26T08:52:37Z",
+      "last_collected_at": "2026-03-26T08:54:51Z",
       "last_updated": "2026-03-26",
       "history": [
         {
           "date": "2026-03-26",
-          "stars": 103302
-        },
-        {
-          "date": "2026-03-26",
-          "stars": 103316
+          "stars": 103290
         }
       ]
     },
@@ -2723,13 +2283,9 @@
       "stars": 279,
       "created_at": "2024-06-10T22:13:18Z",
       "repo_updated_at": "2026-03-23T15:51:40Z",
-      "last_collected_at": "2026-03-26T09:15:53Z",
+      "last_collected_at": "2026-03-26T08:54:51Z",
       "last_updated": "2026-03-26",
       "history": [
-        {
-          "date": "2026-03-26",
-          "stars": 279
-        },
         {
           "date": "2026-03-26",
           "stars": 279
@@ -2745,19 +2301,15 @@
       "pros": [],
       "cons": [],
       "analyzed": false,
-      "stars": 315,
+      "stars": 314,
       "created_at": "2025-07-30T19:54:44Z",
-      "repo_updated_at": "2026-03-26T09:09:45Z",
-      "last_collected_at": "2026-03-26T09:15:53Z",
+      "repo_updated_at": "2026-03-26T08:52:09Z",
+      "last_collected_at": "2026-03-26T08:54:51Z",
       "last_updated": "2026-03-26",
       "history": [
         {
           "date": "2026-03-26",
           "stars": 314
-        },
-        {
-          "date": "2026-03-26",
-          "stars": 315
         }
       ]
     },
@@ -2770,19 +2322,15 @@
       "pros": [],
       "cons": [],
       "analyzed": false,
-      "stars": 27285,
+      "stars": 27284,
       "created_at": "2024-12-20T13:37:15Z",
-      "repo_updated_at": "2026-03-26T09:08:31Z",
-      "last_collected_at": "2026-03-26T09:15:53Z",
+      "repo_updated_at": "2026-03-26T08:40:21Z",
+      "last_collected_at": "2026-03-26T08:54:51Z",
       "last_updated": "2026-03-26",
       "history": [
         {
           "date": "2026-03-26",
           "stars": 27284
-        },
-        {
-          "date": "2026-03-26",
-          "stars": 27285
         }
       ]
     },
@@ -2798,13 +2346,9 @@
       "stars": 26033,
       "created_at": "2023-05-12T10:33:54Z",
       "repo_updated_at": "2026-03-26T08:47:43Z",
-      "last_collected_at": "2026-03-26T09:15:53Z",
+      "last_collected_at": "2026-03-26T08:54:51Z",
       "last_updated": "2026-03-26",
       "history": [
-        {
-          "date": "2026-03-26",
-          "stars": 26033
-        },
         {
           "date": "2026-03-26",
           "stars": 26033
@@ -2823,13 +2367,9 @@
       "stars": 7791,
       "created_at": "2025-08-18T23:20:08Z",
       "repo_updated_at": "2026-03-26T06:42:42Z",
-      "last_collected_at": "2026-03-26T09:15:53Z",
+      "last_collected_at": "2026-03-26T08:54:51Z",
       "last_updated": "2026-03-26",
       "history": [
-        {
-          "date": "2026-03-26",
-          "stars": 7791
-        },
         {
           "date": "2026-03-26",
           "stars": 7791
@@ -2845,19 +2385,15 @@
       "pros": [],
       "cons": [],
       "analyzed": false,
-      "stars": 3573,
+      "stars": 3572,
       "created_at": "2025-12-28T02:09:40Z",
-      "repo_updated_at": "2026-03-26T09:01:03Z",
-      "last_collected_at": "2026-03-26T09:15:53Z",
+      "repo_updated_at": "2026-03-26T08:36:58Z",
+      "last_collected_at": "2026-03-26T08:54:51Z",
       "last_updated": "2026-03-26",
       "history": [
         {
           "date": "2026-03-26",
-          "stars": 3573
-        },
-        {
-          "date": "2026-03-26",
-          "stars": 3573
+          "stars": 3572
         }
       ]
     },
@@ -2870,19 +2406,15 @@
       "pros": [],
       "cons": [],
       "analyzed": false,
-      "stars": 28069,
+      "stars": 28067,
       "created_at": "2025-08-09T14:03:50Z",
-      "repo_updated_at": "2026-03-26T09:06:34Z",
-      "last_collected_at": "2026-03-26T09:15:53Z",
+      "repo_updated_at": "2026-03-26T08:43:36Z",
+      "last_collected_at": "2026-03-26T08:54:51Z",
       "last_updated": "2026-03-26",
       "history": [
         {
           "date": "2026-03-26",
-          "stars": 28068
-        },
-        {
-          "date": "2026-03-26",
-          "stars": 28069
+          "stars": 28067
         }
       ]
     },
@@ -2898,13 +2430,9 @@
       "stars": 4491,
       "created_at": "2020-07-20T09:32:04Z",
       "repo_updated_at": "2026-03-26T08:52:11Z",
-      "last_collected_at": "2026-03-26T09:15:53Z",
+      "last_collected_at": "2026-03-26T08:54:51Z",
       "last_updated": "2026-03-26",
       "history": [
-        {
-          "date": "2026-03-26",
-          "stars": 4491
-        },
         {
           "date": "2026-03-26",
           "stars": 4491
@@ -2923,13 +2451,9 @@
       "stars": 647,
       "created_at": "2021-01-02T20:54:31Z",
       "repo_updated_at": "2026-03-15T15:12:29Z",
-      "last_collected_at": "2026-03-26T09:15:53Z",
+      "last_collected_at": "2026-03-26T08:54:51Z",
       "last_updated": "2026-03-26",
       "history": [
-        {
-          "date": "2026-03-26",
-          "stars": 647
-        },
         {
           "date": "2026-03-26",
           "stars": 647
@@ -2948,13 +2472,9 @@
       "stars": 1024,
       "created_at": "2022-08-09T12:58:56Z",
       "repo_updated_at": "2026-03-24T08:19:11Z",
-      "last_collected_at": "2026-03-26T09:15:53Z",
+      "last_collected_at": "2026-03-26T08:54:51Z",
       "last_updated": "2026-03-26",
       "history": [
-        {
-          "date": "2026-03-26",
-          "stars": 1024
-        },
         {
           "date": "2026-03-26",
           "stars": 1024
@@ -2970,19 +2490,15 @@
       "pros": [],
       "cons": [],
       "analyzed": false,
-      "stars": 11154,
+      "stars": 11153,
       "created_at": "2026-01-18T05:30:15Z",
-      "repo_updated_at": "2026-03-26T09:13:20Z",
-      "last_collected_at": "2026-03-26T09:15:53Z",
+      "repo_updated_at": "2026-03-26T08:49:07Z",
+      "last_collected_at": "2026-03-26T08:54:51Z",
       "last_updated": "2026-03-26",
       "history": [
         {
           "date": "2026-03-26",
           "stars": 11153
-        },
-        {
-          "date": "2026-03-26",
-          "stars": 11154
         }
       ]
     },
@@ -2995,19 +2511,15 @@
       "pros": [],
       "cons": [],
       "analyzed": false,
-      "stars": 33597,
+      "stars": 33596,
       "created_at": "2024-08-23T19:03:36Z",
-      "repo_updated_at": "2026-03-26T09:07:18Z",
-      "last_collected_at": "2026-03-26T09:15:53Z",
+      "repo_updated_at": "2026-03-26T08:44:55Z",
+      "last_collected_at": "2026-03-26T08:54:51Z",
       "last_updated": "2026-03-26",
       "history": [
         {
           "date": "2026-03-26",
           "stars": 33596
-        },
-        {
-          "date": "2026-03-26",
-          "stars": 33597
         }
       ]
     },
@@ -3023,13 +2535,9 @@
       "stars": 225,
       "created_at": "2025-11-21T20:05:32Z",
       "repo_updated_at": "2026-03-26T05:42:06Z",
-      "last_collected_at": "2026-03-26T09:15:53Z",
+      "last_collected_at": "2026-03-26T08:54:51Z",
       "last_updated": "2026-03-26",
       "history": [
-        {
-          "date": "2026-03-26",
-          "stars": 225
-        },
         {
           "date": "2026-03-26",
           "stars": 225
@@ -3048,13 +2556,9 @@
       "stars": 4604,
       "created_at": "2025-11-01T16:04:15Z",
       "repo_updated_at": "2026-03-26T07:08:40Z",
-      "last_collected_at": "2026-03-26T09:15:53Z",
+      "last_collected_at": "2026-03-26T08:54:51Z",
       "last_updated": "2026-03-26",
       "history": [
-        {
-          "date": "2026-03-26",
-          "stars": 4604
-        },
         {
           "date": "2026-03-26",
           "stars": 4604
@@ -3070,19 +2574,15 @@
       "pros": [],
       "cons": [],
       "analyzed": false,
-      "stars": 84526,
+      "stars": 84524,
       "created_at": "2024-10-31T16:00:56Z",
-      "repo_updated_at": "2026-03-26T09:10:07Z",
-      "last_collected_at": "2026-03-26T09:15:53Z",
+      "repo_updated_at": "2026-03-26T08:54:04Z",
+      "last_collected_at": "2026-03-26T08:54:51Z",
       "last_updated": "2026-03-26",
       "history": [
         {
           "date": "2026-03-26",
-          "stars": 84525
-        },
-        {
-          "date": "2026-03-26",
-          "stars": 84526
+          "stars": 84524
         }
       ]
     },
@@ -3095,19 +2595,15 @@
       "pros": [],
       "cons": [],
       "analyzed": false,
-      "stars": 310,
+      "stars": 308,
       "created_at": "2026-03-20T13:52:17Z",
-      "repo_updated_at": "2026-03-26T09:12:01Z",
-      "last_collected_at": "2026-03-26T09:15:53Z",
+      "repo_updated_at": "2026-03-26T08:50:52Z",
+      "last_collected_at": "2026-03-26T08:54:51Z",
       "last_updated": "2026-03-26",
       "history": [
         {
           "date": "2026-03-26",
-          "stars": 309
-        },
-        {
-          "date": "2026-03-26",
-          "stars": 310
+          "stars": 308
         }
       ]
     },
@@ -3120,19 +2616,15 @@
       "pros": [],
       "cons": [],
       "analyzed": false,
-      "stars": 29095,
+      "stars": 29094,
       "created_at": "2025-01-19T09:04:43Z",
-      "repo_updated_at": "2026-03-26T09:06:11Z",
-      "last_collected_at": "2026-03-26T09:15:53Z",
+      "repo_updated_at": "2026-03-26T08:06:30Z",
+      "last_collected_at": "2026-03-26T08:54:51Z",
       "last_updated": "2026-03-26",
       "history": [
         {
           "date": "2026-03-26",
           "stars": 29094
-        },
-        {
-          "date": "2026-03-26",
-          "stars": 29095
         }
       ]
     },
@@ -3145,19 +2637,15 @@
       "pros": [],
       "cons": [],
       "analyzed": false,
-      "stars": 47308,
+      "stars": 47261,
       "created_at": "2025-05-07T02:50:19Z",
-      "repo_updated_at": "2026-03-26T09:15:25Z",
-      "last_collected_at": "2026-03-26T09:15:53Z",
+      "repo_updated_at": "2026-03-26T08:53:36Z",
+      "last_collected_at": "2026-03-26T08:54:51Z",
       "last_updated": "2026-03-26",
       "history": [
         {
           "date": "2026-03-26",
-          "stars": 47278
-        },
-        {
-          "date": "2026-03-26",
-          "stars": 47308
+          "stars": 47261
         }
       ]
     },
@@ -3173,13 +2661,9 @@
       "stars": 257,
       "created_at": "2025-06-17T07:41:33Z",
       "repo_updated_at": "2026-03-24T15:24:55Z",
-      "last_collected_at": "2026-03-26T09:15:53Z",
+      "last_collected_at": "2026-03-26T08:54:51Z",
       "last_updated": "2026-03-26",
       "history": [
-        {
-          "date": "2026-03-26",
-          "stars": 257
-        },
         {
           "date": "2026-03-26",
           "stars": 257
@@ -3198,13 +2682,9 @@
       "stars": 3611,
       "created_at": "2025-06-19T22:40:22Z",
       "repo_updated_at": "2026-03-25T01:26:36Z",
-      "last_collected_at": "2026-03-26T09:15:53Z",
+      "last_collected_at": "2026-03-26T08:54:51Z",
       "last_updated": "2026-03-26",
       "history": [
-        {
-          "date": "2026-03-26",
-          "stars": 3611
-        },
         {
           "date": "2026-03-26",
           "stars": 3611
@@ -3223,13 +2703,9 @@
       "stars": 2385,
       "created_at": "2025-12-31T14:01:28Z",
       "repo_updated_at": "2026-03-26T08:49:32Z",
-      "last_collected_at": "2026-03-26T09:15:53Z",
+      "last_collected_at": "2026-03-26T08:54:51Z",
       "last_updated": "2026-03-26",
       "history": [
-        {
-          "date": "2026-03-26",
-          "stars": 2385
-        },
         {
           "date": "2026-03-26",
           "stars": 2385
@@ -3245,19 +2721,15 @@
       "pros": [],
       "cons": [],
       "analyzed": false,
-      "stars": 21992,
+      "stars": 21991,
       "created_at": "2025-05-21T12:14:57Z",
-      "repo_updated_at": "2026-03-26T09:15:37Z",
-      "last_collected_at": "2026-03-26T09:15:53Z",
+      "repo_updated_at": "2026-03-26T08:49:58Z",
+      "last_collected_at": "2026-03-26T08:54:51Z",
       "last_updated": "2026-03-26",
       "history": [
         {
           "date": "2026-03-26",
           "stars": 21991
-        },
-        {
-          "date": "2026-03-26",
-          "stars": 21992
         }
       ]
     },
@@ -3270,19 +2742,15 @@
       "pros": [],
       "cons": [],
       "analyzed": false,
-      "stars": 37645,
+      "stars": 37644,
       "created_at": "2023-03-31T12:12:45Z",
-      "repo_updated_at": "2026-03-26T09:01:46Z",
-      "last_collected_at": "2026-03-26T09:15:53Z",
+      "repo_updated_at": "2026-03-26T08:49:05Z",
+      "last_collected_at": "2026-03-26T08:54:51Z",
       "last_updated": "2026-03-26",
       "history": [
         {
           "date": "2026-03-26",
-          "stars": 37645
-        },
-        {
-          "date": "2026-03-26",
-          "stars": 37645
+          "stars": 37644
         }
       ]
     },
@@ -3298,13 +2766,9 @@
       "stars": 861,
       "created_at": "2026-02-25T05:15:58Z",
       "repo_updated_at": "2026-03-26T05:32:50Z",
-      "last_collected_at": "2026-03-26T09:15:53Z",
+      "last_collected_at": "2026-03-26T08:54:51Z",
       "last_updated": "2026-03-26",
       "history": [
-        {
-          "date": "2026-03-26",
-          "stars": 861
-        },
         {
           "date": "2026-03-26",
           "stars": 861
@@ -3323,13 +2787,9 @@
       "stars": 259,
       "created_at": "2026-03-11T16:09:47Z",
       "repo_updated_at": "2026-03-26T06:27:22Z",
-      "last_collected_at": "2026-03-26T09:15:53Z",
+      "last_collected_at": "2026-03-26T08:54:51Z",
       "last_updated": "2026-03-26",
       "history": [
-        {
-          "date": "2026-03-26",
-          "stars": 259
-        },
         {
           "date": "2026-03-26",
           "stars": 259
@@ -3348,13 +2808,9 @@
       "stars": 227,
       "created_at": "2026-02-13T19:19:42Z",
       "repo_updated_at": "2026-03-25T13:54:32Z",
-      "last_collected_at": "2026-03-26T09:15:53Z",
+      "last_collected_at": "2026-03-26T08:54:51Z",
       "last_updated": "2026-03-26",
       "history": [
-        {
-          "date": "2026-03-26",
-          "stars": 227
-        },
         {
           "date": "2026-03-26",
           "stars": 227
@@ -3372,14 +2828,10 @@
       "analyzed": false,
       "stars": 59374,
       "created_at": "2024-07-06T07:28:10Z",
-      "repo_updated_at": "2026-03-26T09:03:25Z",
-      "last_collected_at": "2026-03-26T09:15:53Z",
+      "repo_updated_at": "2026-03-26T08:41:34Z",
+      "last_collected_at": "2026-03-26T08:54:51Z",
       "last_updated": "2026-03-26",
       "history": [
-        {
-          "date": "2026-03-26",
-          "stars": 59373
-        },
         {
           "date": "2026-03-26",
           "stars": 59374
@@ -3398,13 +2850,9 @@
       "stars": 4911,
       "created_at": "2025-08-25T15:07:31Z",
       "repo_updated_at": "2026-03-26T06:51:13Z",
-      "last_collected_at": "2026-03-26T09:15:53Z",
+      "last_collected_at": "2026-03-26T08:54:51Z",
       "last_updated": "2026-03-26",
       "history": [
-        {
-          "date": "2026-03-26",
-          "stars": 4911
-        },
         {
           "date": "2026-03-26",
           "stars": 4911
@@ -3423,13 +2871,9 @@
       "stars": 365,
       "created_at": "2017-01-20T11:40:41Z",
       "repo_updated_at": "2026-03-19T01:07:03Z",
-      "last_collected_at": "2026-03-26T09:15:53Z",
+      "last_collected_at": "2026-03-26T08:54:51Z",
       "last_updated": "2026-03-26",
       "history": [
-        {
-          "date": "2026-03-26",
-          "stars": 365
-        },
         {
           "date": "2026-03-26",
           "stars": 365
@@ -3445,19 +2889,15 @@
       "pros": [],
       "cons": [],
       "analyzed": false,
-      "stars": 43648,
+      "stars": 43639,
       "created_at": "2025-12-03T01:40:05Z",
-      "repo_updated_at": "2026-03-26T09:15:15Z",
-      "last_collected_at": "2026-03-26T09:15:53Z",
+      "repo_updated_at": "2026-03-26T08:53:31Z",
+      "last_collected_at": "2026-03-26T08:54:51Z",
       "last_updated": "2026-03-26",
       "history": [
         {
           "date": "2026-03-26",
-          "stars": 43642
-        },
-        {
-          "date": "2026-03-26",
-          "stars": 43648
+          "stars": 43639
         }
       ]
     },
@@ -3470,19 +2910,15 @@
       "pros": [],
       "cons": [],
       "analyzed": false,
-      "stars": 12931,
+      "stars": 12929,
       "created_at": "2025-07-02T11:54:47Z",
-      "repo_updated_at": "2026-03-26T08:55:18Z",
-      "last_collected_at": "2026-03-26T09:15:53Z",
+      "repo_updated_at": "2026-03-26T08:53:51Z",
+      "last_collected_at": "2026-03-26T08:54:51Z",
       "last_updated": "2026-03-26",
       "history": [
         {
           "date": "2026-03-26",
-          "stars": 12931
-        },
-        {
-          "date": "2026-03-26",
-          "stars": 12931
+          "stars": 12929
         }
       ]
     },
@@ -3498,13 +2934,9 @@
       "stars": 31567,
       "created_at": "2023-12-08T06:06:09Z",
       "repo_updated_at": "2026-03-26T03:29:37Z",
-      "last_collected_at": "2026-03-26T09:15:53Z",
+      "last_collected_at": "2026-03-26T08:54:51Z",
       "last_updated": "2026-03-26",
       "history": [
-        {
-          "date": "2026-03-26",
-          "stars": 31567
-        },
         {
           "date": "2026-03-26",
           "stars": 31567
@@ -3520,19 +2952,15 @@
       "pros": [],
       "cons": [],
       "analyzed": false,
-      "stars": 16592,
+      "stars": 16586,
       "created_at": "2026-01-15T19:45:23Z",
-      "repo_updated_at": "2026-03-26T09:13:52Z",
-      "last_collected_at": "2026-03-26T09:15:53Z",
+      "repo_updated_at": "2026-03-26T08:50:48Z",
+      "last_collected_at": "2026-03-26T08:54:51Z",
       "last_updated": "2026-03-26",
       "history": [
         {
           "date": "2026-03-26",
-          "stars": 16590
-        },
-        {
-          "date": "2026-03-26",
-          "stars": 16592
+          "stars": 16586
         }
       ]
     },
@@ -3548,13 +2976,9 @@
       "stars": 20324,
       "created_at": "2025-06-26T02:19:21Z",
       "repo_updated_at": "2026-03-26T07:56:15Z",
-      "last_collected_at": "2026-03-26T09:15:53Z",
+      "last_collected_at": "2026-03-26T08:54:51Z",
       "last_updated": "2026-03-26",
       "history": [
-        {
-          "date": "2026-03-26",
-          "stars": 20324
-        },
         {
           "date": "2026-03-26",
           "stars": 20324
@@ -3570,19 +2994,15 @@
       "pros": [],
       "cons": [],
       "analyzed": false,
-      "stars": 47258,
+      "stars": 47256,
       "created_at": "2023-10-27T03:26:59Z",
-      "repo_updated_at": "2026-03-26T09:07:15Z",
-      "last_collected_at": "2026-03-26T09:15:53Z",
+      "repo_updated_at": "2026-03-26T08:37:23Z",
+      "last_collected_at": "2026-03-26T08:54:51Z",
       "last_updated": "2026-03-26",
       "history": [
         {
           "date": "2026-03-26",
           "stars": 47256
-        },
-        {
-          "date": "2026-03-26",
-          "stars": 47258
         }
       ]
     },
@@ -3598,13 +3018,9 @@
       "stars": 223,
       "created_at": "2026-02-06T18:08:01Z",
       "repo_updated_at": "2026-03-25T16:40:39Z",
-      "last_collected_at": "2026-03-26T09:15:53Z",
+      "last_collected_at": "2026-03-26T08:54:51Z",
       "last_updated": "2026-03-26",
       "history": [
-        {
-          "date": "2026-03-26",
-          "stars": 223
-        },
         {
           "date": "2026-03-26",
           "stars": 223
@@ -3620,19 +3036,15 @@
       "pros": [],
       "cons": [],
       "analyzed": false,
-      "stars": 16436,
+      "stars": 16435,
       "created_at": "2025-06-07T12:15:57Z",
-      "repo_updated_at": "2026-03-26T09:01:21Z",
-      "last_collected_at": "2026-03-26T09:15:53Z",
+      "repo_updated_at": "2026-03-26T08:16:37Z",
+      "last_collected_at": "2026-03-26T08:54:51Z",
       "last_updated": "2026-03-26",
       "history": [
         {
           "date": "2026-03-26",
-          "stars": 16436
-        },
-        {
-          "date": "2026-03-26",
-          "stars": 16436
+          "stars": 16435
         }
       ]
     },
@@ -3648,13 +3060,9 @@
       "stars": 3679,
       "created_at": "2025-05-23T23:18:43Z",
       "repo_updated_at": "2026-03-26T04:10:01Z",
-      "last_collected_at": "2026-03-26T09:15:53Z",
+      "last_collected_at": "2026-03-26T08:54:51Z",
       "last_updated": "2026-03-26",
       "history": [
-        {
-          "date": "2026-03-26",
-          "stars": 3679
-        },
         {
           "date": "2026-03-26",
           "stars": 3679
@@ -3673,13 +3081,9 @@
       "stars": 72274,
       "created_at": "2022-12-16T16:04:50Z",
       "repo_updated_at": "2026-03-26T08:50:19Z",
-      "last_collected_at": "2026-03-26T09:15:53Z",
+      "last_collected_at": "2026-03-26T08:54:51Z",
       "last_updated": "2026-03-26",
       "history": [
-        {
-          "date": "2026-03-26",
-          "stars": 72274
-        },
         {
           "date": "2026-03-26",
           "stars": 72274
@@ -3698,13 +3102,9 @@
       "stars": 933,
       "created_at": "2018-03-19T16:47:54Z",
       "repo_updated_at": "2026-03-25T22:55:19Z",
-      "last_collected_at": "2026-03-26T09:15:53Z",
+      "last_collected_at": "2026-03-26T08:54:51Z",
       "last_updated": "2026-03-26",
       "history": [
-        {
-          "date": "2026-03-26",
-          "stars": 933
-        },
         {
           "date": "2026-03-26",
           "stars": 933
@@ -3723,13 +3123,9 @@
       "stars": 34968,
       "created_at": "2023-02-12T01:06:52Z",
       "repo_updated_at": "2026-03-26T08:53:55Z",
-      "last_collected_at": "2026-03-26T09:15:53Z",
+      "last_collected_at": "2026-03-26T08:54:51Z",
       "last_updated": "2026-03-26",
       "history": [
-        {
-          "date": "2026-03-26",
-          "stars": 34968
-        },
         {
           "date": "2026-03-26",
           "stars": 34968
@@ -3745,19 +3141,15 @@
       "pros": [],
       "cons": [],
       "analyzed": false,
-      "stars": 23595,
+      "stars": 23592,
       "created_at": "2025-07-04T01:26:26Z",
-      "repo_updated_at": "2026-03-26T09:12:47Z",
-      "last_collected_at": "2026-03-26T09:15:53Z",
+      "repo_updated_at": "2026-03-26T08:34:55Z",
+      "last_collected_at": "2026-03-26T08:54:51Z",
       "last_updated": "2026-03-26",
       "history": [
         {
           "date": "2026-03-26",
-          "stars": 23593
-        },
-        {
-          "date": "2026-03-26",
-          "stars": 23595
+          "stars": 23592
         }
       ]
     },
@@ -3772,14 +3164,10 @@
       "analyzed": false,
       "stars": 24619,
       "created_at": "2019-11-14T09:05:28Z",
-      "repo_updated_at": "2026-03-26T09:12:30Z",
-      "last_collected_at": "2026-03-26T09:15:53Z",
+      "repo_updated_at": "2026-03-26T06:00:10Z",
+      "last_collected_at": "2026-03-26T08:54:51Z",
       "last_updated": "2026-03-26",
       "history": [
-        {
-          "date": "2026-03-26",
-          "stars": 24619
-        },
         {
           "date": "2026-03-26",
           "stars": 24619
@@ -3798,13 +3186,9 @@
       "stars": 9341,
       "created_at": "2025-10-30T03:12:16Z",
       "repo_updated_at": "2026-03-26T05:34:07Z",
-      "last_collected_at": "2026-03-26T09:15:53Z",
+      "last_collected_at": "2026-03-26T08:54:51Z",
       "last_updated": "2026-03-26",
       "history": [
-        {
-          "date": "2026-03-26",
-          "stars": 9341
-        },
         {
           "date": "2026-03-26",
           "stars": 9341
@@ -3823,13 +3207,9 @@
       "stars": 272,
       "created_at": "2020-04-16T10:46:06Z",
       "repo_updated_at": "2026-03-23T18:34:11Z",
-      "last_collected_at": "2026-03-26T09:15:53Z",
+      "last_collected_at": "2026-03-26T08:54:51Z",
       "last_updated": "2026-03-26",
       "history": [
-        {
-          "date": "2026-03-26",
-          "stars": 272
-        },
         {
           "date": "2026-03-26",
           "stars": 272
@@ -3848,13 +3228,9 @@
       "stars": 212,
       "created_at": "2010-06-19T19:01:45Z",
       "repo_updated_at": "2026-02-25T19:52:45Z",
-      "last_collected_at": "2026-03-26T09:15:53Z",
+      "last_collected_at": "2026-03-26T08:54:51Z",
       "last_updated": "2026-03-26",
       "history": [
-        {
-          "date": "2026-03-26",
-          "stars": 212
-        },
         {
           "date": "2026-03-26",
           "stars": 212
@@ -3873,13 +3249,9 @@
       "stars": 5619,
       "created_at": "2025-03-05T18:35:07Z",
       "repo_updated_at": "2026-03-26T08:42:26Z",
-      "last_collected_at": "2026-03-26T09:15:53Z",
+      "last_collected_at": "2026-03-26T08:54:51Z",
       "last_updated": "2026-03-26",
       "history": [
-        {
-          "date": "2026-03-26",
-          "stars": 5619
-        },
         {
           "date": "2026-03-26",
           "stars": 5619
@@ -3898,13 +3270,9 @@
       "stars": 960,
       "created_at": "2019-05-04T20:27:23Z",
       "repo_updated_at": "2026-03-25T13:20:38Z",
-      "last_collected_at": "2026-03-26T09:15:53Z",
+      "last_collected_at": "2026-03-26T08:54:51Z",
       "last_updated": "2026-03-26",
       "history": [
-        {
-          "date": "2026-03-26",
-          "stars": 960
-        },
         {
           "date": "2026-03-26",
           "stars": 960
@@ -3923,13 +3291,9 @@
       "stars": 26870,
       "created_at": "2023-06-19T00:20:06Z",
       "repo_updated_at": "2026-03-26T08:52:51Z",
-      "last_collected_at": "2026-03-26T09:15:53Z",
+      "last_collected_at": "2026-03-26T08:54:51Z",
       "last_updated": "2026-03-26",
       "history": [
-        {
-          "date": "2026-03-26",
-          "stars": 26870
-        },
         {
           "date": "2026-03-26",
           "stars": 26870
@@ -3948,13 +3312,9 @@
       "stars": 20577,
       "created_at": "2025-05-08T18:34:01Z",
       "repo_updated_at": "2026-03-26T08:46:55Z",
-      "last_collected_at": "2026-03-26T09:15:53Z",
+      "last_collected_at": "2026-03-26T08:54:51Z",
       "last_updated": "2026-03-26",
       "history": [
-        {
-          "date": "2026-03-26",
-          "stars": 20577
-        },
         {
           "date": "2026-03-26",
           "stars": 20577
@@ -3973,13 +3333,9 @@
       "stars": 3763,
       "created_at": "2026-01-02T17:13:58Z",
       "repo_updated_at": "2026-03-26T08:45:35Z",
-      "last_collected_at": "2026-03-26T09:15:53Z",
+      "last_collected_at": "2026-03-26T08:54:51Z",
       "last_updated": "2026-03-26",
       "history": [
-        {
-          "date": "2026-03-26",
-          "stars": 3763
-        },
         {
           "date": "2026-03-26",
           "stars": 3763
@@ -3998,13 +3354,9 @@
       "stars": 501,
       "created_at": "2016-07-04T10:41:07Z",
       "repo_updated_at": "2026-03-23T12:57:48Z",
-      "last_collected_at": "2026-03-26T09:15:53Z",
+      "last_collected_at": "2026-03-26T08:54:51Z",
       "last_updated": "2026-03-26",
       "history": [
-        {
-          "date": "2026-03-26",
-          "stars": 501
-        },
         {
           "date": "2026-03-26",
           "stars": 501
@@ -4023,13 +3375,9 @@
       "stars": 3726,
       "created_at": "2025-01-18T20:39:51Z",
       "repo_updated_at": "2026-03-26T08:53:55Z",
-      "last_collected_at": "2026-03-26T09:15:53Z",
+      "last_collected_at": "2026-03-26T08:54:51Z",
       "last_updated": "2026-03-26",
       "history": [
-        {
-          "date": "2026-03-26",
-          "stars": 3726
-        },
         {
           "date": "2026-03-26",
           "stars": 3726
@@ -4048,13 +3396,9 @@
       "stars": 311,
       "created_at": "2021-02-22T21:07:21Z",
       "repo_updated_at": "2026-03-11T16:41:41Z",
-      "last_collected_at": "2026-03-26T09:15:53Z",
+      "last_collected_at": "2026-03-26T08:54:51Z",
       "last_updated": "2026-03-26",
       "history": [
-        {
-          "date": "2026-03-26",
-          "stars": 311
-        },
         {
           "date": "2026-03-26",
           "stars": 311
@@ -4070,19 +3414,15 @@
       "pros": [],
       "cons": [],
       "analyzed": false,
-      "stars": 33714,
+      "stars": 33701,
       "created_at": "2025-08-04T14:16:16Z",
-      "repo_updated_at": "2026-03-26T09:15:39Z",
-      "last_collected_at": "2026-03-26T09:15:53Z",
+      "repo_updated_at": "2026-03-26T08:53:07Z",
+      "last_collected_at": "2026-03-26T08:54:51Z",
       "last_updated": "2026-03-26",
       "history": [
         {
           "date": "2026-03-26",
-          "stars": 33705
-        },
-        {
-          "date": "2026-03-26",
-          "stars": 33714
+          "stars": 33701
         }
       ]
     },
@@ -4098,13 +3438,9 @@
       "stars": 4405,
       "created_at": "2026-01-04T15:56:26Z",
       "repo_updated_at": "2026-03-26T08:29:51Z",
-      "last_collected_at": "2026-03-26T09:15:53Z",
+      "last_collected_at": "2026-03-26T08:54:51Z",
       "last_updated": "2026-03-26",
       "history": [
-        {
-          "date": "2026-03-26",
-          "stars": 4405
-        },
         {
           "date": "2026-03-26",
           "stars": 4405
@@ -4123,13 +3459,9 @@
       "stars": 497,
       "created_at": "2026-01-30T11:29:46Z",
       "repo_updated_at": "2026-03-26T07:21:15Z",
-      "last_collected_at": "2026-03-26T09:15:53Z",
+      "last_collected_at": "2026-03-26T08:54:51Z",
       "last_updated": "2026-03-26",
       "history": [
-        {
-          "date": "2026-03-26",
-          "stars": 497
-        },
         {
           "date": "2026-03-26",
           "stars": 497
@@ -4148,13 +3480,9 @@
       "stars": 8192,
       "created_at": "2025-08-27T16:03:45Z",
       "repo_updated_at": "2026-03-26T08:39:00Z",
-      "last_collected_at": "2026-03-26T09:15:53Z",
+      "last_collected_at": "2026-03-26T08:54:51Z",
       "last_updated": "2026-03-26",
       "history": [
-        {
-          "date": "2026-03-26",
-          "stars": 8192
-        },
         {
           "date": "2026-03-26",
           "stars": 8192
@@ -4170,19 +3498,15 @@
       "pros": [],
       "cons": [],
       "analyzed": false,
-      "stars": 48514,
+      "stars": 48473,
       "created_at": "2026-03-11T21:22:45Z",
-      "repo_updated_at": "2026-03-26T09:15:37Z",
-      "last_collected_at": "2026-03-26T09:15:53Z",
+      "repo_updated_at": "2026-03-26T08:54:36Z",
+      "last_collected_at": "2026-03-26T08:54:51Z",
       "last_updated": "2026-03-26",
       "history": [
         {
           "date": "2026-03-26",
-          "stars": 48494
-        },
-        {
-          "date": "2026-03-26",
-          "stars": 48514
+          "stars": 48473
         }
       ]
     },
@@ -4195,19 +3519,15 @@
       "pros": [],
       "cons": [],
       "analyzed": false,
-      "stars": 24226,
+      "stars": 24225,
       "created_at": "2024-08-08T22:08:30Z",
-      "repo_updated_at": "2026-03-26T08:55:49Z",
-      "last_collected_at": "2026-03-26T09:15:53Z",
+      "repo_updated_at": "2026-03-26T08:53:05Z",
+      "last_collected_at": "2026-03-26T08:54:51Z",
       "last_updated": "2026-03-26",
       "history": [
         {
           "date": "2026-03-26",
-          "stars": 24226
-        },
-        {
-          "date": "2026-03-26",
-          "stars": 24226
+          "stars": 24225
         }
       ]
     },
@@ -4223,13 +3543,9 @@
       "stars": 5335,
       "created_at": "2025-07-24T03:56:29Z",
       "repo_updated_at": "2026-03-26T08:14:44Z",
-      "last_collected_at": "2026-03-26T09:15:53Z",
+      "last_collected_at": "2026-03-26T08:54:51Z",
       "last_updated": "2026-03-26",
       "history": [
-        {
-          "date": "2026-03-26",
-          "stars": 5335
-        },
         {
           "date": "2026-03-26",
           "stars": 5335
@@ -4245,19 +3561,15 @@
       "pros": [],
       "cons": [],
       "analyzed": false,
-      "stars": 27102,
+      "stars": 27099,
       "created_at": "2025-06-11T16:57:39Z",
-      "repo_updated_at": "2026-03-26T09:12:16Z",
-      "last_collected_at": "2026-03-26T09:15:53Z",
+      "repo_updated_at": "2026-03-26T08:54:04Z",
+      "last_collected_at": "2026-03-26T08:54:51Z",
       "last_updated": "2026-03-26",
       "history": [
         {
           "date": "2026-03-26",
-          "stars": 27101
-        },
-        {
-          "date": "2026-03-26",
-          "stars": 27102
+          "stars": 27099
         }
       ]
     },
@@ -4270,19 +3582,15 @@
       "pros": [],
       "cons": [],
       "analyzed": false,
-      "stars": 9583,
+      "stars": 9584,
       "created_at": "2023-01-06T09:22:30Z",
-      "repo_updated_at": "2026-03-26T08:57:34Z",
-      "last_collected_at": "2026-03-26T09:15:53Z",
+      "repo_updated_at": "2026-03-26T08:43:14Z",
+      "last_collected_at": "2026-03-26T08:54:51Z",
       "last_updated": "2026-03-26",
       "history": [
         {
           "date": "2026-03-26",
-          "stars": 9583
-        },
-        {
-          "date": "2026-03-26",
-          "stars": 9583
+          "stars": 9584
         }
       ]
     },
@@ -4298,13 +3606,9 @@
       "stars": 4167,
       "created_at": "2025-08-12T17:40:41Z",
       "repo_updated_at": "2026-03-26T08:47:15Z",
-      "last_collected_at": "2026-03-26T09:15:53Z",
+      "last_collected_at": "2026-03-26T08:54:51Z",
       "last_updated": "2026-03-26",
       "history": [
-        {
-          "date": "2026-03-26",
-          "stars": 4167
-        },
         {
           "date": "2026-03-26",
           "stars": 4167
@@ -4320,19 +3624,15 @@
       "pros": [],
       "cons": [],
       "analyzed": false,
-      "stars": 99137,
+      "stars": 99138,
       "created_at": "2025-04-17T17:04:31Z",
-      "repo_updated_at": "2026-03-26T09:06:28Z",
-      "last_collected_at": "2026-03-26T09:15:53Z",
+      "repo_updated_at": "2026-03-26T08:49:55Z",
+      "last_collected_at": "2026-03-26T08:54:51Z",
       "last_updated": "2026-03-26",
       "history": [
         {
           "date": "2026-03-26",
           "stars": 99138
-        },
-        {
-          "date": "2026-03-26",
-          "stars": 99137
         }
       ]
     },
@@ -4348,13 +3648,9 @@
       "stars": 7240,
       "created_at": "2025-05-05T17:16:26Z",
       "repo_updated_at": "2026-03-26T06:58:38Z",
-      "last_collected_at": "2026-03-26T09:15:53Z",
+      "last_collected_at": "2026-03-26T08:54:51Z",
       "last_updated": "2026-03-26",
       "history": [
-        {
-          "date": "2026-03-26",
-          "stars": 7240
-        },
         {
           "date": "2026-03-26",
           "stars": 7240
@@ -4373,13 +3669,9 @@
       "stars": 18598,
       "created_at": "2025-04-01T20:44:40Z",
       "repo_updated_at": "2026-03-26T08:47:58Z",
-      "last_collected_at": "2026-03-26T09:15:53Z",
+      "last_collected_at": "2026-03-26T08:54:51Z",
       "last_updated": "2026-03-26",
       "history": [
-        {
-          "date": "2026-03-26",
-          "stars": 18598
-        },
         {
           "date": "2026-03-26",
           "stars": 18598
@@ -4398,13 +3690,9 @@
       "stars": 357,
       "created_at": "2020-05-06T15:17:03Z",
       "repo_updated_at": "2026-03-23T07:56:00Z",
-      "last_collected_at": "2026-03-26T09:15:53Z",
+      "last_collected_at": "2026-03-26T08:54:51Z",
       "last_updated": "2026-03-26",
       "history": [
-        {
-          "date": "2026-03-26",
-          "stars": 357
-        },
         {
           "date": "2026-03-26",
           "stars": 357
@@ -4420,19 +3708,15 @@
       "pros": [],
       "cons": [],
       "analyzed": false,
-      "stars": 22580,
+      "stars": 22579,
       "created_at": "2026-03-02T19:46:06Z",
-      "repo_updated_at": "2026-03-26T09:12:16Z",
-      "last_collected_at": "2026-03-26T09:15:53Z",
+      "repo_updated_at": "2026-03-26T08:50:31Z",
+      "last_collected_at": "2026-03-26T08:54:51Z",
       "last_updated": "2026-03-26",
       "history": [
         {
           "date": "2026-03-26",
           "stars": 22579
-        },
-        {
-          "date": "2026-03-26",
-          "stars": 22580
         }
       ]
     },
@@ -4447,14 +3731,10 @@
       "analyzed": false,
       "stars": 4247,
       "created_at": "2023-03-24T16:25:01Z",
-      "repo_updated_at": "2026-03-26T09:02:20Z",
-      "last_collected_at": "2026-03-26T09:15:53Z",
+      "repo_updated_at": "2026-03-26T08:52:19Z",
+      "last_collected_at": "2026-03-26T08:54:51Z",
       "last_updated": "2026-03-26",
       "history": [
-        {
-          "date": "2026-03-26",
-          "stars": 4247
-        },
         {
           "date": "2026-03-26",
           "stars": 4247
@@ -4473,13 +3753,9 @@
       "stars": 6556,
       "created_at": "2025-03-16T16:45:37Z",
       "repo_updated_at": "2026-03-26T07:30:02Z",
-      "last_collected_at": "2026-03-26T09:15:53Z",
+      "last_collected_at": "2026-03-26T08:54:51Z",
       "last_updated": "2026-03-26",
       "history": [
-        {
-          "date": "2026-03-26",
-          "stars": 6556
-        },
         {
           "date": "2026-03-26",
           "stars": 6556
@@ -4498,13 +3774,9 @@
       "stars": 665,
       "created_at": "2026-02-11T22:23:23Z",
       "repo_updated_at": "2026-03-26T04:46:38Z",
-      "last_collected_at": "2026-03-26T09:15:53Z",
+      "last_collected_at": "2026-03-26T08:54:51Z",
       "last_updated": "2026-03-26",
       "history": [
-        {
-          "date": "2026-03-26",
-          "stars": 665
-        },
         {
           "date": "2026-03-26",
           "stars": 665
@@ -4520,19 +3792,15 @@
       "pros": [],
       "cons": [],
       "analyzed": false,
-      "stars": 42143,
+      "stars": 42127,
       "created_at": "2025-12-14T14:17:12Z",
-      "repo_updated_at": "2026-03-26T09:13:22Z",
-      "last_collected_at": "2026-03-26T09:15:53Z",
+      "repo_updated_at": "2026-03-26T08:53:15Z",
+      "last_collected_at": "2026-03-26T08:54:51Z",
       "last_updated": "2026-03-26",
       "history": [
         {
           "date": "2026-03-26",
-          "stars": 42134
-        },
-        {
-          "date": "2026-03-26",
-          "stars": 42143
+          "stars": 42127
         }
       ]
     },
@@ -4548,13 +3816,9 @@
       "stars": 237,
       "created_at": "2023-03-08T11:23:06Z",
       "repo_updated_at": "2026-03-25T21:12:22Z",
-      "last_collected_at": "2026-03-26T09:15:53Z",
+      "last_collected_at": "2026-03-26T08:54:51Z",
       "last_updated": "2026-03-26",
       "history": [
-        {
-          "date": "2026-03-26",
-          "stars": 237
-        },
         {
           "date": "2026-03-26",
           "stars": 237
@@ -4570,19 +3834,15 @@
       "pros": [],
       "cons": [],
       "analyzed": false,
-      "stars": 34061,
+      "stars": 34059,
       "created_at": "2014-02-07T07:54:44Z",
-      "repo_updated_at": "2026-03-26T09:04:25Z",
-      "last_collected_at": "2026-03-26T09:15:53Z",
+      "repo_updated_at": "2026-03-26T08:53:38Z",
+      "last_collected_at": "2026-03-26T08:54:51Z",
       "last_updated": "2026-03-26",
       "history": [
         {
           "date": "2026-03-26",
-          "stars": 34060
-        },
-        {
-          "date": "2026-03-26",
-          "stars": 34061
+          "stars": 34059
         }
       ]
     },
@@ -4598,13 +3858,9 @@
       "stars": 207,
       "created_at": "2021-11-09T19:15:39Z",
       "repo_updated_at": "2026-03-19T20:47:48Z",
-      "last_collected_at": "2026-03-26T09:15:53Z",
+      "last_collected_at": "2026-03-26T08:54:51Z",
       "last_updated": "2026-03-26",
       "history": [
-        {
-          "date": "2026-03-26",
-          "stars": 207
-        },
         {
           "date": "2026-03-26",
           "stars": 207
@@ -4620,19 +3876,15 @@
       "pros": [],
       "cons": [],
       "analyzed": false,
-      "stars": 32559,
+      "stars": 32555,
       "created_at": "2025-04-19T20:55:59Z",
-      "repo_updated_at": "2026-03-26T09:15:11Z",
-      "last_collected_at": "2026-03-26T09:15:53Z",
+      "repo_updated_at": "2026-03-26T08:53:28Z",
+      "last_collected_at": "2026-03-26T08:54:51Z",
       "last_updated": "2026-03-26",
       "history": [
         {
           "date": "2026-03-26",
-          "stars": 32557
-        },
-        {
-          "date": "2026-03-26",
-          "stars": 32559
+          "stars": 32555
         }
       ]
     },
@@ -4645,19 +3897,15 @@
       "pros": [],
       "cons": [],
       "analyzed": false,
-      "stars": 27214,
+      "stars": 27213,
       "created_at": "2025-01-16T19:50:22Z",
-      "repo_updated_at": "2026-03-26T09:07:22Z",
-      "last_collected_at": "2026-03-26T09:15:53Z",
+      "repo_updated_at": "2026-03-26T08:03:54Z",
+      "last_collected_at": "2026-03-26T08:54:51Z",
       "last_updated": "2026-03-26",
       "history": [
         {
           "date": "2026-03-26",
           "stars": 27213
-        },
-        {
-          "date": "2026-03-26",
-          "stars": 27214
         }
       ]
     },
@@ -4673,13 +3921,9 @@
       "stars": 26277,
       "created_at": "2024-12-05T11:28:04Z",
       "repo_updated_at": "2026-03-26T08:40:00Z",
-      "last_collected_at": "2026-03-26T09:15:53Z",
+      "last_collected_at": "2026-03-26T08:54:51Z",
       "last_updated": "2026-03-26",
       "history": [
-        {
-          "date": "2026-03-26",
-          "stars": 26277
-        },
         {
           "date": "2026-03-26",
           "stars": 26277
@@ -4698,13 +3942,9 @@
       "stars": 48972,
       "created_at": "2013-03-10T06:00:31Z",
       "repo_updated_at": "2026-03-26T06:44:47Z",
-      "last_collected_at": "2026-03-26T09:15:53Z",
+      "last_collected_at": "2026-03-26T08:54:51Z",
       "last_updated": "2026-03-26",
       "history": [
-        {
-          "date": "2026-03-26",
-          "stars": 48972
-        },
         {
           "date": "2026-03-26",
           "stars": 48972
@@ -4723,13 +3963,9 @@
       "stars": 10023,
       "created_at": "2024-08-05T21:26:44Z",
       "repo_updated_at": "2026-03-26T08:54:35Z",
-      "last_collected_at": "2026-03-26T09:15:53Z",
+      "last_collected_at": "2026-03-26T08:54:51Z",
       "last_updated": "2026-03-26",
       "history": [
-        {
-          "date": "2026-03-26",
-          "stars": 10023
-        },
         {
           "date": "2026-03-26",
           "stars": 10023
@@ -4745,19 +3981,15 @@
       "pros": [],
       "cons": [],
       "analyzed": false,
-      "stars": 20156,
+      "stars": 20153,
       "created_at": "2025-08-07T10:29:51Z",
-      "repo_updated_at": "2026-03-26T09:05:12Z",
-      "last_collected_at": "2026-03-26T09:15:53Z",
+      "repo_updated_at": "2026-03-26T08:38:23Z",
+      "last_collected_at": "2026-03-26T08:54:51Z",
       "last_updated": "2026-03-26",
       "history": [
         {
           "date": "2026-03-26",
-          "stars": 20155
-        },
-        {
-          "date": "2026-03-26",
-          "stars": 20156
+          "stars": 20153
         }
       ]
     },
@@ -4770,19 +4002,15 @@
       "pros": [],
       "cons": [],
       "analyzed": false,
-      "stars": 76189,
+      "stars": 76187,
       "created_at": "2023-12-12T06:13:13Z",
-      "repo_updated_at": "2026-03-26T09:00:30Z",
-      "last_collected_at": "2026-03-26T09:15:53Z",
+      "repo_updated_at": "2026-03-26T08:45:55Z",
+      "last_collected_at": "2026-03-26T08:54:51Z",
       "last_updated": "2026-03-26",
       "history": [
         {
           "date": "2026-03-26",
-          "stars": 76189
-        },
-        {
-          "date": "2026-03-26",
-          "stars": 76189
+          "stars": 76187
         }
       ]
     },
@@ -4795,19 +4023,15 @@
       "pros": [],
       "cons": [],
       "analyzed": false,
-      "stars": 13465,
+      "stars": 13448,
       "created_at": "2026-01-02T01:35:07Z",
-      "repo_updated_at": "2026-03-26T09:15:14Z",
-      "last_collected_at": "2026-03-26T09:15:53Z",
+      "repo_updated_at": "2026-03-26T08:54:05Z",
+      "last_collected_at": "2026-03-26T08:54:51Z",
       "last_updated": "2026-03-26",
       "history": [
         {
           "date": "2026-03-26",
-          "stars": 13456
-        },
-        {
-          "date": "2026-03-26",
-          "stars": 13465
+          "stars": 13448
         }
       ]
     },
@@ -4823,13 +4047,9 @@
       "stars": 20984,
       "created_at": "2023-07-23T08:26:49Z",
       "repo_updated_at": "2026-03-26T08:19:49Z",
-      "last_collected_at": "2026-03-26T09:15:53Z",
+      "last_collected_at": "2026-03-26T08:54:51Z",
       "last_updated": "2026-03-26",
       "history": [
-        {
-          "date": "2026-03-26",
-          "stars": 20984
-        },
         {
           "date": "2026-03-26",
           "stars": 20984
@@ -4848,13 +4068,9 @@
       "stars": 211,
       "created_at": "2025-02-18T18:05:01Z",
       "repo_updated_at": "2026-03-25T17:10:14Z",
-      "last_collected_at": "2026-03-26T09:15:53Z",
+      "last_collected_at": "2026-03-26T08:54:51Z",
       "last_updated": "2026-03-26",
       "history": [
-        {
-          "date": "2026-03-26",
-          "stars": 211
-        },
         {
           "date": "2026-03-26",
           "stars": 211
@@ -4873,13 +4089,9 @@
       "stars": 1507,
       "created_at": "2020-10-15T15:17:10Z",
       "repo_updated_at": "2026-03-25T01:34:26Z",
-      "last_collected_at": "2026-03-26T09:15:53Z",
+      "last_collected_at": "2026-03-26T08:54:51Z",
       "last_updated": "2026-03-26",
       "history": [
-        {
-          "date": "2026-03-26",
-          "stars": 1507
-        },
         {
           "date": "2026-03-26",
           "stars": 1507
@@ -4898,13 +4110,9 @@
       "stars": 6325,
       "created_at": "2025-07-20T07:05:56Z",
       "repo_updated_at": "2026-03-26T08:47:47Z",
-      "last_collected_at": "2026-03-26T09:15:53Z",
+      "last_collected_at": "2026-03-26T08:54:51Z",
       "last_updated": "2026-03-26",
       "history": [
-        {
-          "date": "2026-03-26",
-          "stars": 6325
-        },
         {
           "date": "2026-03-26",
           "stars": 6325
@@ -4923,13 +4131,9 @@
       "stars": 229,
       "created_at": "2013-08-19T10:50:54Z",
       "repo_updated_at": "2025-12-04T10:05:16Z",
-      "last_collected_at": "2026-03-26T09:15:53Z",
+      "last_collected_at": "2026-03-26T08:54:51Z",
       "last_updated": "2026-03-26",
       "history": [
-        {
-          "date": "2026-03-26",
-          "stars": 229
-        },
         {
           "date": "2026-03-26",
           "stars": 229
@@ -4945,19 +4149,15 @@
       "pros": [],
       "cons": [],
       "analyzed": false,
-      "stars": 56595,
+      "stars": 56573,
       "created_at": "2026-03-06T22:00:43Z",
-      "repo_updated_at": "2026-03-26T09:15:28Z",
-      "last_collected_at": "2026-03-26T09:15:53Z",
+      "repo_updated_at": "2026-03-26T08:54:28Z",
+      "last_collected_at": "2026-03-26T08:54:51Z",
       "last_updated": "2026-03-26",
       "history": [
         {
           "date": "2026-03-26",
-          "stars": 56578
-        },
-        {
-          "date": "2026-03-26",
-          "stars": 56595
+          "stars": 56573
         }
       ]
     },
@@ -4970,19 +4170,15 @@
       "pros": [],
       "cons": [],
       "analyzed": false,
-      "stars": 260,
+      "stars": 259,
       "created_at": "2026-01-07T13:23:28Z",
-      "repo_updated_at": "2026-03-26T08:58:46Z",
-      "last_collected_at": "2026-03-26T09:15:53Z",
+      "repo_updated_at": "2026-03-26T06:08:12Z",
+      "last_collected_at": "2026-03-26T08:54:51Z",
       "last_updated": "2026-03-26",
       "history": [
         {
           "date": "2026-03-26",
-          "stars": 260
-        },
-        {
-          "date": "2026-03-26",
-          "stars": 260
+          "stars": 259
         }
       ]
     },
@@ -4998,13 +4194,9 @@
       "stars": 33637,
       "created_at": "2021-08-16T01:48:44Z",
       "repo_updated_at": "2026-03-26T08:45:12Z",
-      "last_collected_at": "2026-03-26T09:15:53Z",
+      "last_collected_at": "2026-03-26T08:54:51Z",
       "last_updated": "2026-03-26",
       "history": [
-        {
-          "date": "2026-03-26",
-          "stars": 33637
-        },
         {
           "date": "2026-03-26",
           "stars": 33637
@@ -5023,13 +4215,9 @@
       "stars": 5287,
       "created_at": "2024-09-01T13:42:47Z",
       "repo_updated_at": "2026-03-26T06:17:33Z",
-      "last_collected_at": "2026-03-26T09:15:53Z",
+      "last_collected_at": "2026-03-26T08:54:51Z",
       "last_updated": "2026-03-26",
       "history": [
-        {
-          "date": "2026-03-26",
-          "stars": 5287
-        },
         {
           "date": "2026-03-26",
           "stars": 5287
@@ -5045,19 +4233,15 @@
       "pros": [],
       "cons": [],
       "analyzed": false,
-      "stars": 5964,
+      "stars": 5963,
       "created_at": "2023-07-12T08:12:04Z",
-      "repo_updated_at": "2026-03-26T09:06:33Z",
-      "last_collected_at": "2026-03-26T09:15:53Z",
+      "repo_updated_at": "2026-03-24T16:22:37Z",
+      "last_collected_at": "2026-03-26T08:54:51Z",
       "last_updated": "2026-03-26",
       "history": [
         {
           "date": "2026-03-26",
           "stars": 5963
-        },
-        {
-          "date": "2026-03-26",
-          "stars": 5964
         }
       ]
     },
@@ -5070,19 +4254,15 @@
       "pros": [],
       "cons": [],
       "analyzed": false,
-      "stars": 338,
+      "stars": 337,
       "created_at": "2022-09-05T05:51:02Z",
-      "repo_updated_at": "2026-03-26T08:59:15Z",
-      "last_collected_at": "2026-03-26T09:15:53Z",
+      "repo_updated_at": "2026-03-26T07:24:28Z",
+      "last_collected_at": "2026-03-26T08:54:51Z",
       "last_updated": "2026-03-26",
       "history": [
         {
           "date": "2026-03-26",
-          "stars": 338
-        },
-        {
-          "date": "2026-03-26",
-          "stars": 338
+          "stars": 337
         }
       ]
     },
@@ -5095,19 +4275,15 @@
       "pros": [],
       "cons": [],
       "analyzed": false,
-      "stars": 17562,
+      "stars": 17561,
       "created_at": "2025-07-27T23:07:53Z",
-      "repo_updated_at": "2026-03-26T09:11:09Z",
-      "last_collected_at": "2026-03-26T09:15:53Z",
+      "repo_updated_at": "2026-03-26T08:46:54Z",
+      "last_collected_at": "2026-03-26T08:54:51Z",
       "last_updated": "2026-03-26",
       "history": [
         {
           "date": "2026-03-26",
           "stars": 17561
-        },
-        {
-          "date": "2026-03-26",
-          "stars": 17562
         }
       ]
     },
@@ -5116,23 +4292,19 @@
       "owner": "langchain-ai",
       "url": "https://github.com/langchain-ai/langchain",
       "description": "The agent engineering platform",
-      "description_zh": "** LangChain 是一个用于构建 LLM 应用的开源框架，提供组件化和链式调用能力，简化 AI 应用开发。**",
+      "description_zh": "",
       "pros": [],
       "cons": [],
       "analyzed": true,
-      "stars": 131142,
+      "stars": 131138,
       "created_at": "2022-10-17T02:58:36Z",
-      "repo_updated_at": "2026-03-26T09:15:08Z",
-      "last_collected_at": "2026-03-26T09:15:53Z",
+      "repo_updated_at": "2026-03-26T08:44:41Z",
+      "last_collected_at": "2026-03-26T08:54:51Z",
       "last_updated": "2026-03-26",
       "history": [
         {
           "date": "2026-03-26",
-          "stars": 131140
-        },
-        {
-          "date": "2026-03-26",
-          "stars": 131142
+          "stars": 131138
         }
       ]
     },
@@ -5145,19 +4317,15 @@
       "pros": [],
       "cons": [],
       "analyzed": false,
-      "stars": 27525,
+      "stars": 27522,
       "created_at": "2023-08-09T18:33:12Z",
-      "repo_updated_at": "2026-03-26T09:15:21Z",
-      "last_collected_at": "2026-03-26T09:15:53Z",
+      "repo_updated_at": "2026-03-26T08:54:09Z",
+      "last_collected_at": "2026-03-26T08:54:51Z",
       "last_updated": "2026-03-26",
       "history": [
         {
           "date": "2026-03-26",
-          "stars": 27521
-        },
-        {
-          "date": "2026-03-26",
-          "stars": 27525
+          "stars": 27522
         }
       ]
     },
@@ -5170,19 +4338,15 @@
       "pros": [],
       "cons": [],
       "analyzed": false,
-      "stars": 8506,
+      "stars": 8502,
       "created_at": "2025-05-21T21:44:24Z",
-      "repo_updated_at": "2026-03-26T09:10:51Z",
-      "last_collected_at": "2026-03-26T09:15:53Z",
+      "repo_updated_at": "2026-03-26T08:46:28Z",
+      "last_collected_at": "2026-03-26T08:54:51Z",
       "last_updated": "2026-03-26",
       "history": [
         {
           "date": "2026-03-26",
-          "stars": 8503
-        },
-        {
-          "date": "2026-03-26",
-          "stars": 8506
+          "stars": 8502
         }
       ]
     },
@@ -5191,32 +4355,19 @@
       "owner": "langflow-ai",
       "url": "https://github.com/langflow-ai/langflow",
       "description": "Langflow is a powerful tool for building and deploying AI-powered agents and workflows.",
-      "description_zh": "Langflow是一个低代码可视化构建AI代理和工作流的平台，基于Python和LangChain生态",
-      "pros": [
-        "低代码可视化界面降低AI开发门槛",
-        "深度集成LangChain生态",
-        "丰富的预置组件库（提示词/向量库/工具/模型）",
-        "支持多代理编排复杂AI流水线",
-        "灵活部署（自托管或云服务）"
-      ],
-      "cons": [
-        "资源消耗较大，大规模工作流需要较高内存",
-        "学习曲线陡峭，需熟悉流程图范式和组件体系"
-      ],
+      "description_zh": "",
+      "pros": [],
+      "cons": [],
       "analyzed": true,
-      "stars": 146248,
+      "stars": 146247,
       "created_at": "2023-02-08T22:28:03Z",
-      "repo_updated_at": "2026-03-26T08:58:29Z",
-      "last_collected_at": "2026-03-26T09:15:53Z",
+      "repo_updated_at": "2026-03-26T08:51:05Z",
+      "last_collected_at": "2026-03-26T08:54:51Z",
       "last_updated": "2026-03-26",
       "history": [
         {
           "date": "2026-03-26",
-          "stars": 146248
-        },
-        {
-          "date": "2026-03-26",
-          "stars": 146248
+          "stars": 146247
         }
       ]
     },
@@ -5228,20 +4379,16 @@
       "description_zh": "",
       "pros": [],
       "cons": [],
-      "analyzed": true,
-      "stars": 134540,
+      "analyzed": false,
+      "stars": 134534,
       "created_at": "2023-04-12T07:40:24Z",
-      "repo_updated_at": "2026-03-26T09:15:02Z",
-      "last_collected_at": "2026-03-26T09:15:53Z",
+      "repo_updated_at": "2026-03-26T08:52:45Z",
+      "last_collected_at": "2026-03-26T08:54:51Z",
       "last_updated": "2026-03-26",
       "history": [
         {
           "date": "2026-03-26",
-          "stars": 134536
-        },
-        {
-          "date": "2026-03-26",
-          "stars": 134540
+          "stars": 134534
         }
       ]
     },
@@ -5257,13 +4404,9 @@
       "stars": 3941,
       "created_at": "2023-04-16T20:47:28Z",
       "repo_updated_at": "2026-03-25T23:29:04Z",
-      "last_collected_at": "2026-03-26T09:15:53Z",
+      "last_collected_at": "2026-03-26T08:54:51Z",
       "last_updated": "2026-03-26",
       "history": [
-        {
-          "date": "2026-03-26",
-          "stars": 3941
-        },
         {
           "date": "2026-03-26",
           "stars": 3941
@@ -5282,13 +4425,9 @@
       "stars": 541,
       "created_at": "2013-10-27T17:00:01Z",
       "repo_updated_at": "2025-12-09T16:21:38Z",
-      "last_collected_at": "2026-03-26T09:15:53Z",
+      "last_collected_at": "2026-03-26T08:54:51Z",
       "last_updated": "2026-03-26",
       "history": [
-        {
-          "date": "2026-03-26",
-          "stars": 541
-        },
         {
           "date": "2026-03-26",
           "stars": 541
@@ -5307,13 +4446,9 @@
       "stars": 21753,
       "created_at": "2023-10-11T07:38:37Z",
       "repo_updated_at": "2026-03-26T08:35:04Z",
-      "last_collected_at": "2026-03-26T09:15:53Z",
+      "last_collected_at": "2026-03-26T08:54:51Z",
       "last_updated": "2026-03-26",
       "history": [
-        {
-          "date": "2026-03-26",
-          "stars": 21753
-        },
         {
           "date": "2026-03-26",
           "stars": 21753
@@ -5329,19 +4464,15 @@
       "pros": [],
       "cons": [],
       "analyzed": false,
-      "stars": 10436,
+      "stars": 10435,
       "created_at": "2025-02-13T05:47:46Z",
-      "repo_updated_at": "2026-03-26T08:58:46Z",
-      "last_collected_at": "2026-03-26T09:15:53Z",
+      "repo_updated_at": "2026-03-26T08:48:31Z",
+      "last_collected_at": "2026-03-26T08:54:51Z",
       "last_updated": "2026-03-26",
       "history": [
         {
           "date": "2026-03-26",
-          "stars": 10436
-        },
-        {
-          "date": "2026-03-26",
-          "stars": 10436
+          "stars": 10435
         }
       ]
     },
@@ -5354,19 +4485,15 @@
       "pros": [],
       "cons": [],
       "analyzed": false,
-      "stars": 74333,
+      "stars": 74332,
       "created_at": "2023-05-21T07:19:12Z",
-      "repo_updated_at": "2026-03-26T09:05:36Z",
-      "last_collected_at": "2026-03-26T09:15:53Z",
+      "repo_updated_at": "2026-03-26T08:52:41Z",
+      "last_collected_at": "2026-03-26T08:54:51Z",
       "last_updated": "2026-03-26",
       "history": [
         {
           "date": "2026-03-26",
           "stars": 74332
-        },
-        {
-          "date": "2026-03-26",
-          "stars": 74333
         }
       ]
     },
@@ -5379,19 +4506,15 @@
       "pros": [],
       "cons": [],
       "analyzed": false,
-      "stars": 10513,
+      "stars": 10509,
       "created_at": "2026-01-28T10:03:24Z",
-      "repo_updated_at": "2026-03-26T09:13:45Z",
-      "last_collected_at": "2026-03-26T09:15:53Z",
+      "repo_updated_at": "2026-03-26T08:49:48Z",
+      "last_collected_at": "2026-03-26T08:54:51Z",
       "last_updated": "2026-03-26",
       "history": [
         {
           "date": "2026-03-26",
-          "stars": 10510
-        },
-        {
-          "date": "2026-03-26",
-          "stars": 10513
+          "stars": 10509
         }
       ]
     },
@@ -5407,13 +4530,9 @@
       "stars": 267,
       "created_at": "2025-06-03T11:33:27Z",
       "repo_updated_at": "2026-03-25T22:53:00Z",
-      "last_collected_at": "2026-03-26T09:15:53Z",
+      "last_collected_at": "2026-03-26T08:54:51Z",
       "last_updated": "2026-03-26",
       "history": [
-        {
-          "date": "2026-03-26",
-          "stars": 267
-        },
         {
           "date": "2026-03-26",
           "stars": 267
@@ -5429,19 +4548,15 @@
       "pros": [],
       "cons": [],
       "analyzed": false,
-      "stars": 22350,
+      "stars": 22346,
       "created_at": "2024-08-06T20:44:31Z",
-      "repo_updated_at": "2026-03-26T09:13:32Z",
-      "last_collected_at": "2026-03-26T09:15:53Z",
+      "repo_updated_at": "2026-03-26T08:52:53Z",
+      "last_collected_at": "2026-03-26T08:54:51Z",
       "last_updated": "2026-03-26",
       "history": [
         {
           "date": "2026-03-26",
-          "stars": 22348
-        },
-        {
-          "date": "2026-03-26",
-          "stars": 22350
+          "stars": 22346
         }
       ]
     },
@@ -5454,19 +4569,15 @@
       "pros": [],
       "cons": [],
       "analyzed": false,
-      "stars": 9514,
+      "stars": 9510,
       "created_at": "2025-03-28T10:06:31Z",
-      "repo_updated_at": "2026-03-26T09:00:31Z",
-      "last_collected_at": "2026-03-26T09:15:53Z",
+      "repo_updated_at": "2026-03-26T08:51:09Z",
+      "last_collected_at": "2026-03-26T08:54:51Z",
       "last_updated": "2026-03-26",
       "history": [
         {
           "date": "2026-03-26",
-          "stars": 9514
-        },
-        {
-          "date": "2026-03-26",
-          "stars": 9514
+          "stars": 9510
         }
       ]
     },
@@ -5479,19 +4590,15 @@
       "pros": [],
       "cons": [],
       "analyzed": false,
-      "stars": 51090,
+      "stars": 51089,
       "created_at": "2023-06-20T08:58:36Z",
-      "repo_updated_at": "2026-03-26T09:04:55Z",
-      "last_collected_at": "2026-03-26T09:15:53Z",
+      "repo_updated_at": "2026-03-26T08:52:44Z",
+      "last_collected_at": "2026-03-26T08:54:51Z",
       "last_updated": "2026-03-26",
       "history": [
         {
           "date": "2026-03-26",
           "stars": 51089
-        },
-        {
-          "date": "2026-03-26",
-          "stars": 51090
         }
       ]
     },
@@ -5507,13 +4614,9 @@
       "stars": 24577,
       "created_at": "2024-09-20T05:18:18Z",
       "repo_updated_at": "2026-03-26T06:25:07Z",
-      "last_collected_at": "2026-03-26T09:15:53Z",
+      "last_collected_at": "2026-03-26T08:54:51Z",
       "last_updated": "2026-03-26",
       "history": [
-        {
-          "date": "2026-03-26",
-          "stars": 24577
-        },
         {
           "date": "2026-03-26",
           "stars": 24577
@@ -5532,13 +4635,9 @@
       "stars": 6132,
       "created_at": "2023-09-11T03:17:38Z",
       "repo_updated_at": "2026-03-26T03:36:22Z",
-      "last_collected_at": "2026-03-26T09:15:53Z",
+      "last_collected_at": "2026-03-26T08:54:51Z",
       "last_updated": "2026-03-26",
       "history": [
-        {
-          "date": "2026-03-26",
-          "stars": 6132
-        },
         {
           "date": "2026-03-26",
           "stars": 6132
@@ -5554,19 +4653,15 @@
       "pros": [],
       "cons": [],
       "analyzed": false,
-      "stars": 55032,
+      "stars": 55030,
       "created_at": "2024-11-28T10:42:52Z",
-      "repo_updated_at": "2026-03-26T09:14:17Z",
-      "last_collected_at": "2026-03-26T09:15:53Z",
+      "repo_updated_at": "2026-03-26T08:38:28Z",
+      "last_collected_at": "2026-03-26T08:54:51Z",
       "last_updated": "2026-03-26",
       "history": [
         {
           "date": "2026-03-26",
           "stars": 55030
-        },
-        {
-          "date": "2026-03-26",
-          "stars": 55032
         }
       ]
     },
@@ -5581,14 +4676,10 @@
       "analyzed": false,
       "stars": 56228,
       "created_at": "2023-08-18T11:43:45Z",
-      "repo_updated_at": "2026-03-26T09:04:14Z",
-      "last_collected_at": "2026-03-26T09:15:53Z",
+      "repo_updated_at": "2026-03-26T08:28:36Z",
+      "last_collected_at": "2026-03-26T08:54:51Z",
       "last_updated": "2026-03-26",
       "history": [
-        {
-          "date": "2026-03-26",
-          "stars": 56227
-        },
         {
           "date": "2026-03-26",
           "stars": 56228
@@ -5607,13 +4698,9 @@
       "stars": 39346,
       "created_at": "2020-08-14T06:46:00Z",
       "repo_updated_at": "2026-03-26T08:48:25Z",
-      "last_collected_at": "2026-03-26T09:15:53Z",
+      "last_collected_at": "2026-03-26T08:54:51Z",
       "last_updated": "2026-03-26",
       "history": [
-        {
-          "date": "2026-03-26",
-          "stars": 39346
-        },
         {
           "date": "2026-03-26",
           "stars": 39346
@@ -5632,13 +4719,9 @@
       "stars": 5968,
       "created_at": "2026-02-13T09:02:13Z",
       "repo_updated_at": "2026-03-26T08:20:00Z",
-      "last_collected_at": "2026-03-26T09:15:53Z",
+      "last_collected_at": "2026-03-26T08:54:51Z",
       "last_updated": "2026-03-26",
       "history": [
-        {
-          "date": "2026-03-26",
-          "stars": 5968
-        },
         {
           "date": "2026-03-26",
           "stars": 5968
@@ -5657,13 +4740,9 @@
       "stars": 4207,
       "created_at": "2026-01-26T11:49:10Z",
       "repo_updated_at": "2026-03-26T08:41:38Z",
-      "last_collected_at": "2026-03-26T09:15:53Z",
+      "last_collected_at": "2026-03-26T08:54:51Z",
       "last_updated": "2026-03-26",
       "history": [
-        {
-          "date": "2026-03-26",
-          "stars": 4207
-        },
         {
           "date": "2026-03-26",
           "stars": 4207
@@ -5682,13 +4761,9 @@
       "stars": 38837,
       "created_at": "2018-08-02T17:56:45Z",
       "repo_updated_at": "2026-03-26T03:39:55Z",
-      "last_collected_at": "2026-03-26T09:15:53Z",
+      "last_collected_at": "2026-03-26T08:54:51Z",
       "last_updated": "2026-03-26",
       "history": [
-        {
-          "date": "2026-03-26",
-          "stars": 38837
-        },
         {
           "date": "2026-03-26",
           "stars": 38837
@@ -5707,13 +4782,9 @@
       "stars": 593,
       "created_at": "2024-05-25T08:27:41Z",
       "repo_updated_at": "2026-03-19T16:41:43Z",
-      "last_collected_at": "2026-03-26T09:15:53Z",
+      "last_collected_at": "2026-03-26T08:54:51Z",
       "last_updated": "2026-03-26",
       "history": [
-        {
-          "date": "2026-03-26",
-          "stars": 593
-        },
         {
           "date": "2026-03-26",
           "stars": 593
@@ -5729,19 +4800,15 @@
       "pros": [],
       "cons": [],
       "analyzed": false,
-      "stars": 3648,
+      "stars": 3647,
       "created_at": "2025-12-08T18:56:59Z",
-      "repo_updated_at": "2026-03-26T09:11:44Z",
-      "last_collected_at": "2026-03-26T09:15:53Z",
+      "repo_updated_at": "2026-03-26T08:06:15Z",
+      "last_collected_at": "2026-03-26T08:54:51Z",
       "last_updated": "2026-03-26",
       "history": [
         {
           "date": "2026-03-26",
-          "stars": 3648
-        },
-        {
-          "date": "2026-03-26",
-          "stars": 3648
+          "stars": 3647
         }
       ]
     },
@@ -5754,19 +4821,15 @@
       "pros": [],
       "cons": [],
       "analyzed": false,
-      "stars": 5937,
+      "stars": 5936,
       "created_at": "2026-02-23T05:56:28Z",
-      "repo_updated_at": "2026-03-26T08:58:54Z",
-      "last_collected_at": "2026-03-26T09:15:53Z",
+      "repo_updated_at": "2026-03-26T08:43:31Z",
+      "last_collected_at": "2026-03-26T08:54:51Z",
       "last_updated": "2026-03-26",
       "history": [
         {
           "date": "2026-03-26",
-          "stars": 5937
-        },
-        {
-          "date": "2026-03-26",
-          "stars": 5937
+          "stars": 5936
         }
       ]
     },
@@ -5781,14 +4844,10 @@
       "analyzed": false,
       "stars": 24958,
       "created_at": "2018-06-05T16:05:58Z",
-      "repo_updated_at": "2026-03-26T09:08:30Z",
-      "last_collected_at": "2026-03-26T09:15:53Z",
+      "repo_updated_at": "2026-03-26T07:48:49Z",
+      "last_collected_at": "2026-03-26T08:54:51Z",
       "last_updated": "2026-03-26",
       "history": [
-        {
-          "date": "2026-03-26",
-          "stars": 24958
-        },
         {
           "date": "2026-03-26",
           "stars": 24958
@@ -5807,13 +4866,9 @@
       "stars": 212,
       "created_at": "2017-10-18T19:02:45Z",
       "repo_updated_at": "2026-03-18T11:33:04Z",
-      "last_collected_at": "2026-03-26T09:15:53Z",
+      "last_collected_at": "2026-03-26T08:54:51Z",
       "last_updated": "2026-03-26",
       "history": [
-        {
-          "date": "2026-03-26",
-          "stars": 212
-        },
         {
           "date": "2026-03-26",
           "stars": 212
@@ -5829,19 +4884,15 @@
       "pros": [],
       "cons": [],
       "analyzed": false,
-      "stars": 62746,
+      "stars": 62735,
       "created_at": "2025-10-13T12:12:29Z",
-      "repo_updated_at": "2026-03-26T09:15:35Z",
-      "last_collected_at": "2026-03-26T09:15:53Z",
+      "repo_updated_at": "2026-03-26T08:54:19Z",
+      "last_collected_at": "2026-03-26T08:54:51Z",
       "last_updated": "2026-03-26",
       "history": [
         {
           "date": "2026-03-26",
-          "stars": 62740
-        },
-        {
-          "date": "2026-03-26",
-          "stars": 62746
+          "stars": 62735
         }
       ]
     },
@@ -5857,13 +4908,9 @@
       "stars": 3723,
       "created_at": "2026-02-25T09:47:50Z",
       "repo_updated_at": "2026-03-26T05:22:07Z",
-      "last_collected_at": "2026-03-26T09:15:53Z",
+      "last_collected_at": "2026-03-26T08:54:51Z",
       "last_updated": "2026-03-26",
       "history": [
-        {
-          "date": "2026-03-26",
-          "stars": 3723
-        },
         {
           "date": "2026-03-26",
           "stars": 3723
@@ -5879,19 +4926,15 @@
       "pros": [],
       "cons": [],
       "analyzed": false,
-      "stars": 30447,
+      "stars": 30445,
       "created_at": "2025-02-25T02:17:18Z",
-      "repo_updated_at": "2026-03-26T09:12:06Z",
-      "last_collected_at": "2026-03-26T09:15:53Z",
+      "repo_updated_at": "2026-03-26T08:39:32Z",
+      "last_collected_at": "2026-03-26T08:54:51Z",
       "last_updated": "2026-03-26",
       "history": [
         {
           "date": "2026-03-26",
-          "stars": 30446
-        },
-        {
-          "date": "2026-03-26",
-          "stars": 30447
+          "stars": 30445
         }
       ]
     },
@@ -5904,19 +4947,15 @@
       "pros": [],
       "cons": [],
       "analyzed": false,
-      "stars": 8621,
+      "stars": 8577,
       "created_at": "2026-01-23T20:37:37Z",
-      "repo_updated_at": "2026-03-26T09:15:16Z",
-      "last_collected_at": "2026-03-26T09:15:53Z",
+      "repo_updated_at": "2026-03-26T08:54:35Z",
+      "last_collected_at": "2026-03-26T08:54:51Z",
       "last_updated": "2026-03-26",
       "history": [
         {
           "date": "2026-03-26",
-          "stars": 8596
-        },
-        {
-          "date": "2026-03-26",
-          "stars": 8621
+          "stars": 8577
         }
       ]
     },
@@ -5932,13 +4971,9 @@
       "stars": 404,
       "created_at": "2025-12-27T19:02:08Z",
       "repo_updated_at": "2026-03-25T14:39:05Z",
-      "last_collected_at": "2026-03-26T09:15:53Z",
+      "last_collected_at": "2026-03-26T08:54:51Z",
       "last_updated": "2026-03-26",
       "history": [
-        {
-          "date": "2026-03-26",
-          "stars": 404
-        },
         {
           "date": "2026-03-26",
           "stars": 404
@@ -5954,19 +4989,15 @@
       "pros": [],
       "cons": [],
       "analyzed": false,
-      "stars": 51211,
+      "stars": 51194,
       "created_at": "2025-11-30T11:36:31Z",
-      "repo_updated_at": "2026-03-26T09:11:00Z",
-      "last_collected_at": "2026-03-26T09:15:53Z",
+      "repo_updated_at": "2026-03-26T08:53:24Z",
+      "last_collected_at": "2026-03-26T08:54:51Z",
       "last_updated": "2026-03-26",
       "history": [
         {
           "date": "2026-03-26",
-          "stars": 51204
-        },
-        {
-          "date": "2026-03-26",
-          "stars": 51211
+          "stars": 51194
         }
       ]
     },
@@ -5982,13 +5013,9 @@
       "stars": 28406,
       "created_at": "2017-08-11T18:50:23Z",
       "repo_updated_at": "2026-03-26T08:43:09Z",
-      "last_collected_at": "2026-03-26T09:15:53Z",
+      "last_collected_at": "2026-03-26T08:54:51Z",
       "last_updated": "2026-03-26",
       "history": [
-        {
-          "date": "2026-03-26",
-          "stars": 28406
-        },
         {
           "date": "2026-03-26",
           "stars": 28406
@@ -6007,13 +5034,9 @@
       "stars": 9248,
       "created_at": "2025-10-26T19:43:54Z",
       "repo_updated_at": "2026-03-26T08:21:22Z",
-      "last_collected_at": "2026-03-26T09:15:53Z",
+      "last_collected_at": "2026-03-26T08:54:51Z",
       "last_updated": "2026-03-26",
       "history": [
-        {
-          "date": "2026-03-26",
-          "stars": 9248
-        },
         {
           "date": "2026-03-26",
           "stars": 9248
@@ -6028,20 +5051,16 @@
       "description_zh": "",
       "pros": [],
       "cons": [],
-      "analyzed": true,
-      "stars": 114361,
+      "analyzed": false,
+      "stars": 114308,
       "created_at": "2025-10-09T19:45:18Z",
-      "repo_updated_at": "2026-03-26T09:15:20Z",
-      "last_collected_at": "2026-03-26T09:15:53Z",
+      "repo_updated_at": "2026-03-26T08:54:25Z",
+      "last_collected_at": "2026-03-26T08:54:51Z",
       "last_updated": "2026-03-26",
       "history": [
         {
           "date": "2026-03-26",
-          "stars": 114328
-        },
-        {
-          "date": "2026-03-26",
-          "stars": 114361
+          "stars": 114308
         }
       ]
     },
@@ -6057,13 +5076,9 @@
       "stars": 6350,
       "created_at": "2023-12-27T17:32:51Z",
       "repo_updated_at": "2026-03-26T07:54:20Z",
-      "last_collected_at": "2026-03-26T09:15:53Z",
+      "last_collected_at": "2026-03-26T08:54:51Z",
       "last_updated": "2026-03-26",
       "history": [
-        {
-          "date": "2026-03-26",
-          "stars": 6350
-        },
         {
           "date": "2026-03-26",
           "stars": 6350
@@ -6079,19 +5094,15 @@
       "pros": [],
       "cons": [],
       "analyzed": false,
-      "stars": 4580,
+      "stars": 4578,
       "created_at": "2026-02-06T12:38:55Z",
-      "repo_updated_at": "2026-03-26T09:14:03Z",
-      "last_collected_at": "2026-03-26T09:15:53Z",
+      "repo_updated_at": "2026-03-26T08:51:26Z",
+      "last_collected_at": "2026-03-26T08:54:51Z",
       "last_updated": "2026-03-26",
       "history": [
         {
           "date": "2026-03-26",
-          "stars": 4579
-        },
-        {
-          "date": "2026-03-26",
-          "stars": 4580
+          "stars": 4578
         }
       ]
     },
@@ -6104,19 +5115,15 @@
       "pros": [],
       "cons": [],
       "analyzed": false,
-      "stars": 5189,
+      "stars": 5186,
       "created_at": "2026-01-19T04:23:44Z",
-      "repo_updated_at": "2026-03-26T09:06:01Z",
-      "last_collected_at": "2026-03-26T09:15:53Z",
+      "repo_updated_at": "2026-03-26T08:50:03Z",
+      "last_collected_at": "2026-03-26T08:54:51Z",
       "last_updated": "2026-03-26",
       "history": [
         {
           "date": "2026-03-26",
-          "stars": 5188
-        },
-        {
-          "date": "2026-03-26",
-          "stars": 5189
+          "stars": 5186
         }
       ]
     },
@@ -6132,13 +5139,9 @@
       "stars": 3834,
       "created_at": "2025-08-20T05:15:16Z",
       "repo_updated_at": "2026-03-26T04:54:34Z",
-      "last_collected_at": "2026-03-26T09:15:53Z",
+      "last_collected_at": "2026-03-26T08:54:51Z",
       "last_updated": "2026-03-26",
       "history": [
-        {
-          "date": "2026-03-26",
-          "stars": 3834
-        },
         {
           "date": "2026-03-26",
           "stars": 3834
@@ -6154,19 +5157,15 @@
       "pros": [],
       "cons": [],
       "analyzed": false,
-      "stars": 67689,
+      "stars": 67682,
       "created_at": "2025-04-13T05:37:54Z",
-      "repo_updated_at": "2026-03-26T09:09:03Z",
-      "last_collected_at": "2026-03-26T09:15:53Z",
+      "repo_updated_at": "2026-03-26T08:47:11Z",
+      "last_collected_at": "2026-03-26T08:54:51Z",
       "last_updated": "2026-03-26",
       "history": [
         {
           "date": "2026-03-26",
-          "stars": 67687
-        },
-        {
-          "date": "2026-03-26",
-          "stars": 67689
+          "stars": 67682
         }
       ]
     },
@@ -6179,19 +5178,15 @@
       "pros": [],
       "cons": [],
       "analyzed": false,
-      "stars": 21229,
+      "stars": 21228,
       "created_at": "2024-02-22T20:53:54Z",
-      "repo_updated_at": "2026-03-26T09:05:00Z",
-      "last_collected_at": "2026-03-26T09:15:53Z",
+      "repo_updated_at": "2026-03-26T06:00:00Z",
+      "last_collected_at": "2026-03-26T08:54:51Z",
       "last_updated": "2026-03-26",
       "history": [
         {
           "date": "2026-03-26",
           "stars": 21228
-        },
-        {
-          "date": "2026-03-26",
-          "stars": 21229
         }
       ]
     },
@@ -6207,13 +5202,9 @@
       "stars": 14049,
       "created_at": "2026-02-26T21:54:00Z",
       "repo_updated_at": "2026-03-26T08:36:50Z",
-      "last_collected_at": "2026-03-26T09:15:53Z",
+      "last_collected_at": "2026-03-26T08:54:51Z",
       "last_updated": "2026-03-26",
       "history": [
-        {
-          "date": "2026-03-26",
-          "stars": 14049
-        },
         {
           "date": "2026-03-26",
           "stars": 14049
@@ -6232,13 +5223,9 @@
       "stars": 11597,
       "created_at": "2025-03-16T23:38:55Z",
       "repo_updated_at": "2026-03-26T08:34:12Z",
-      "last_collected_at": "2026-03-26T09:15:53Z",
+      "last_collected_at": "2026-03-26T08:54:51Z",
       "last_updated": "2026-03-26",
       "history": [
-        {
-          "date": "2026-03-26",
-          "stars": 11597
-        },
         {
           "date": "2026-03-26",
           "stars": 11597
@@ -6254,19 +5241,15 @@
       "pros": [],
       "cons": [],
       "analyzed": false,
-      "stars": 57273,
+      "stars": 57268,
       "created_at": "2024-02-29T08:52:34Z",
-      "repo_updated_at": "2026-03-26T09:06:34Z",
-      "last_collected_at": "2026-03-26T09:15:53Z",
+      "repo_updated_at": "2026-03-26T08:53:38Z",
+      "last_collected_at": "2026-03-26T08:54:51Z",
       "last_updated": "2026-03-26",
       "history": [
         {
           "date": "2026-03-26",
-          "stars": 57270
-        },
-        {
-          "date": "2026-03-26",
-          "stars": 57273
+          "stars": 57268
         }
       ]
     },
@@ -6282,13 +5265,9 @@
       "stars": 725,
       "created_at": "2020-09-08T08:55:04Z",
       "repo_updated_at": "2026-03-21T09:40:35Z",
-      "last_collected_at": "2026-03-26T09:15:53Z",
+      "last_collected_at": "2026-03-26T08:54:51Z",
       "last_updated": "2026-03-26",
       "history": [
-        {
-          "date": "2026-03-26",
-          "stars": 725
-        },
         {
           "date": "2026-03-26",
           "stars": 725
@@ -6304,19 +5283,15 @@
       "pros": [],
       "cons": [],
       "analyzed": false,
-      "stars": 22102,
+      "stars": 22101,
       "created_at": "2025-03-23T22:35:24Z",
-      "repo_updated_at": "2026-03-26T08:59:16Z",
-      "last_collected_at": "2026-03-26T09:15:53Z",
+      "repo_updated_at": "2026-03-26T08:54:07Z",
+      "last_collected_at": "2026-03-26T08:54:51Z",
       "last_updated": "2026-03-26",
       "history": [
         {
           "date": "2026-03-26",
-          "stars": 22102
-        },
-        {
-          "date": "2026-03-26",
-          "stars": 22102
+          "stars": 22101
         }
       ]
     },
@@ -6332,13 +5307,9 @@
       "stars": 4460,
       "created_at": "2025-08-17T15:05:39Z",
       "repo_updated_at": "2026-03-26T07:48:00Z",
-      "last_collected_at": "2026-03-26T09:15:53Z",
+      "last_collected_at": "2026-03-26T08:54:51Z",
       "last_updated": "2026-03-26",
       "history": [
-        {
-          "date": "2026-03-26",
-          "stars": 4460
-        },
         {
           "date": "2026-03-26",
           "stars": 4460
@@ -6357,13 +5328,9 @@
       "stars": 376,
       "created_at": "2026-02-18T17:44:28Z",
       "repo_updated_at": "2026-03-24T15:32:44Z",
-      "last_collected_at": "2026-03-26T09:15:53Z",
+      "last_collected_at": "2026-03-26T08:54:51Z",
       "last_updated": "2026-03-26",
       "history": [
-        {
-          "date": "2026-03-26",
-          "stars": 376
-        },
         {
           "date": "2026-03-26",
           "stars": 376
@@ -6382,13 +5349,9 @@
       "stars": 3624,
       "created_at": "2025-12-23T00:12:49Z",
       "repo_updated_at": "2026-03-26T06:56:52Z",
-      "last_collected_at": "2026-03-26T09:15:53Z",
+      "last_collected_at": "2026-03-26T08:54:51Z",
       "last_updated": "2026-03-26",
       "history": [
-        {
-          "date": "2026-03-26",
-          "stars": 3624
-        },
         {
           "date": "2026-03-26",
           "stars": 3624
@@ -6407,13 +5370,9 @@
       "stars": 288,
       "created_at": "2021-05-16T02:44:03Z",
       "repo_updated_at": "2026-03-24T09:51:58Z",
-      "last_collected_at": "2026-03-26T09:15:53Z",
+      "last_collected_at": "2026-03-26T08:54:51Z",
       "last_updated": "2026-03-26",
       "history": [
-        {
-          "date": "2026-03-26",
-          "stars": 288
-        },
         {
           "date": "2026-03-26",
           "stars": 288
@@ -6432,13 +5391,9 @@
       "stars": 32690,
       "created_at": "2024-10-21T10:43:24Z",
       "repo_updated_at": "2026-03-26T08:41:14Z",
-      "last_collected_at": "2026-03-26T09:15:53Z",
+      "last_collected_at": "2026-03-26T08:54:51Z",
       "last_updated": "2026-03-26",
       "history": [
-        {
-          "date": "2026-03-26",
-          "stars": 32690
-        },
         {
           "date": "2026-03-26",
           "stars": 32690
@@ -6454,19 +5409,15 @@
       "pros": [],
       "cons": [],
       "analyzed": false,
-      "stars": 13656,
+      "stars": 13651,
       "created_at": "2025-11-16T01:52:04Z",
-      "repo_updated_at": "2026-03-26T09:09:02Z",
-      "last_collected_at": "2026-03-26T09:15:53Z",
+      "repo_updated_at": "2026-03-26T08:52:55Z",
+      "last_collected_at": "2026-03-26T08:54:51Z",
       "last_updated": "2026-03-26",
       "history": [
         {
           "date": "2026-03-26",
-          "stars": 13652
-        },
-        {
-          "date": "2026-03-26",
-          "stars": 13656
+          "stars": 13651
         }
       ]
     },
@@ -6482,13 +5433,9 @@
       "stars": 2615,
       "created_at": "2026-02-11T17:27:42Z",
       "repo_updated_at": "2026-03-26T00:58:33Z",
-      "last_collected_at": "2026-03-26T09:15:53Z",
+      "last_collected_at": "2026-03-26T08:54:51Z",
       "last_updated": "2026-03-26",
       "history": [
-        {
-          "date": "2026-03-26",
-          "stars": 2615
-        },
         {
           "date": "2026-03-26",
           "stars": 2615
@@ -6507,13 +5454,9 @@
       "stars": 940,
       "created_at": "2023-03-30T23:16:31Z",
       "repo_updated_at": "2026-03-22T10:34:59Z",
-      "last_collected_at": "2026-03-26T09:15:53Z",
+      "last_collected_at": "2026-03-26T08:54:51Z",
       "last_updated": "2026-03-26",
       "history": [
-        {
-          "date": "2026-03-26",
-          "stars": 940
-        },
         {
           "date": "2026-03-26",
           "stars": 940
@@ -6532,13 +5475,9 @@
       "stars": 269,
       "created_at": "2015-06-29T23:53:19Z",
       "repo_updated_at": "2025-10-22T17:19:34Z",
-      "last_collected_at": "2026-03-26T09:15:53Z",
+      "last_collected_at": "2026-03-26T08:54:51Z",
       "last_updated": "2026-03-26",
       "history": [
-        {
-          "date": "2026-03-26",
-          "stars": 269
-        },
         {
           "date": "2026-03-26",
           "stars": 269
@@ -6557,13 +5496,9 @@
       "stars": 15149,
       "created_at": "2023-10-24T22:11:43Z",
       "repo_updated_at": "2026-03-26T01:50:38Z",
-      "last_collected_at": "2026-03-26T09:15:53Z",
+      "last_collected_at": "2026-03-26T08:54:51Z",
       "last_updated": "2026-03-26",
       "history": [
-        {
-          "date": "2026-03-26",
-          "stars": 15149
-        },
         {
           "date": "2026-03-26",
           "stars": 15149
@@ -6582,13 +5517,9 @@
       "stars": 248,
       "created_at": "2024-07-29T20:23:45Z",
       "repo_updated_at": "2026-03-23T17:26:45Z",
-      "last_collected_at": "2026-03-26T09:15:53Z",
+      "last_collected_at": "2026-03-26T08:54:51Z",
       "last_updated": "2026-03-26",
       "history": [
-        {
-          "date": "2026-03-26",
-          "stars": 248
-        },
         {
           "date": "2026-03-26",
           "stars": 248
@@ -6604,19 +5535,15 @@
       "pros": [],
       "cons": [],
       "analyzed": false,
-      "stars": 25544,
+      "stars": 25542,
       "created_at": "2026-01-31T15:47:22Z",
-      "repo_updated_at": "2026-03-26T09:07:50Z",
-      "last_collected_at": "2026-03-26T09:15:53Z",
+      "repo_updated_at": "2026-03-26T08:47:06Z",
+      "last_collected_at": "2026-03-26T08:54:51Z",
       "last_updated": "2026-03-26",
       "history": [
         {
           "date": "2026-03-26",
           "stars": 25542
-        },
-        {
-          "date": "2026-03-26",
-          "stars": 25544
         }
       ]
     },
@@ -6632,13 +5559,9 @@
       "stars": 210,
       "created_at": "2012-10-17T11:12:19Z",
       "repo_updated_at": "2025-06-05T08:41:04Z",
-      "last_collected_at": "2026-03-26T09:15:53Z",
+      "last_collected_at": "2026-03-26T08:54:51Z",
       "last_updated": "2026-03-26",
       "history": [
-        {
-          "date": "2026-03-26",
-          "stars": 210
-        },
         {
           "date": "2026-03-26",
           "stars": 210
@@ -6657,13 +5580,9 @@
       "stars": 285,
       "created_at": "2020-09-03T14:53:21Z",
       "repo_updated_at": "2026-03-24T07:31:56Z",
-      "last_collected_at": "2026-03-26T09:15:53Z",
+      "last_collected_at": "2026-03-26T08:54:51Z",
       "last_updated": "2026-03-26",
       "history": [
-        {
-          "date": "2026-03-26",
-          "stars": 285
-        },
         {
           "date": "2026-03-26",
           "stars": 285
@@ -6682,13 +5601,9 @@
       "stars": 7081,
       "created_at": "2024-02-19T11:04:30Z",
       "repo_updated_at": "2026-03-26T08:19:45Z",
-      "last_collected_at": "2026-03-26T09:15:53Z",
+      "last_collected_at": "2026-03-26T08:54:51Z",
       "last_updated": "2026-03-26",
       "history": [
-        {
-          "date": "2026-03-26",
-          "stars": 7081
-        },
         {
           "date": "2026-03-26",
           "stars": 7081
@@ -6707,13 +5622,9 @@
       "stars": 35885,
       "created_at": "2023-04-07T02:29:19Z",
       "repo_updated_at": "2026-03-26T07:54:27Z",
-      "last_collected_at": "2026-03-26T09:15:53Z",
+      "last_collected_at": "2026-03-26T08:54:51Z",
       "last_updated": "2026-03-26",
       "history": [
-        {
-          "date": "2026-03-26",
-          "stars": 35885
-        },
         {
           "date": "2026-03-26",
           "stars": 35885
@@ -6731,14 +5642,10 @@
       "analyzed": false,
       "stars": 6060,
       "created_at": "2026-02-26T03:45:35Z",
-      "repo_updated_at": "2026-03-26T09:12:12Z",
-      "last_collected_at": "2026-03-26T09:15:53Z",
+      "repo_updated_at": "2026-03-26T08:36:07Z",
+      "last_collected_at": "2026-03-26T08:54:51Z",
       "last_updated": "2026-03-26",
       "history": [
-        {
-          "date": "2026-03-26",
-          "stars": 6059
-        },
         {
           "date": "2026-03-26",
           "stars": 6060
@@ -6757,13 +5664,9 @@
       "stars": 5287,
       "created_at": "2025-01-26T05:31:40Z",
       "repo_updated_at": "2026-03-26T03:41:24Z",
-      "last_collected_at": "2026-03-26T09:15:53Z",
+      "last_collected_at": "2026-03-26T08:54:51Z",
       "last_updated": "2026-03-26",
       "history": [
-        {
-          "date": "2026-03-26",
-          "stars": 5287
-        },
         {
           "date": "2026-03-26",
           "stars": 5287
@@ -6779,19 +5682,15 @@
       "pros": [],
       "cons": [],
       "analyzed": false,
-      "stars": 20276,
+      "stars": 20271,
       "created_at": "2025-07-01T19:43:27Z",
-      "repo_updated_at": "2026-03-26T09:12:03Z",
-      "last_collected_at": "2026-03-26T09:15:53Z",
+      "repo_updated_at": "2026-03-26T08:54:32Z",
+      "last_collected_at": "2026-03-26T08:54:51Z",
       "last_updated": "2026-03-26",
       "history": [
         {
           "date": "2026-03-26",
-          "stars": 20275
-        },
-        {
-          "date": "2026-03-26",
-          "stars": 20276
+          "stars": 20271
         }
       ]
     },
@@ -6807,13 +5706,9 @@
       "stars": 9327,
       "created_at": "2025-01-13T09:30:40Z",
       "repo_updated_at": "2026-03-26T08:15:45Z",
-      "last_collected_at": "2026-03-26T09:15:53Z",
+      "last_collected_at": "2026-03-26T08:54:51Z",
       "last_updated": "2026-03-26",
       "history": [
-        {
-          "date": "2026-03-26",
-          "stars": 9327
-        },
         {
           "date": "2026-03-26",
           "stars": 9327
@@ -6829,19 +5724,15 @@
       "pros": [],
       "cons": [],
       "analyzed": false,
-      "stars": 13681,
+      "stars": 13669,
       "created_at": "2026-01-22T16:54:16Z",
-      "repo_updated_at": "2026-03-26T09:06:58Z",
-      "last_collected_at": "2026-03-26T09:15:53Z",
+      "repo_updated_at": "2026-03-26T08:53:10Z",
+      "last_collected_at": "2026-03-26T08:54:51Z",
       "last_updated": "2026-03-26",
       "history": [
         {
           "date": "2026-03-26",
-          "stars": 13675
-        },
-        {
-          "date": "2026-03-26",
-          "stars": 13681
+          "stars": 13669
         }
       ]
     },
@@ -6854,19 +5745,15 @@
       "pros": [],
       "cons": [],
       "analyzed": false,
-      "stars": 47997,
+      "stars": 47996,
       "created_at": "2022-11-02T04:24:54Z",
-      "repo_updated_at": "2026-03-26T08:57:58Z",
-      "last_collected_at": "2026-03-26T09:15:53Z",
+      "repo_updated_at": "2026-03-26T07:37:06Z",
+      "last_collected_at": "2026-03-26T08:54:51Z",
       "last_updated": "2026-03-26",
       "history": [
         {
           "date": "2026-03-26",
-          "stars": 47997
-        },
-        {
-          "date": "2026-03-26",
-          "stars": 47997
+          "stars": 47996
         }
       ]
     },
@@ -6879,19 +5766,15 @@
       "pros": [],
       "cons": [],
       "analyzed": false,
-      "stars": 26551,
+      "stars": 26532,
       "created_at": "2025-06-02T21:24:20Z",
-      "repo_updated_at": "2026-03-26T09:15:20Z",
-      "last_collected_at": "2026-03-26T09:15:53Z",
+      "repo_updated_at": "2026-03-26T08:53:06Z",
+      "last_collected_at": "2026-03-26T08:54:51Z",
       "last_updated": "2026-03-26",
       "history": [
         {
           "date": "2026-03-26",
-          "stars": 26538
-        },
-        {
-          "date": "2026-03-26",
-          "stars": 26551
+          "stars": 26532
         }
       ]
     },
@@ -6907,13 +5790,9 @@
       "stars": 11969,
       "created_at": "2025-05-29T16:56:50Z",
       "repo_updated_at": "2026-03-26T08:37:45Z",
-      "last_collected_at": "2026-03-26T09:15:53Z",
+      "last_collected_at": "2026-03-26T08:54:51Z",
       "last_updated": "2026-03-26",
       "history": [
-        {
-          "date": "2026-03-26",
-          "stars": 11969
-        },
         {
           "date": "2026-03-26",
           "stars": 11969
@@ -6932,13 +5811,9 @@
       "stars": 798,
       "created_at": "2014-05-19T18:39:03Z",
       "repo_updated_at": "2026-03-25T08:16:18Z",
-      "last_collected_at": "2026-03-26T09:15:53Z",
+      "last_collected_at": "2026-03-26T08:54:51Z",
       "last_updated": "2026-03-26",
       "history": [
-        {
-          "date": "2026-03-26",
-          "stars": 798
-        },
         {
           "date": "2026-03-26",
           "stars": 798
@@ -6954,19 +5829,15 @@
       "pros": [],
       "cons": [],
       "analyzed": false,
-      "stars": 22142,
+      "stars": 22132,
       "created_at": "2025-10-31T14:15:28Z",
-      "repo_updated_at": "2026-03-26T09:12:29Z",
-      "last_collected_at": "2026-03-26T09:15:53Z",
+      "repo_updated_at": "2026-03-26T08:53:15Z",
+      "last_collected_at": "2026-03-26T08:54:51Z",
       "last_updated": "2026-03-26",
       "history": [
         {
           "date": "2026-03-26",
-          "stars": 22136
-        },
-        {
-          "date": "2026-03-26",
-          "stars": 22142
+          "stars": 22132
         }
       ]
     },
@@ -6979,19 +5850,15 @@
       "pros": [],
       "cons": [],
       "analyzed": false,
-      "stars": 39148,
+      "stars": 39124,
       "created_at": "2025-06-29T15:34:15Z",
-      "repo_updated_at": "2026-03-26T09:15:12Z",
-      "last_collected_at": "2026-03-26T09:15:53Z",
+      "repo_updated_at": "2026-03-26T08:53:44Z",
+      "last_collected_at": "2026-03-26T08:54:51Z",
       "last_updated": "2026-03-26",
       "history": [
         {
           "date": "2026-03-26",
-          "stars": 39133
-        },
-        {
-          "date": "2026-03-26",
-          "stars": 39148
+          "stars": 39124
         }
       ]
     },
@@ -7004,19 +5871,15 @@
       "pros": [],
       "cons": [],
       "analyzed": false,
-      "stars": 27485,
+      "stars": 27482,
       "created_at": "2026-01-14T17:48:09Z",
-      "repo_updated_at": "2026-03-26T09:11:32Z",
-      "last_collected_at": "2026-03-26T09:15:53Z",
+      "repo_updated_at": "2026-03-26T08:39:59Z",
+      "last_collected_at": "2026-03-26T08:54:51Z",
       "last_updated": "2026-03-26",
       "history": [
         {
           "date": "2026-03-26",
           "stars": 27482
-        },
-        {
-          "date": "2026-03-26",
-          "stars": 27485
         }
       ]
     },
@@ -7029,19 +5892,15 @@
       "pros": [],
       "cons": [],
       "analyzed": false,
-      "stars": 27215,
+      "stars": 27214,
       "created_at": "2025-01-05T22:47:49Z",
-      "repo_updated_at": "2026-03-26T09:12:39Z",
-      "last_collected_at": "2026-03-26T09:15:53Z",
+      "repo_updated_at": "2026-03-26T08:19:29Z",
+      "last_collected_at": "2026-03-26T08:54:51Z",
       "last_updated": "2026-03-26",
       "history": [
         {
           "date": "2026-03-26",
           "stars": 27214
-        },
-        {
-          "date": "2026-03-26",
-          "stars": 27215
         }
       ]
     },
@@ -7057,13 +5916,9 @@
       "stars": 5971,
       "created_at": "2025-08-08T11:19:28Z",
       "repo_updated_at": "2026-03-26T08:50:22Z",
-      "last_collected_at": "2026-03-26T09:15:53Z",
+      "last_collected_at": "2026-03-26T08:54:51Z",
       "last_updated": "2026-03-26",
       "history": [
-        {
-          "date": "2026-03-26",
-          "stars": 5971
-        },
         {
           "date": "2026-03-26",
           "stars": 5971
@@ -7082,13 +5937,9 @@
       "stars": 8967,
       "created_at": "2025-06-25T12:51:12Z",
       "repo_updated_at": "2026-03-26T08:43:09Z",
-      "last_collected_at": "2026-03-26T09:15:53Z",
+      "last_collected_at": "2026-03-26T08:54:51Z",
       "last_updated": "2026-03-26",
       "history": [
-        {
-          "date": "2026-03-26",
-          "stars": 8967
-        },
         {
           "date": "2026-03-26",
           "stars": 8967
@@ -7104,19 +5955,15 @@
       "pros": [],
       "cons": [],
       "analyzed": false,
-      "stars": 16220,
+      "stars": 16219,
       "created_at": "2025-07-18T05:53:18Z",
-      "repo_updated_at": "2026-03-26T08:56:55Z",
-      "last_collected_at": "2026-03-26T09:15:53Z",
+      "repo_updated_at": "2026-03-26T08:07:58Z",
+      "last_collected_at": "2026-03-26T08:54:51Z",
       "last_updated": "2026-03-26",
       "history": [
         {
           "date": "2026-03-26",
-          "stars": 16220
-        },
-        {
-          "date": "2026-03-26",
-          "stars": 16220
+          "stars": 16219
         }
       ]
     },
@@ -7132,13 +5979,9 @@
       "stars": 6636,
       "created_at": "2025-03-09T20:00:41Z",
       "repo_updated_at": "2026-03-26T08:04:20Z",
-      "last_collected_at": "2026-03-26T09:15:53Z",
+      "last_collected_at": "2026-03-26T08:54:51Z",
       "last_updated": "2026-03-26",
       "history": [
-        {
-          "date": "2026-03-26",
-          "stars": 6636
-        },
         {
           "date": "2026-03-26",
           "stars": 6636
@@ -7157,13 +6000,9 @@
       "stars": 1019,
       "created_at": "2018-11-22T06:07:12Z",
       "repo_updated_at": "2026-03-16T07:12:41Z",
-      "last_collected_at": "2026-03-26T09:15:53Z",
+      "last_collected_at": "2026-03-26T08:54:51Z",
       "last_updated": "2026-03-26",
       "history": [
-        {
-          "date": "2026-03-26",
-          "stars": 1019
-        },
         {
           "date": "2026-03-26",
           "stars": 1019
@@ -7182,13 +6021,9 @@
       "stars": 6508,
       "created_at": "2025-04-26T12:43:16Z",
       "repo_updated_at": "2026-03-26T05:21:52Z",
-      "last_collected_at": "2026-03-26T09:15:53Z",
+      "last_collected_at": "2026-03-26T08:54:51Z",
       "last_updated": "2026-03-26",
       "history": [
-        {
-          "date": "2026-03-26",
-          "stars": 6508
-        },
         {
           "date": "2026-03-26",
           "stars": 6508
@@ -7204,19 +6039,15 @@
       "pros": [],
       "cons": [],
       "analyzed": false,
-      "stars": 9370,
+      "stars": 9368,
       "created_at": "2025-11-16T17:00:44Z",
-      "repo_updated_at": "2026-03-26T09:12:08Z",
-      "last_collected_at": "2026-03-26T09:15:53Z",
+      "repo_updated_at": "2026-03-26T08:38:01Z",
+      "last_collected_at": "2026-03-26T08:54:51Z",
       "last_updated": "2026-03-26",
       "history": [
         {
           "date": "2026-03-26",
           "stars": 9368
-        },
-        {
-          "date": "2026-03-26",
-          "stars": 9370
         }
       ]
     },
@@ -7232,13 +6063,9 @@
       "stars": 5651,
       "created_at": "2025-06-12T11:10:14Z",
       "repo_updated_at": "2026-03-26T06:44:54Z",
-      "last_collected_at": "2026-03-26T09:15:53Z",
+      "last_collected_at": "2026-03-26T08:54:51Z",
       "last_updated": "2026-03-26",
       "history": [
-        {
-          "date": "2026-03-26",
-          "stars": 5651
-        },
         {
           "date": "2026-03-26",
           "stars": 5651
@@ -7254,19 +6081,15 @@
       "pros": [],
       "cons": [],
       "analyzed": false,
-      "stars": 19745,
+      "stars": 19744,
       "created_at": "2025-10-12T03:09:46Z",
-      "repo_updated_at": "2026-03-26T09:03:44Z",
-      "last_collected_at": "2026-03-26T09:15:53Z",
+      "repo_updated_at": "2026-03-26T08:52:19Z",
+      "last_collected_at": "2026-03-26T08:54:51Z",
       "last_updated": "2026-03-26",
       "history": [
         {
           "date": "2026-03-26",
           "stars": 19744
-        },
-        {
-          "date": "2026-03-26",
-          "stars": 19745
         }
       ]
     },
@@ -7282,13 +6105,9 @@
       "stars": 5373,
       "created_at": "2025-05-14T19:59:51Z",
       "repo_updated_at": "2026-03-26T06:28:29Z",
-      "last_collected_at": "2026-03-26T09:15:53Z",
+      "last_collected_at": "2026-03-26T08:54:51Z",
       "last_updated": "2026-03-26",
       "history": [
-        {
-          "date": "2026-03-26",
-          "stars": 5373
-        },
         {
           "date": "2026-03-26",
           "stars": 5373
@@ -7307,13 +6126,9 @@
       "stars": 4336,
       "created_at": "2025-08-14T11:54:36Z",
       "repo_updated_at": "2026-03-26T08:19:16Z",
-      "last_collected_at": "2026-03-26T09:15:53Z",
+      "last_collected_at": "2026-03-26T08:54:51Z",
       "last_updated": "2026-03-26",
       "history": [
-        {
-          "date": "2026-03-26",
-          "stars": 4336
-        },
         {
           "date": "2026-03-26",
           "stars": 4336
@@ -7329,19 +6144,15 @@
       "pros": [],
       "cons": [],
       "analyzed": false,
-      "stars": 7971,
+      "stars": 7970,
       "created_at": "2025-10-21T09:16:51Z",
-      "repo_updated_at": "2026-03-26T08:56:40Z",
-      "last_collected_at": "2026-03-26T09:15:53Z",
+      "repo_updated_at": "2026-03-26T08:35:45Z",
+      "last_collected_at": "2026-03-26T08:54:51Z",
       "last_updated": "2026-03-26",
       "history": [
         {
           "date": "2026-03-26",
-          "stars": 7971
-        },
-        {
-          "date": "2026-03-26",
-          "stars": 7971
+          "stars": 7970
         }
       ]
     },
@@ -7357,13 +6168,9 @@
       "stars": 5797,
       "created_at": "2012-11-25T17:08:02Z",
       "repo_updated_at": "2026-03-26T08:18:42Z",
-      "last_collected_at": "2026-03-26T09:15:53Z",
+      "last_collected_at": "2026-03-26T08:54:51Z",
       "last_updated": "2026-03-26",
       "history": [
-        {
-          "date": "2026-03-26",
-          "stars": 5797
-        },
         {
           "date": "2026-03-26",
           "stars": 5797
@@ -7382,13 +6189,9 @@
       "stars": 1122,
       "created_at": "2023-09-01T08:06:53Z",
       "repo_updated_at": "2026-03-25T17:04:34Z",
-      "last_collected_at": "2026-03-26T09:15:53Z",
+      "last_collected_at": "2026-03-26T08:54:51Z",
       "last_updated": "2026-03-26",
       "history": [
-        {
-          "date": "2026-03-26",
-          "stars": 1122
-        },
         {
           "date": "2026-03-26",
           "stars": 1122
@@ -7404,19 +6207,15 @@
       "pros": [],
       "cons": [],
       "analyzed": false,
-      "stars": 7570,
+      "stars": 7569,
       "created_at": "2026-01-07T15:27:19Z",
-      "repo_updated_at": "2026-03-26T09:15:26Z",
-      "last_collected_at": "2026-03-26T09:15:53Z",
+      "repo_updated_at": "2026-03-26T08:50:17Z",
+      "last_collected_at": "2026-03-26T08:54:51Z",
       "last_updated": "2026-03-26",
       "history": [
         {
           "date": "2026-03-26",
           "stars": 7569
-        },
-        {
-          "date": "2026-03-26",
-          "stars": 7570
         }
       ]
     },
@@ -7429,19 +6228,15 @@
       "pros": [],
       "cons": [],
       "analyzed": false,
-      "stars": 40754,
+      "stars": 40749,
       "created_at": "2025-08-31T20:50:03Z",
-      "repo_updated_at": "2026-03-26T09:07:45Z",
-      "last_collected_at": "2026-03-26T09:15:53Z",
+      "repo_updated_at": "2026-03-26T08:47:27Z",
+      "last_collected_at": "2026-03-26T08:54:51Z",
       "last_updated": "2026-03-26",
       "history": [
         {
           "date": "2026-03-26",
-          "stars": 40751
-        },
-        {
-          "date": "2026-03-26",
-          "stars": 40754
+          "stars": 40749
         }
       ]
     },
@@ -7457,13 +6252,9 @@
       "stars": 14636,
       "created_at": "2023-08-16T16:16:33Z",
       "repo_updated_at": "2026-03-26T08:40:49Z",
-      "last_collected_at": "2026-03-26T09:15:53Z",
+      "last_collected_at": "2026-03-26T08:54:51Z",
       "last_updated": "2026-03-26",
       "history": [
-        {
-          "date": "2026-03-26",
-          "stars": 14636
-        },
         {
           "date": "2026-03-26",
           "stars": 14636
@@ -7479,19 +6270,15 @@
       "pros": [],
       "cons": [],
       "analyzed": false,
-      "stars": 9779,
+      "stars": 9776,
       "created_at": "2025-10-16T20:42:39Z",
-      "repo_updated_at": "2026-03-26T09:09:26Z",
-      "last_collected_at": "2026-03-26T09:15:53Z",
+      "repo_updated_at": "2026-03-26T08:44:30Z",
+      "last_collected_at": "2026-03-26T08:54:51Z",
       "last_updated": "2026-03-26",
       "history": [
         {
           "date": "2026-03-26",
-          "stars": 9778
-        },
-        {
-          "date": "2026-03-26",
-          "stars": 9779
+          "stars": 9776
         }
       ]
     },
@@ -7507,13 +6294,9 @@
       "stars": 599,
       "created_at": "2025-03-24T22:49:13Z",
       "repo_updated_at": "2026-03-26T01:58:33Z",
-      "last_collected_at": "2026-03-26T09:15:53Z",
+      "last_collected_at": "2026-03-26T08:54:51Z",
       "last_updated": "2026-03-26",
       "history": [
-        {
-          "date": "2026-03-26",
-          "stars": 599
-        },
         {
           "date": "2026-03-26",
           "stars": 599
@@ -7532,13 +6315,9 @@
       "stars": 209,
       "created_at": "2016-02-07T17:09:49Z",
       "repo_updated_at": "2026-01-26T02:51:35Z",
-      "last_collected_at": "2026-03-26T09:15:53Z",
+      "last_collected_at": "2026-03-26T08:54:51Z",
       "last_updated": "2026-03-26",
       "history": [
-        {
-          "date": "2026-03-26",
-          "stars": 209
-        },
         {
           "date": "2026-03-26",
           "stars": 209
@@ -7557,13 +6336,9 @@
       "stars": 642,
       "created_at": "2020-02-25T14:45:38Z",
       "repo_updated_at": "2026-03-25T16:35:22Z",
-      "last_collected_at": "2026-03-26T09:15:53Z",
+      "last_collected_at": "2026-03-26T08:54:51Z",
       "last_updated": "2026-03-26",
       "history": [
-        {
-          "date": "2026-03-26",
-          "stars": 642
-        },
         {
           "date": "2026-03-26",
           "stars": 642
@@ -7582,13 +6357,9 @@
       "stars": 23115,
       "created_at": "2023-05-13T17:26:28Z",
       "repo_updated_at": "2026-03-26T06:26:41Z",
-      "last_collected_at": "2026-03-26T09:15:53Z",
+      "last_collected_at": "2026-03-26T08:54:51Z",
       "last_updated": "2026-03-26",
       "history": [
-        {
-          "date": "2026-03-26",
-          "stars": 23115
-        },
         {
           "date": "2026-03-26",
           "stars": 23115
@@ -7607,13 +6378,9 @@
       "stars": 249,
       "created_at": "2011-10-07T22:27:53Z",
       "repo_updated_at": "2024-05-18T04:23:34Z",
-      "last_collected_at": "2026-03-26T09:15:53Z",
+      "last_collected_at": "2026-03-26T08:54:51Z",
       "last_updated": "2026-03-26",
       "history": [
-        {
-          "date": "2026-03-26",
-          "stars": 249
-        },
         {
           "date": "2026-03-26",
           "stars": 249
@@ -7629,19 +6396,15 @@
       "pros": [],
       "cons": [],
       "analyzed": false,
-      "stars": 24965,
+      "stars": 24959,
       "created_at": "2026-01-11T05:38:15Z",
-      "repo_updated_at": "2026-03-26T09:13:19Z",
-      "last_collected_at": "2026-03-26T09:15:53Z",
+      "repo_updated_at": "2026-03-26T08:45:22Z",
+      "last_collected_at": "2026-03-26T08:54:51Z",
       "last_updated": "2026-03-26",
       "history": [
         {
           "date": "2026-03-26",
-          "stars": 24961
-        },
-        {
-          "date": "2026-03-26",
-          "stars": 24965
+          "stars": 24959
         }
       ]
     },
@@ -7654,19 +6417,15 @@
       "pros": [],
       "cons": [],
       "analyzed": false,
-      "stars": 23885,
+      "stars": 23883,
       "created_at": "2025-12-08T19:10:06Z",
-      "repo_updated_at": "2026-03-26T09:15:24Z",
-      "last_collected_at": "2026-03-26T09:15:53Z",
+      "repo_updated_at": "2026-03-26T08:54:08Z",
+      "last_collected_at": "2026-03-26T08:54:51Z",
       "last_updated": "2026-03-26",
       "history": [
         {
           "date": "2026-03-26",
           "stars": 23883
-        },
-        {
-          "date": "2026-03-26",
-          "stars": 23885
         }
       ]
     },
@@ -7682,13 +6441,9 @@
       "stars": 23003,
       "created_at": "2023-05-23T15:04:08Z",
       "repo_updated_at": "2026-03-26T07:46:38Z",
-      "last_collected_at": "2026-03-26T09:15:53Z",
+      "last_collected_at": "2026-03-26T08:54:51Z",
       "last_updated": "2026-03-26",
       "history": [
-        {
-          "date": "2026-03-26",
-          "stars": 23003
-        },
         {
           "date": "2026-03-26",
           "stars": 23003
@@ -7707,13 +6462,9 @@
       "stars": 4093,
       "created_at": "2025-07-26T17:18:06Z",
       "repo_updated_at": "2026-03-26T02:16:06Z",
-      "last_collected_at": "2026-03-26T09:15:53Z",
+      "last_collected_at": "2026-03-26T08:54:51Z",
       "last_updated": "2026-03-26",
       "history": [
-        {
-          "date": "2026-03-26",
-          "stars": 4093
-        },
         {
           "date": "2026-03-26",
           "stars": 4093
@@ -7732,13 +6483,9 @@
       "stars": 214,
       "created_at": "2026-03-08T14:58:41Z",
       "repo_updated_at": "2026-03-26T08:12:45Z",
-      "last_collected_at": "2026-03-26T09:15:53Z",
+      "last_collected_at": "2026-03-26T08:54:51Z",
       "last_updated": "2026-03-26",
       "history": [
-        {
-          "date": "2026-03-26",
-          "stars": 214
-        },
         {
           "date": "2026-03-26",
           "stars": 214
@@ -7757,13 +6504,9 @@
       "stars": 372,
       "created_at": "2013-08-16T17:57:03Z",
       "repo_updated_at": "2026-02-28T17:12:55Z",
-      "last_collected_at": "2026-03-26T09:15:53Z",
+      "last_collected_at": "2026-03-26T08:54:51Z",
       "last_updated": "2026-03-26",
       "history": [
-        {
-          "date": "2026-03-26",
-          "stars": 372
-        },
         {
           "date": "2026-03-26",
           "stars": 372
@@ -7782,13 +6525,9 @@
       "stars": 401,
       "created_at": "2023-12-14T08:36:41Z",
       "repo_updated_at": "2026-03-23T12:58:37Z",
-      "last_collected_at": "2026-03-26T09:15:53Z",
+      "last_collected_at": "2026-03-26T08:54:51Z",
       "last_updated": "2026-03-26",
       "history": [
-        {
-          "date": "2026-03-26",
-          "stars": 401
-        },
         {
           "date": "2026-03-26",
           "stars": 401
@@ -7804,19 +6543,15 @@
       "pros": [],
       "cons": [],
       "analyzed": false,
-      "stars": 4142,
+      "stars": 4136,
       "created_at": "2026-03-10T07:31:45Z",
-      "repo_updated_at": "2026-03-26T09:13:37Z",
-      "last_collected_at": "2026-03-26T09:15:53Z",
+      "repo_updated_at": "2026-03-26T08:54:09Z",
+      "last_collected_at": "2026-03-26T08:54:51Z",
       "last_updated": "2026-03-26",
       "history": [
         {
           "date": "2026-03-26",
-          "stars": 4139
-        },
-        {
-          "date": "2026-03-26",
-          "stars": 4142
+          "stars": 4136
         }
       ]
     },
@@ -7829,19 +6564,15 @@
       "pros": [],
       "cons": [],
       "analyzed": false,
-      "stars": 26230,
+      "stars": 26229,
       "created_at": "2021-07-08T18:48:08Z",
-      "repo_updated_at": "2026-03-26T09:00:28Z",
-      "last_collected_at": "2026-03-26T09:15:53Z",
+      "repo_updated_at": "2026-03-26T07:33:00Z",
+      "last_collected_at": "2026-03-26T08:54:51Z",
       "last_updated": "2026-03-26",
       "history": [
         {
           "date": "2026-03-26",
-          "stars": 26230
-        },
-        {
-          "date": "2026-03-26",
-          "stars": 26230
+          "stars": 26229
         }
       ]
     },
@@ -7857,13 +6588,9 @@
       "stars": 13648,
       "created_at": "2023-12-01T13:54:36Z",
       "repo_updated_at": "2026-03-26T08:28:30Z",
-      "last_collected_at": "2026-03-26T09:15:53Z",
+      "last_collected_at": "2026-03-26T08:54:51Z",
       "last_updated": "2026-03-26",
       "history": [
-        {
-          "date": "2026-03-26",
-          "stars": 13648
-        },
         {
           "date": "2026-03-26",
           "stars": 13648
@@ -7879,19 +6606,15 @@
       "pros": [],
       "cons": [],
       "analyzed": false,
-      "stars": 21107,
+      "stars": 21106,
       "created_at": "2025-06-19T13:53:26Z",
-      "repo_updated_at": "2026-03-26T09:14:49Z",
-      "last_collected_at": "2026-03-26T09:15:53Z",
+      "repo_updated_at": "2026-03-26T08:11:32Z",
+      "last_collected_at": "2026-03-26T08:54:51Z",
       "last_updated": "2026-03-26",
       "history": [
         {
           "date": "2026-03-26",
           "stars": 21106
-        },
-        {
-          "date": "2026-03-26",
-          "stars": 21107
         }
       ]
     },
@@ -7907,13 +6630,9 @@
       "stars": 4933,
       "created_at": "2020-05-20T17:15:04Z",
       "repo_updated_at": "2026-03-25T09:38:14Z",
-      "last_collected_at": "2026-03-26T09:15:53Z",
+      "last_collected_at": "2026-03-26T08:54:51Z",
       "last_updated": "2026-03-26",
       "history": [
-        {
-          "date": "2026-03-26",
-          "stars": 4933
-        },
         {
           "date": "2026-03-26",
           "stars": 4933
@@ -7932,13 +6651,9 @@
       "stars": 32289,
       "created_at": "2025-07-24T23:28:14Z",
       "repo_updated_at": "2026-03-26T08:31:49Z",
-      "last_collected_at": "2026-03-26T09:15:53Z",
+      "last_collected_at": "2026-03-26T08:54:51Z",
       "last_updated": "2026-03-26",
       "history": [
-        {
-          "date": "2026-03-26",
-          "stars": 32289
-        },
         {
           "date": "2026-03-26",
           "stars": 32289
@@ -7953,20 +6668,16 @@
       "description_zh": "",
       "pros": [],
       "cons": [],
-      "analyzed": true,
-      "stars": 133297,
+      "analyzed": false,
+      "stars": 133294,
       "created_at": "2025-03-05T16:38:29Z",
-      "repo_updated_at": "2026-03-26T09:14:49Z",
-      "last_collected_at": "2026-03-26T09:15:53Z",
+      "repo_updated_at": "2026-03-26T08:52:45Z",
+      "last_collected_at": "2026-03-26T08:54:51Z",
       "last_updated": "2026-03-26",
       "history": [
         {
           "date": "2026-03-26",
           "stars": 133294
-        },
-        {
-          "date": "2026-03-26",
-          "stars": 133297
         }
       ]
     },
@@ -7981,14 +6692,10 @@
       "analyzed": false,
       "stars": 9262,
       "created_at": "2015-01-21T22:05:27Z",
-      "repo_updated_at": "2026-03-26T09:03:27Z",
-      "last_collected_at": "2026-03-26T09:15:53Z",
+      "repo_updated_at": "2026-03-26T08:45:09Z",
+      "last_collected_at": "2026-03-26T08:54:51Z",
       "last_updated": "2026-03-26",
       "history": [
-        {
-          "date": "2026-03-26",
-          "stars": 9262
-        },
         {
           "date": "2026-03-26",
           "stars": 9262
@@ -8007,13 +6714,9 @@
       "stars": 509,
       "created_at": "2025-08-11T12:14:59Z",
       "repo_updated_at": "2026-03-22T08:33:38Z",
-      "last_collected_at": "2026-03-26T09:15:53Z",
+      "last_collected_at": "2026-03-26T08:54:51Z",
       "last_updated": "2026-03-26",
       "history": [
-        {
-          "date": "2026-03-26",
-          "stars": 509
-        },
         {
           "date": "2026-03-26",
           "stars": 509
@@ -8029,19 +6732,15 @@
       "pros": [],
       "cons": [],
       "analyzed": false,
-      "stars": 6764,
+      "stars": 6763,
       "created_at": "2025-11-28T00:52:00Z",
-      "repo_updated_at": "2026-03-26T09:15:03Z",
-      "last_collected_at": "2026-03-26T09:15:53Z",
+      "repo_updated_at": "2026-03-26T08:46:15Z",
+      "last_collected_at": "2026-03-26T08:54:51Z",
       "last_updated": "2026-03-26",
       "history": [
         {
           "date": "2026-03-26",
           "stars": 6763
-        },
-        {
-          "date": "2026-03-26",
-          "stars": 6764
         }
       ]
     },
@@ -8054,19 +6753,15 @@
       "pros": [],
       "cons": [],
       "analyzed": false,
-      "stars": 4296,
+      "stars": 4295,
       "created_at": "2025-07-20T09:24:09Z",
-      "repo_updated_at": "2026-03-26T09:09:50Z",
-      "last_collected_at": "2026-03-26T09:15:53Z",
+      "repo_updated_at": "2026-03-26T04:48:34Z",
+      "last_collected_at": "2026-03-26T08:54:51Z",
       "last_updated": "2026-03-26",
       "history": [
         {
           "date": "2026-03-26",
           "stars": 4295
-        },
-        {
-          "date": "2026-03-26",
-          "stars": 4296
         }
       ]
     },
@@ -8079,19 +6774,15 @@
       "pros": [],
       "cons": [],
       "analyzed": false,
-      "stars": 24580,
+      "stars": 24578,
       "created_at": "2025-12-08T09:23:44Z",
-      "repo_updated_at": "2026-03-26T09:11:03Z",
-      "last_collected_at": "2026-03-26T09:15:53Z",
+      "repo_updated_at": "2026-03-26T08:53:30Z",
+      "last_collected_at": "2026-03-26T08:54:51Z",
       "last_updated": "2026-03-26",
       "history": [
         {
           "date": "2026-03-26",
-          "stars": 24579
-        },
-        {
-          "date": "2026-03-26",
-          "stars": 24580
+          "stars": 24578
         }
       ]
     },
@@ -8107,13 +6798,9 @@
       "stars": 3725,
       "created_at": "2025-06-21T20:43:25Z",
       "repo_updated_at": "2026-03-26T06:05:30Z",
-      "last_collected_at": "2026-03-26T09:15:53Z",
+      "last_collected_at": "2026-03-26T08:54:51Z",
       "last_updated": "2026-03-26",
       "history": [
-        {
-          "date": "2026-03-26",
-          "stars": 3725
-        },
         {
           "date": "2026-03-26",
           "stars": 3725
@@ -8129,19 +6816,15 @@
       "pros": [],
       "cons": [],
       "analyzed": false,
-      "stars": 28835,
+      "stars": 28830,
       "created_at": "2026-02-13T08:56:04Z",
-      "repo_updated_at": "2026-03-26T09:15:34Z",
-      "last_collected_at": "2026-03-26T09:15:53Z",
+      "repo_updated_at": "2026-03-26T08:53:08Z",
+      "last_collected_at": "2026-03-26T08:54:51Z",
       "last_updated": "2026-03-26",
       "history": [
         {
           "date": "2026-03-26",
           "stars": 28830
-        },
-        {
-          "date": "2026-03-26",
-          "stars": 28835
         }
       ]
     },
@@ -8157,13 +6840,9 @@
       "stars": 3805,
       "created_at": "2025-04-10T02:06:51Z",
       "repo_updated_at": "2026-03-26T08:24:48Z",
-      "last_collected_at": "2026-03-26T09:15:53Z",
+      "last_collected_at": "2026-03-26T08:54:51Z",
       "last_updated": "2026-03-26",
       "history": [
-        {
-          "date": "2026-03-26",
-          "stars": 3805
-        },
         {
           "date": "2026-03-26",
           "stars": 3805
@@ -8182,13 +6861,9 @@
       "stars": 5760,
       "created_at": "2025-06-06T02:12:47Z",
       "repo_updated_at": "2026-03-26T07:27:22Z",
-      "last_collected_at": "2026-03-26T09:15:53Z",
+      "last_collected_at": "2026-03-26T08:54:51Z",
       "last_updated": "2026-03-26",
       "history": [
-        {
-          "date": "2026-03-26",
-          "stars": 5760
-        },
         {
           "date": "2026-03-26",
           "stars": 5760
