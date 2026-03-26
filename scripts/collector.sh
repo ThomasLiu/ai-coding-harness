@@ -10,7 +10,7 @@ README_FILE="$SCRIPT_DIR/README.md"
 ALL_REPOS_FILE="$SCRIPT_DIR/ALL_REPOS.md"
 
 # AI 分析阈值：只分析 Stars >= 30000 的仓库
-AI_ANALYSIS_THRESHOLD=30000
+AI_ANALYSIS_THRESHOLD=100000
 
 log() { echo "[$(date '+%H:%M:%S')] $*"; }
 error() { echo "[ERROR] $*"; }
