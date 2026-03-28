@@ -1,37 +1,37 @@
 # AI Coding Harness Repos
 
 > 自动采集 GitHub 上高星的 AI Coding Harness 仓库
-> 更新时间: 2026-03-28 | 最后采集: 2026-03-28 | 数据采集时间: 2026-03-27T20:40:26Z | 共 327 个仓库 | 已 AI 分析: 9 个
+> 更新时间: 2026-03-28 | 最后采集: 2026-03-28 | 数据采集时间: 2026-03-28T02:40:28Z | 共 327 个仓库 | 已 AI 分析: 9 个
 
 ## 🔥 Top 10 总星榜
 
 | # | 仓库 | 星数 | 简介 |
 |---|------|------|------|
- | 1 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | 146316 | Langflow是一个低代码可视化构建AI代理和工作流的平台，基于Python和LangChain生态 |
- | 2 | [langgenius/dify](https://github.com/langgenius/dify) | 134752 |  |
- | 3 | [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) | 133460 |  |
- | 4 | [anomalyco/opencode](https://github.com/anomalyco/opencode) | 131459 |  |
- | 5 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | 131335 | ** LangChain 是一个用于构建 LLM 应用的开源框架，提供组件化和链式调用能力，简化 AI 应用开发。** |
- | 6 | [obra/superpowers](https://github.com/obra/superpowers) | 118255 |  |
- | 7 | [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code) | 112093 |  |
- | 8 | [anthropics/skills](https://github.com/anthropics/skills) | 104522 |  |
- | 9 | [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) | 103775 | 收集 GPT、Claude、Gemini 等大模型的 AI Agent 与 RAG 应用合集，10 万 + Star 的热门开源资源库。 |
- | 10 | [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) | 99290 | An open-source AI agent that brings the power ⭐待AI分析 |
+ | 1 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | 146323 | Langflow是一个低代码可视化构建AI代理和工作流的平台，基于Python和LangChain生态 |
+ | 2 | [langgenius/dify](https://github.com/langgenius/dify) | 134759 |  |
+ | 3 | [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) | 133473 |  |
+ | 4 | [anomalyco/opencode](https://github.com/anomalyco/opencode) | 131557 |  |
+ | 5 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | 131321 | ** LangChain 是一个用于构建 LLM 应用的开源框架，提供组件化和链式调用能力，简化 AI 应用开发。** |
+ | 6 | [obra/superpowers](https://github.com/obra/superpowers) | 118674 |  |
+ | 7 | [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code) | 112553 |  |
+ | 8 | [anthropics/skills](https://github.com/anthropics/skills) | 104621 |  |
+ | 9 | [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) | 103787 | 收集 GPT、Claude、Gemini 等大模型的 AI Agent 与 RAG 应用合集，10 万 + Star 的热门开源资源库。 |
+ | 10 | [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) | 99294 | An open-source AI agent that brings the power ⭐待AI分析 |
 
 ## 📈 Top 10 周增长榜
 
 | # | 仓库 | 星数 | 周增长 | 简介 |
 |---|------|------|--------|------|
- | 1 | [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) | 99290 | +1 | An open-source AI agent that brings the power ⭐待AI分析 |
- | 2 | [zilliztech/claude-context](https://github.com/zilliztech/claude-context) | 5770 | +0 | Code search MCP for Claude Code. Make entire ⭐待AI分析 |
- | 3 | [zgsm-ai/costrict](https://github.com/zgsm-ai/costrict) | 3821 | +0 | Costrict - strict AI coder for enterprises, quality ⭐待AI分析 |
- | 4 | [zebbern/claude-code-guide](https://github.com/zebbern/claude-code-guide) | 3735 | +0 | Claude Code Guide - Setup, Commands, workflows, agents, ⭐待AI分析 |
+ | 1 | [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) | 99294 | +1 | An open-source AI agent that brings the power ⭐待AI分析 |
+ | 2 | [zilliztech/claude-context](https://github.com/zilliztech/claude-context) | 5772 | +0 | Code search MCP for Claude Code. Make entire ⭐待AI分析 |
+ | 3 | [zgsm-ai/costrict](https://github.com/zgsm-ai/costrict) | 3822 | +0 | Costrict - strict AI coder for enterprises, quality ⭐待AI分析 |
+ | 4 | [zebbern/claude-code-guide](https://github.com/zebbern/claude-code-guide) | 3738 | +0 | Claude Code Guide - Setup, Commands, workflows, agents, ⭐待AI分析 |
  | 5 | [yejy53/Echo-4o](https://github.com/yejy53/Echo-4o) | 511 | +0 | Echo-4o: Harnessing Proprietary Models’ Synthetic Images for Improved ⭐待AI分析 |
  | 6 | [xonsh/xonsh](https://github.com/xonsh/xonsh) | 9264 | +0 | 🐚 Python-powered shell. Full-featured, cross-platform and AI-friendly. ⭐待AI分析 |
- | 7 | [wshobson/agents](https://github.com/wshobson/agents) | 32397 | +0 | Intelligent automation and multi-agent orchestration for Claude Code ⭐待AI分析 |
+ | 7 | [wshobson/agents](https://github.com/wshobson/agents) | 32406 | +0 | Intelligent automation and multi-agent orchestration for Claude Code ⭐待AI分析 |
  | 8 | [wireviz/WireViz](https://github.com/wireviz/WireViz) | 4936 | +0 | Easily document cables and wiring harnesses. ⭐待AI分析 |
  | 9 | [wasp-lang/open-saas](https://github.com/wasp-lang/open-saas) | 13665 | +0 | A 100% free modern JS SaaS boilerplate (React, ⭐待AI分析 |
- | 10 | [warpdotdev/Warp](https://github.com/warpdotdev/Warp) | 26244 | +0 | Warp is the agentic development environment, built for ⭐待AI分析 |
+ | 10 | [warpdotdev/Warp](https://github.com/warpdotdev/Warp) | 26246 | +0 | Warp is the agentic development environment, built for ⭐待AI分析 |
 
 ## 数据说明
 
