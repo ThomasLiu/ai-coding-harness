@@ -1,37 +1,37 @@
 # AI Coding Harness Repos
 
 > 自动采集 GitHub 上高星的 AI Coding Harness 仓库
-> 更新时间: 2026-04-01 | 最后采集: 2026-04-01 | 数据采集时间: 2026-04-01T02:40:28Z | 共 324 个仓库 | 已 AI 分析: 10 个
+> 更新时间: 2026-04-01 | 最后采集: 2026-04-01 | 数据采集时间: 2026-04-01T08:40:42Z | 共 324 个仓库 | 已 AI 分析: 10 个
 
 ## 🔥 Top 10 总星榜
 
 | # | 仓库 | 星数 | 简介 |
 |---|------|------|------|
- | 1 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | 146443 | Langflow是一个低代码可视化构建AI代理和工作流的平台，基于Python和LangChain生态 |
- | 2 | [langgenius/dify](https://github.com/langgenius/dify) | 135244 |  |
- | 3 | [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) | 133909 |  |
- | 4 | [anomalyco/opencode](https://github.com/anomalyco/opencode) | 133864 |  |
- | 5 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | 131832 | ** LangChain 是一个用于构建 LLM 应用的开源框架，提供组件化和链式调用能力，简化 AI 应用开发。** |
- | 6 | [obra/superpowers](https://github.com/obra/superpowers) | 128361 |  |
- | 7 | [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code) | 127461 |  |
- | 8 | [anthropics/skills](https://github.com/anthropics/skills) | 107659 |  |
- | 9 | [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) | 104150 | 收集 GPT、Claude、Gemini 等大模型的 AI Agent 与 RAG 应用合集，10 万 + Star 的热门开源资源库。 |
- | 10 | [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) | 102039 |  |
+ | 1 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | 146449 | Langflow是一个低代码可视化构建AI代理和工作流的平台，基于Python和LangChain生态 |
+ | 2 | [langgenius/dify](https://github.com/langgenius/dify) | 135300 |  |
+ | 3 | [anomalyco/opencode](https://github.com/anomalyco/opencode) | 134185 |  |
+ | 4 | [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) | 133952 |  |
+ | 5 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | 131878 | ** LangChain 是一个用于构建 LLM 应用的开源框架，提供组件化和链式调用能力，简化 AI 应用开发。** |
+ | 6 | [obra/superpowers](https://github.com/obra/superpowers) | 129130 |  |
+ | 7 | [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code) | 128870 |  |
+ | 8 | [anthropics/skills](https://github.com/anthropics/skills) | 107970 |  |
+ | 9 | [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) | 104191 | 收集 GPT、Claude、Gemini 等大模型的 AI Agent 与 RAG 应用合集，10 万 + Star 的热门开源资源库。 |
+ | 10 | [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) | 102186 |  |
 
 ## 📈 Top 10 周增长榜
 
 | # | 仓库 | 星数 | 周增长 | 简介 |
 |---|------|------|--------|------|
- | 1 | [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) | 99758 | +1 | An open-source AI agent that brings the power ⭐待AI分析 |
+ | 1 | [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) | 99809 | +1 | An open-source AI agent that brings the power ⭐待AI分析 |
  | 2 | [zilliztech/claude-context](https://github.com/zilliztech/claude-context) | 5812 | +0 | Code search MCP for Claude Code. Make entire ⭐待AI分析 |
- | 3 | [zgsm-ai/costrict](https://github.com/zgsm-ai/costrict) | 3843 | +0 | Costrict - strict AI coder for enterprises, quality ⭐待AI分析 |
- | 4 | [zebbern/claude-code-guide](https://github.com/zebbern/claude-code-guide) | 3772 | +0 | Claude Code Guide - Setup, Commands, workflows, agents, ⭐待AI分析 |
+ | 3 | [zgsm-ai/costrict](https://github.com/zgsm-ai/costrict) | 3846 | +0 | Costrict - strict AI coder for enterprises, quality ⭐待AI分析 |
+ | 4 | [zebbern/claude-code-guide](https://github.com/zebbern/claude-code-guide) | 3779 | +0 | Claude Code Guide - Setup, Commands, workflows, agents, ⭐待AI分析 |
  | 5 | [yejy53/Echo-4o](https://github.com/yejy53/Echo-4o) | 509 | +0 | Echo-4o: Harnessing Proprietary Models’ Synthetic Images for Improved ⭐待AI分析 |
- | 6 | [xonsh/xonsh](https://github.com/xonsh/xonsh) | 9263 | +0 | 🐚 Python-powered shell. Full-featured, cross-platform and AI-friendly. ⭐待AI分析 |
- | 7 | [wshobson/agents](https://github.com/wshobson/agents) | 32675 | +0 | Intelligent automation and multi-agent orchestration for Claude Code ⭐待AI分析 |
- | 8 | [wireviz/WireViz](https://github.com/wireviz/WireViz) | 4937 | +0 | Easily document cables and wiring harnesses. ⭐待AI分析 |
- | 9 | [wasp-lang/open-saas](https://github.com/wasp-lang/open-saas) | 13722 | +0 | A 100% free modern JS SaaS boilerplate (React, ⭐待AI分析 |
- | 10 | [warpdotdev/Warp](https://github.com/warpdotdev/Warp) | 26276 | +0 | Warp is the agentic development environment, built for ⭐待AI分析 |
+ | 6 | [xonsh/xonsh](https://github.com/xonsh/xonsh) | 9265 | +0 | 🐚 Python-powered shell. Full-featured, cross-platform and AI-friendly. ⭐待AI分析 |
+ | 7 | [wshobson/agents](https://github.com/wshobson/agents) | 32703 | +0 | Intelligent automation and multi-agent orchestration for Claude Code ⭐待AI分析 |
+ | 8 | [wireviz/WireViz](https://github.com/wireviz/WireViz) | 4938 | +0 | Easily document cables and wiring harnesses. ⭐待AI分析 |
+ | 9 | [wasp-lang/open-saas](https://github.com/wasp-lang/open-saas) | 13727 | +0 | A 100% free modern JS SaaS boilerplate (React, ⭐待AI分析 |
+ | 10 | [warpdotdev/Warp](https://github.com/warpdotdev/Warp) | 26280 | +0 | Warp is the agentic development environment, built for ⭐待AI分析 |
 
 ## 数据说明
 
