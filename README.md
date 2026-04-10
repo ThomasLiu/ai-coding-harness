@@ -1,36 +1,36 @@
 # AI Coding Harness Repos
 
 > 自动采集 GitHub 上高星的 AI Coding Harness 仓库
-> 更新时间: 2026-04-10 | 最后采集: 2026-04-10 | 数据采集时间: 2026-04-10T08:46:28Z | 共 322 个仓库 | 已 AI 分析: 12 个
+> 更新时间: 2026-04-10 | 最后采集: 2026-04-10 | 数据采集时间: 2026-04-10T14:46:29Z | 共 322 个仓库 | 已 AI 分析: 12 个
 
 ## 🔥 Top 10 总星榜
 
 | # | 仓库 | 星数 | 简介 |
 |---|------|------|------|
- | 1 | [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code) | 149301 |  |
- | 2 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | 146758 | Langflow是一个低代码可视化构建AI代理和工作流的平台，基于Python和LangChain生态 |
- | 3 | [obra/superpowers](https://github.com/obra/superpowers) | 144583 |  |
- | 4 | [anomalyco/opencode](https://github.com/anomalyco/opencode) | 140792 |  |
- | 5 | [langgenius/dify](https://github.com/langgenius/dify) | 137051 |  |
- | 6 | [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) | 134857 |  |
- | 7 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | 133019 | ** LangChain 是一个用于构建 LLM 应用的开源框架，提供组件化和链式调用能力，简化 AI 应用开发。** |
- | 8 | [anthropics/skills](https://github.com/anthropics/skills) | 114275 |  |
- | 9 | [anthropics/claude-code](https://github.com/anthropics/claude-code) | 111967 | Claude Code 是 Anthropic 官方推出的 CLI 工具，为 Claude (Claude Opus 4.6) 提供终端编程能力，支持代码生成、修改、解释及 Git 操作。 |
- | 10 | [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) | 106694 |  |
+ | 1 | [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code) | 149674 |  |
+ | 2 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | 146772 | Langflow是一个低代码可视化构建AI代理和工作流的平台，基于Python和LangChain生态 |
+ | 3 | [obra/superpowers](https://github.com/obra/superpowers) | 145196 |  |
+ | 4 | [anomalyco/opencode](https://github.com/anomalyco/opencode) | 140972 |  |
+ | 5 | [langgenius/dify](https://github.com/langgenius/dify) | 137100 |  |
+ | 6 | [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) | 134877 |  |
+ | 7 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | 133050 | ** LangChain 是一个用于构建 LLM 应用的开源框架，提供组件化和链式调用能力，简化 AI 应用开发。** |
+ | 8 | [anthropics/skills](https://github.com/anthropics/skills) | 114466 |  |
+ | 9 | [anthropics/claude-code](https://github.com/anthropics/claude-code) | 112104 | Claude Code 是 Anthropic 官方推出的 CLI 工具，为 Claude (Claude Opus 4.6) 提供终端编程能力，支持代码生成、修改、解释及 Git 操作。 |
+ | 10 | [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) | 106871 |  |
 
 ## 📈 Top 10 周增长榜
 
 | # | 仓库 | 星数 | 周增长 | 简介 |
 |---|------|------|--------|------|
- | 1 | [kweaver-ai/kweaver-core](https://github.com/kweaver-ai/kweaver-core) | 431 | +1 | KWeaver Core is a harness-first foundation for enterprise ⭐待AI分析 |
- | 2 | [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) | 100780 | +1 | Google官方发布的终端AI智能体，将Gemini能力直接带入命令行，支持多轮对话、文件处理等核心功能。 |
- | 3 | [zilliztech/claude-context](https://github.com/zilliztech/claude-context) | 5881 | +0 | Code search MCP for Claude Code. Make entire ⭐待AI分析 |
+ | 1 | [kweaver-ai/kweaver-core](https://github.com/kweaver-ai/kweaver-core) | 437 | +1 | KWeaver Core is a harness-first foundation for enterprise ⭐待AI分析 |
+ | 2 | [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) | 100809 | +1 | Google官方发布的终端AI智能体，将Gemini能力直接带入命令行，支持多轮对话、文件处理等核心功能。 |
+ | 3 | [zilliztech/claude-context](https://github.com/zilliztech/claude-context) | 5886 | +0 | Code search MCP for Claude Code. Make entire ⭐待AI分析 |
  | 4 | [yejy53/Echo-4o](https://github.com/yejy53/Echo-4o) | 507 | +0 | Echo-4o: Harnessing Proprietary Models’ Synthetic Images for Improved ⭐待AI分析 |
- | 5 | [xonsh/xonsh](https://github.com/xonsh/xonsh) | 9276 | +0 | 🐚 Python-powered shell. Full-featured, cross-platform and AI-friendly. ⭐待AI分析 |
- | 6 | [wshobson/agents](https://github.com/wshobson/agents) | 33307 | +0 | Intelligent automation and multi-agent orchestration for Claude Code ⭐待AI分析 |
+ | 5 | [xonsh/xonsh](https://github.com/xonsh/xonsh) | 9277 | +0 | 🐚 Python-powered shell. Full-featured, cross-platform and AI-friendly. ⭐待AI分析 |
+ | 6 | [wshobson/agents](https://github.com/wshobson/agents) | 33332 | +0 | Intelligent automation and multi-agent orchestration for Claude Code ⭐待AI分析 |
  | 7 | [wireviz/WireViz](https://github.com/wireviz/WireViz) | 4949 | +0 | Easily document cables and wiring harnesses. ⭐待AI分析 |
- | 8 | [wasp-lang/open-saas](https://github.com/wasp-lang/open-saas) | 14018 | +0 | A 100% free modern JS SaaS boilerplate (React, ⭐待AI分析 |
- | 9 | [warpdotdev/Warp](https://github.com/warpdotdev/Warp) | 26356 | +0 | Warp is the agentic development environment, built for ⭐待AI分析 |
+ | 8 | [wasp-lang/open-saas](https://github.com/wasp-lang/open-saas) | 14021 | +0 | A 100% free modern JS SaaS boilerplate (React, ⭐待AI分析 |
+ | 9 | [warpdotdev/Warp](https://github.com/warpdotdev/Warp) | 26362 | +0 | Warp is the agentic development environment, built for ⭐待AI分析 |
  | 10 | [w1oves/Rein](https://github.com/w1oves/Rein) | 401 | +0 | [CVPR 2024] Official implement of <Stronger, Fewer, & ⭐待AI分析 |
 
 ## 数据说明
