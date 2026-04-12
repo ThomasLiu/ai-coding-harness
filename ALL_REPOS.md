@@ -5,21 +5,21 @@
 
 ### affaan-m/everything-claude-code
 
-- **星数**: 151214 ⭐ ⭐待AI分析
+- **星数**: 151435 ⭐ ⭐待AI分析
 - **创建时间**: 2026-01-18
 - **URL**: https://github.com/affaan-m/everything-claude-code
 - **简介**: The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
 
 ### obra/superpowers
 
-- **星数**: 147015 ⭐ ⭐待AI分析
+- **星数**: 147244 ⭐ ⭐待AI分析
 - **创建时间**: 2025-10-09
 - **URL**: https://github.com/obra/superpowers
 - **简介**: An agentic skills framework & software development methodology that works.
 
 ### langflow-ai/langflow
 
-- **星数**: 146813 ⭐
+- **星数**: 146819 ⭐
 - **创建时间**: 2023-02-08
 - **URL**: https://github.com/langflow-ai/langflow
 - **简介**: Langflow是一个低代码可视化构建AI代理和工作流的平台，基于Python和LangChain生态
@@ -28,28 +28,28 @@
 
 ### anomalyco/opencode
 
-- **星数**: 141580 ⭐ ⭐待AI分析
+- **星数**: 141660 ⭐ ⭐待AI分析
 - **创建时间**: 2025-04-30
 - **URL**: https://github.com/anomalyco/opencode
 - **简介**: The open source coding agent.
 
 ### langgenius/dify
 
-- **星数**: 137277 ⭐ ⭐待AI分析
+- **星数**: 137307 ⭐ ⭐待AI分析
 - **创建时间**: 2023-04-12
 - **URL**: https://github.com/langgenius/dify
 - **简介**: Production-ready platform for agentic workflow development.
 
 ### x1xhlol/system-prompts-and-models-of-ai-tools
 
-- **星数**: 134947 ⭐ ⭐待AI分析
+- **星数**: 134960 ⭐ ⭐待AI分析
 - **创建时间**: 2025-03-05
 - **URL**: https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools
 - **简介**: FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models
 
 ### langchain-ai/langchain
 
-- **星数**: 133184 ⭐
+- **星数**: 133202 ⭐
 - **创建时间**: 2022-10-17
 - **URL**: https://github.com/langchain-ai/langchain
 - **简介**: ** LangChain 是一个用于构建 LLM 应用的开源框架，提供组件化和链式调用能力，简化 AI 应用开发。**
@@ -58,14 +58,14 @@
 
 ### anthropics/skills
 
-- **星数**: 115142 ⭐ ⭐待AI分析
+- **星数**: 115230 ⭐ ⭐待AI分析
 - **创建时间**: 2025-09-22
 - **URL**: https://github.com/anthropics/skills
 - **简介**: Public repository for Agent Skills
 
 ### anthropics/claude-code
 
-- **星数**: 112578 ⭐
+- **星数**: 112656 ⭐
 - **创建时间**: 2025-02-22
 - **URL**: https://github.com/anthropics/claude-code
 - **简介**: Claude Code 是 Anthropic 官方推出的 CLI 工具，为 Claude (Claude Opus 4.6) 提供终端编程能力，支持代码生成、修改、解释及 Git 操作。
@@ -74,14 +74,14 @@
 
 ### firecrawl/firecrawl
 
-- **星数**: 107505 ⭐ ⭐待AI分析
+- **星数**: 107648 ⭐ ⭐待AI分析
 - **创建时间**: 2024-04-15
 - **URL**: https://github.com/firecrawl/firecrawl
 - **简介**: 🔥 The Web Data API for AI - Power AI agents with clean web data
 
 ### Shubhamsaboo/awesome-llm-apps
 
-- **星数**: 105146 ⭐
+- **星数**: 105157 ⭐
 - **创建时间**: 2024-04-29
 - **URL**: https://github.com/Shubhamsaboo/awesome-llm-apps
 - **简介**: 收集 GPT、Claude、Gemini 等大模型的 AI Agent 与 RAG 应用合集，10 万 + Star 的热门开源资源库。
@@ -90,7 +90,7 @@
 
 ### google-gemini/gemini-cli
 
-- **星数**: 100951 ⭐
+- **星数**: 100966 ⭐
 - **创建时间**: 2025-04-17
 - **URL**: https://github.com/google-gemini/gemini-cli
 - **简介**: Google官方发布的终端AI智能体，将Gemini能力直接带入命令行，支持多轮对话、文件处理等核心功能。
@@ -99,56 +99,56 @@
 
 ### browser-use/browser-use
 
-- **星数**: 87223 ⭐ ⭐待AI分析
+- **星数**: 87267 ⭐ ⭐待AI分析
 - **创建时间**: 2024-10-31
 - **URL**: https://github.com/browser-use/browser-use
 - **简介**: 🌐 Make websites accessible for AI agents. Automate tasks online with ease.
 
 ### msitarzewski/agency-agents
 
-- **星数**: 78346 ⭐ ⭐待AI分析
+- **星数**: 78446 ⭐ ⭐待AI分析
 - **创建时间**: 2025-10-13
 - **URL**: https://github.com/msitarzewski/agency-agents
 - **简介**: A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.
 
 ### infiniflow/ragflow
 
-- **星数**: 77785 ⭐ ⭐待AI分析
+- **星数**: 77799 ⭐ ⭐待AI分析
 - **创建时间**: 2023-12-12
 - **URL**: https://github.com/infiniflow/ragflow
 - **简介**: RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs
 
 ### lobehub/lobehub
 
-- **星数**: 75055 ⭐ ⭐待AI分析
+- **星数**: 75059 ⭐ ⭐待AI分析
 - **创建时间**: 2023-05-21
 - **URL**: https://github.com/lobehub/lobehub
 - **简介**: The ultimate space for work and life — to find, build, and collaborate with agent teammates that grow with you. We are taking agent harness to the next level — enabling multi-agent collaboration, effortless agent team design, and introducing agents as the unit of work interaction.
 
 ### openai/codex
 
-- **星数**: 74634 ⭐ ⭐待AI分析
+- **星数**: 74667 ⭐ ⭐待AI分析
 - **创建时间**: 2025-04-13
 - **URL**: https://github.com/openai/codex
 - **简介**: Lightweight coding agent that runs in your terminal
 
 ### dair-ai/Prompt-Engineering-Guide
 
-- **星数**: 73154 ⭐ ⭐待AI分析
+- **星数**: 73165 ⭐ ⭐待AI分析
 - **创建时间**: 2022-12-16
 - **URL**: https://github.com/dair-ai/Prompt-Engineering-Guide
 - **简介**: 🐙 Guides, papers, lessons, notebooks and resources for prompt engineering, context engineering, RAG, and AI Agents.
 
 ### karpathy/autoresearch
 
-- **星数**: 70449 ⭐ ⭐待AI分析
+- **星数**: 70558 ⭐ ⭐待AI分析
 - **创建时间**: 2026-03-06
 - **URL**: https://github.com/karpathy/autoresearch
 - **简介**: AI agents running research on single-GPU nanochat training automatically
 
 ### garrytan/gstack
 
-- **星数**: 69823 ⭐ ⭐待AI分析
+- **星数**: 69956 ⭐ ⭐待AI分析
 - **创建时间**: 2026-03-11
 - **URL**: https://github.com/garrytan/gstack
 - **简介**: Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA
@@ -162,413 +162,413 @@
 
 ### FoundationAgents/MetaGPT
 
-- **星数**: 66927 ⭐ ⭐待AI分析
+- **星数**: 66936 ⭐ ⭐待AI分析
 - **创建时间**: 2023-06-30
 - **URL**: https://github.com/FoundationAgents/MetaGPT
 - **简介**: 🌟 The Multi-Agent Framework: First AI Software Company, Towards Natural Language Programming
 
 ### OpenBB-finance/OpenBB
 
-- **星数**: 65717 ⭐ ⭐待AI分析
+- **星数**: 65723 ⭐ ⭐待AI分析
 - **创建时间**: 2020-12-20
 - **URL**: https://github.com/OpenBB-finance/OpenBB
 - **简介**: Financial data platform for analysts, quants and AI agents.
 
 ### nextlevelbuilder/ui-ux-pro-max-skill
 
-- **星数**: 62948 ⭐ ⭐待AI分析
+- **星数**: 63079 ⭐ ⭐待AI分析
 - **创建时间**: 2025-11-30
 - **URL**: https://github.com/nextlevelbuilder/ui-ux-pro-max-skill
 - **简介**: An AI SKILL that provide design intelligence for building professional UI/UX multiple platforms
 
 ### bytedance/deer-flow
 
-- **星数**: 60457 ⭐ ⭐待AI分析
+- **星数**: 60496 ⭐ ⭐待AI分析
 - **创建时间**: 2025-05-07
 - **URL**: https://github.com/bytedance/deer-flow
 - **简介**: An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks that could take minutes to hours.
 
 ### cline/cline
 
-- **星数**: 60157 ⭐ ⭐待AI分析
+- **星数**: 60167 ⭐ ⭐待AI分析
 - **创建时间**: 2024-07-06
 - **URL**: https://github.com/cline/cline
 - **简介**: Autonomous coding agent right in your IDE, capable of creating/editing files, executing commands, using the browser, and more with your permission every step of the way.
 
-### opendatalab/MinerU
-
-- **星数**: 59323 ⭐ ⭐待AI分析
-- **创建时间**: 2024-02-29
-- **URL**: https://github.com/opendatalab/MinerU
-- **简介**: Transforms complex documents like PDFs into LLM-ready markdown/JSON for your Agentic workflows.
-
 ### NousResearch/hermes-agent
 
-- **星数**: 58308 ⭐ ⭐待AI分析
+- **星数**: 59560 ⭐ ⭐待AI分析
 - **创建时间**: 2025-07-22
 - **URL**: https://github.com/NousResearch/hermes-agent
 - **简介**: The agent that grows with you
 
+### opendatalab/MinerU
+
+- **星数**: 59343 ⭐ ⭐待AI分析
+- **创建时间**: 2024-02-29
+- **URL**: https://github.com/opendatalab/MinerU
+- **简介**: Transforms complex documents like PDFs into LLM-ready markdown/JSON for your Agentic workflows.
+
 ### microsoft/autogen
 
-- **星数**: 56970 ⭐ ⭐待AI分析
+- **星数**: 56974 ⭐ ⭐待AI分析
 - **创建时间**: 2023-08-18
 - **URL**: https://github.com/microsoft/autogen
 - **简介**: A programming framework for agentic AI
 
 ### microsoft/ai-agents-for-beginners
 
-- **星数**: 56448 ⭐ ⭐待AI分析
+- **星数**: 56459 ⭐ ⭐待AI分析
 - **创建时间**: 2024-11-28
 - **URL**: https://github.com/microsoft/ai-agents-for-beginners
 - **简介**: 12 Lessons to Get Started Building AI Agents
 
 ### ComposioHQ/awesome-claude-skills
 
-- **星数**: 52983 ⭐ ⭐待AI分析
+- **星数**: 53024 ⭐ ⭐待AI分析
 - **创建时间**: 2025-10-17
 - **URL**: https://github.com/ComposioHQ/awesome-claude-skills
 - **简介**: A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows
 
 ### mem0ai/mem0
 
-- **星数**: 52670 ⭐ ⭐待AI分析
+- **星数**: 52689 ⭐ ⭐待AI分析
 - **创建时间**: 2023-06-20
 - **URL**: https://github.com/mem0ai/mem0
 - **简介**: Universal memory layer for AI Agents
 
 ### FlowiseAI/Flowise
 
-- **星数**: 51780 ⭐ ⭐待AI分析
+- **星数**: 51783 ⭐ ⭐待AI分析
 - **创建时间**: 2023-03-31
 - **URL**: https://github.com/FlowiseAI/Flowise
 - **简介**: Build AI Agents, Visually
 
 ### shareAI-lab/learn-claude-code
 
-- **星数**: 51710 ⭐ ⭐待AI分析
+- **星数**: 51757 ⭐ ⭐待AI分析
 - **创建时间**: 2025-06-29
 - **URL**: https://github.com/shareAI-lab/learn-claude-code
 - **简介**: Bash is all you need -  A nano claude code–like 「agent harness」, built from 0 to 1
 
 ### gsd-build/get-shit-done
 
-- **星数**: 50635 ⭐ ⭐待AI分析
+- **星数**: 50707 ⭐ ⭐待AI分析
 - **创建时间**: 2025-12-14
 - **URL**: https://github.com/gsd-build/get-shit-done
 - **简介**: A light-weight and powerful meta-prompting, context engineering and spec-driven development system for Claude Code by TÂCHES.
 
 ### code-yeongyu/oh-my-openagent
 
-- **星数**: 50575 ⭐ ⭐待AI分析
+- **星数**: 50608 ⭐ ⭐待AI分析
 - **创建时间**: 2025-12-03
 - **URL**: https://github.com/code-yeongyu/oh-my-openagent
 - **简介**: omo; the best agent harness - previously oh-my-opencode
 
 ### TauricResearch/TradingAgents
 
-- **星数**: 49565 ⭐ ⭐待AI分析
+- **星数**: 49621 ⭐ ⭐待AI分析
 - **创建时间**: 2024-12-28
 - **URL**: https://github.com/TauricResearch/TradingAgents
 - **简介**: TradingAgents: Multi-Agents LLM Financial Trading Framework
 
 ### huginn/huginn
 
-- **星数**: 49080 ⭐ ⭐待AI分析
+- **星数**: 49082 ⭐ ⭐待AI分析
 - **创建时间**: 2013-03-10
 - **URL**: https://github.com/huginn/huginn
 - **简介**: Create agents that monitor and act on your behalf.  Your agents are standing by!
 
 ### crewAIInc/crewAI
 
-- **星数**: 48618 ⭐ ⭐待AI分析
+- **星数**: 48631 ⭐ ⭐待AI分析
 - **创建时间**: 2023-10-27
 - **URL**: https://github.com/crewAIInc/crewAI
 - **简介**: Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks.
 
 ### run-llama/llama_index
 
-- **星数**: 48502 ⭐ ⭐待AI分析
+- **星数**: 48506 ⭐ ⭐待AI分析
 - **创建时间**: 2022-11-02
 - **URL**: https://github.com/run-llama/llama_index
 - **简介**: LlamaIndex is the leading document agent and OCR platform
 
 ### thedotmack/claude-mem
 
-- **星数**: 48080 ⭐ ⭐待AI分析
+- **星数**: 48228 ⭐ ⭐待AI分析
 - **创建时间**: 2025-08-31
 - **URL**: https://github.com/thedotmack/claude-mem
 - **简介**: A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.
 
 ### VoltAgent/awesome-design-md
 
-- **星数**: 43552 ⭐ ⭐待AI分析
+- **星数**: 43935 ⭐ ⭐待AI分析
 - **创建时间**: 2026-03-31
 - **URL**: https://github.com/VoltAgent/awesome-design-md
 - **简介**: A collection of DESIGN.md files inspired by popular brand design systems. Drop one into your project and let coding agents generate a matching UI.
 
 ### CherryHQ/cherry-studio
 
-- **星数**: 43316 ⭐ ⭐待AI分析
+- **星数**: 43322 ⭐ ⭐待AI分析
 - **创建时间**: 2024-05-24
 - **URL**: https://github.com/CherryHQ/cherry-studio
 - **简介**: AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs
 
 ### farion1231/cc-switch
 
-- **星数**: 42945 ⭐ ⭐待AI分析
+- **星数**: 42997 ⭐ ⭐待AI分析
 - **创建时间**: 2025-08-04
 - **URL**: https://github.com/farion1231/cc-switch
 - **简介**: A cross-platform desktop All-in-One assistant tool for Claude Code, Codex, OpenCode, openclaw & Gemini CLI.
 
 ### aaif-goose/goose
 
-- **星数**: 41175 ⭐ ⭐待AI分析
+- **星数**: 41222 ⭐ ⭐待AI分析
 - **创建时间**: 2024-08-23
 - **URL**: https://github.com/aaif-goose/goose
 - **简介**: an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
 
 ### microsoft/qlib
 
-- **星数**: 40573 ⭐ ⭐待AI分析
+- **星数**: 40577 ⭐ ⭐待AI分析
 - **创建时间**: 2020-08-14
 - **URL**: https://github.com/microsoft/qlib
 - **简介**: Qlib is an AI-oriented Quant investment platform that aims to use AI tech to empower Quant Research, from exploring ideas to implementing productions. Qlib supports diverse ML modeling paradigms, including supervised learning, market dynamics modeling, and RL, and is now equipped with https://github.com/microsoft/RD-Agent to automate R&D process.
 
 ### 666ghj/BettaFish
 
-- **星数**: 40334 ⭐ ⭐待AI分析
+- **星数**: 40340 ⭐ ⭐待AI分析
 - **创建时间**: 2024-07-01
 - **URL**: https://github.com/666ghj/BettaFish
 - **简介**: 微舆：人人可用的多Agent舆情分析助手，打破信息茧房，还原舆情原貌，预测未来走向，辅助决策！从0实现，不依赖任何框架。
 
 ### agno-agi/agno
 
-- **星数**: 39353 ⭐ ⭐待AI分析
+- **星数**: 39357 ⭐ ⭐待AI分析
 - **创建时间**: 2022-05-04
 - **URL**: https://github.com/agno-agi/agno
 - **简介**: Build, run, manage agentic software at scale.
 
 ### HKUDS/nanobot
 
-- **星数**: 39076 ⭐ ⭐待AI分析
+- **星数**: 39087 ⭐ ⭐待AI分析
 - **创建时间**: 2026-02-01
 - **URL**: https://github.com/HKUDS/nanobot
 - **简介**: "🐈 nanobot: The Ultra-Lightweight Personal AI Agent"
 
 ### mindsdb/mindsdb
 
-- **星数**: 38954 ⭐ ⭐待AI分析
+- **星数**: 38956 ⭐ ⭐待AI分析
 - **创建时间**: 2018-08-02
 - **URL**: https://github.com/mindsdb/mindsdb
 - **简介**: Query Engine for AI Analytics: Build self-reasoning agents across all your live data
 
 ### asgeirtj/system_prompts_leaks
 
-- **星数**: 38131 ⭐ ⭐待AI分析
+- **星数**: 38138 ⭐ ⭐待AI分析
 - **创建时间**: 2025-05-03
 - **URL**: https://github.com/asgeirtj/system_prompts_leaks
 - **简介**: Extracted system prompts from ChatGPT (GPT-5.4, GPT-5.3, Codex), Claude (Opus 4.6, Sonnet 4.6, Claude Code), Gemini (3.1 Pro, 3 Flash, CLI), Grok (4.2, 4), Perplexity, and more. Updated regularly.
 
 ### hesreallyhim/awesome-claude-code
 
-- **星数**: 38043 ⭐ ⭐待AI分析
+- **星数**: 38082 ⭐ ⭐待AI分析
 - **创建时间**: 2025-04-19
 - **URL**: https://github.com/hesreallyhim/awesome-claude-code
 - **简介**: A curated list of awesome skills, hooks, slash-commands, agent orchestrators, applications, and plugins for Claude Code by Anthropic
 
 ### chatchat-space/Langchain-Chatchat
 
-- **星数**: 37790 ⭐ ⭐待AI分析
+- **星数**: 37789 ⭐ ⭐待AI分析
 - **创建时间**: 2023-03-31
 - **URL**: https://github.com/chatchat-space/Langchain-Chatchat
 - **简介**: Langchain-Chatchat（原Langchain-ChatGLM）基于 Langchain 与 ChatGLM, Qwen 与 Llama 等语言模型的 RAG 与 Agent 应用 | Langchain-Chatchat (formerly langchain-ChatGLM), local knowledge based LLM (like ChatGLM, Qwen and Llama) RAG and Agent app with langchain 
 
 ### ToolJet/ToolJet
 
-- **星数**: 37724 ⭐ ⭐待AI分析
+- **星数**: 37725 ⭐ ⭐待AI分析
 - **创建时间**: 2021-03-30
 - **URL**: https://github.com/ToolJet/ToolJet
 - **简介**: ToolJet is the open-source foundation of ToolJet AI - the enterprise app generation platform for building internal tools, dashboard, business applications, workflows and AI agents 🚀
 
 ### shanraisshan/claude-code-best-practice
 
-- **星数**: 36923 ⭐ ⭐待AI分析
+- **星数**: 37164 ⭐ ⭐待AI分析
 - **创建时间**: 2025-10-31
 - **URL**: https://github.com/shanraisshan/claude-code-best-practice
 - **简介**: practice made claude perfect
 
 ### reworkd/AgentGPT
 
-- **星数**: 35965 ⭐ ⭐待AI分析
+- **星数**: 35964 ⭐ ⭐待AI分析
 - **创建时间**: 2023-04-07
 - **URL**: https://github.com/reworkd/AgentGPT
 - **简介**: 🤖 Assemble, configure, and deploy autonomous AI Agents in your browser.
 
 ### danny-avila/LibreChat
 
-- **星数**: 35519 ⭐ ⭐待AI分析
+- **星数**: 35526 ⭐ ⭐待AI分析
 - **创建时间**: 2023-02-12
 - **URL**: https://github.com/danny-avila/LibreChat
 - **简介**: Enhanced ChatGPT Clone: Features Agents, MCP, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message search, Code Interpreter, langchain, DALL-E-3, OpenAPI Actions, Functions, Secure Multi-User Auth, Presets, open-source for self-hosting. Active.
 
 ### 1Panel-dev/1Panel
 
-- **星数**: 34918 ⭐ ⭐待AI分析
+- **星数**: 34920 ⭐ ⭐待AI分析
 - **创建时间**: 2022-07-19
 - **URL**: https://github.com/1Panel-dev/1Panel
 - **简介**: 🔥 1Panel is a modern, open-source VPS control panel — and the only one with native AI agent support. Run Ollama models, deploy OpenClaw agents, and manage your entire server stack from one clean web interface.
 
-### harness/harness
-
-- **星数**: 34534 ⭐ ⭐待AI分析
-- **创建时间**: 2014-02-07
-- **URL**: https://github.com/harness/harness
-- **简介**: Harness Open Source is an end-to-end developer platform with Source Control Management, CI/CD Pipelines, Hosted Developer Environments, and Artifact Registries.
-
 ### badlogic/pi-mono
 
-- **星数**: 34468 ⭐ ⭐待AI分析
+- **星数**: 34548 ⭐ ⭐待AI分析
 - **创建时间**: 2025-08-09
 - **URL**: https://github.com/badlogic/pi-mono
 - **简介**: AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Slack bot, vLLM pods
 
+### harness/harness
+
+- **星数**: 34540 ⭐ ⭐待AI分析
+- **创建时间**: 2014-02-07
+- **URL**: https://github.com/harness/harness
+- **简介**: Harness Open Source is an end-to-end developer platform with Source Control Management, CI/CD Pipelines, Hosted Developer Environments, and Artifact Registries.
+
 ### ChromeDevTools/chrome-devtools-mcp
 
-- **星数**: 34085 ⭐ ⭐待AI分析
+- **星数**: 34177 ⭐ ⭐待AI分析
 - **创建时间**: 2025-09-11
 - **URL**: https://github.com/ChromeDevTools/chrome-devtools-mcp
 - **简介**: Chrome DevTools for coding agents
 
 ### khoj-ai/khoj
 
-- **星数**: 34016 ⭐ ⭐待AI分析
+- **星数**: 34017 ⭐ ⭐待AI分析
 - **创建时间**: 2021-08-16
 - **URL**: https://github.com/khoj-ai/khoj
 - **简介**: Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI (gpt, claude, gemini, llama, qwen, mistral). Get started - free.
 
 ### patchy631/ai-engineering-hub
 
-- **星数**: 33412 ⭐ ⭐待AI分析
+- **星数**: 33425 ⭐ ⭐待AI分析
 - **创建时间**: 2024-10-21
 - **URL**: https://github.com/patchy631/ai-engineering-hub
 - **简介**: In-depth tutorials on LLMs, RAGs and real-world AI agent applications.
 
 ### wshobson/agents
 
-- **星数**: 33402 ⭐ ⭐待AI分析
+- **星数**: 33418 ⭐ ⭐待AI分析
 - **创建时间**: 2025-07-24
 - **URL**: https://github.com/wshobson/agents
 - **简介**: Intelligent automation and multi-agent orchestration for Claude Code
 
 ### OpenBMB/ChatDev
 
-- **星数**: 32675 ⭐ ⭐待AI分析
+- **星数**: 32676 ⭐ ⭐待AI分析
 - **创建时间**: 2023-08-28
 - **URL**: https://github.com/OpenBMB/ChatDev
 - **简介**: ChatDev 2.0: Dev All through LLM-powered Multi-Agent Collaboration
 
 ### sickn33/antigravity-awesome-skills
 
-- **星数**: 32210 ⭐ ⭐待AI分析
+- **星数**: 32259 ⭐ ⭐待AI分析
 - **创建时间**: 2026-01-14
 - **URL**: https://github.com/sickn33/antigravity-awesome-skills
 - **简介**: Installable GitHub library of 1,370+ agentic skills for Claude Code, Cursor, Codex CLI, Gemini CLI, Antigravity, and more. Includes installer CLI, bundles, workflows, and official/community skill collections.
 
 ### musistudio/claude-code-router
 
-- **星数**: 31991 ⭐ ⭐待AI分析
+- **星数**: 31998 ⭐ ⭐待AI分析
 - **创建时间**: 2025-02-25
 - **URL**: https://github.com/musistudio/claude-code-router
 - **简介**: Use Claude Code as the foundation for coding infrastructure, allowing you to decide how to interact with the model while enjoying updates from Anthropic.
 
 ### conductor-oss/conductor
 
-- **星数**: 31621 ⭐ ⭐待AI分析
+- **星数**: 31622 ⭐ ⭐待AI分析
 - **创建时间**: 2023-12-08
 - **URL**: https://github.com/conductor-oss/conductor
 - **简介**: Conductor is an event driven agentic orchestration platform providing durable and highly resilient execution engine for applications and AI Agents
 
 ### ruvnet/ruflo
 
-- **星数**: 31259 ⭐ ⭐待AI分析
+- **星数**: 31306 ⭐ ⭐待AI分析
 - **创建时间**: 2025-06-02
 - **URL**: https://github.com/ruvnet/ruflo
 - **简介**: 🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features    enterprise-grade architecture, distributed swarm intelligence, RAG integration, and native Claude Code / Codex Integration
 
 ### santifer/career-ops
 
-- **星数**: 30526 ⭐ ⭐待AI分析
+- **星数**: 30760 ⭐ ⭐待AI分析
 - **创建时间**: 2026-04-04
 - **URL**: https://github.com/santifer/career-ops
 - **简介**: AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard, PDF generation, batch processing.
 
 ### CopilotKit/CopilotKit
 
-- **星数**: 30145 ⭐ ⭐待AI分析
+- **星数**: 30146 ⭐ ⭐待AI分析
 - **创建时间**: 2023-06-19
 - **URL**: https://github.com/CopilotKit/CopilotKit
 - **简介**: The Frontend Stack for Agents & Generative UI. React + Angular.  Makers of the AG-UI Protocol
 
 ### HKUDS/CLI-Anything
 
-- **星数**: 30078 ⭐ ⭐待AI分析
+- **星数**: 30134 ⭐ ⭐待AI分析
 - **创建时间**: 2026-03-08
 - **URL**: https://github.com/HKUDS/CLI-Anything
 - **简介**: "CLI-Anything: Making ALL Software Agent-Native" -- CLI-Hub: https://clianything.cc/
 
 ### zeroclaw-labs/zeroclaw
 
-- **星数**: 29988 ⭐ ⭐待AI分析
+- **星数**: 30000 ⭐ ⭐待AI分析
 - **创建时间**: 2026-02-13
 - **URL**: https://github.com/zeroclaw-labs/zeroclaw
 - **简介**: Fast, small, and fully autonomous AI personal assistant infrastructure, ANY OS, ANY PLATFORM — deploy anywhere, swap anything 🦀
 
 ### AstrBotDevs/AstrBot
 
-- **星数**: 29684 ⭐ ⭐待AI分析
+- **星数**: 29700 ⭐ ⭐待AI分析
 - **创建时间**: 2022-12-08
 - **URL**: https://github.com/AstrBotDevs/AstrBot
 - **简介**: Agentic IM Chatbot infrastructure that integrates lots of IM platforms, LLMs, plugins and AI feature, and can be your openclaw alternative. ✨
 
 ### bytedance/UI-TARS-desktop
 
-- **星数**: 29379 ⭐ ⭐待AI分析
+- **星数**: 29380 ⭐ ⭐待AI分析
 - **创建时间**: 2025-01-19
 - **URL**: https://github.com/bytedance/UI-TARS-desktop
 - **简介**: The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra
 
 ### github/awesome-copilot
 
-- **星数**: 29336 ⭐ ⭐待AI分析
+- **星数**: 29353 ⭐ ⭐待AI分析
 - **创建时间**: 2025-06-11
 - **URL**: https://github.com/github/awesome-copilot
 - **简介**: Community-contributed instructions, agents, skills, and configurations to help you make the most of GitHub Copilot.
 
 ### langchain-ai/langgraph
 
-- **星数**: 28981 ⭐ ⭐待AI分析
+- **星数**: 28986 ⭐ ⭐待AI分析
 - **创建时间**: 2023-08-09
 - **URL**: https://github.com/langchain-ai/langgraph
 - **简介**: Build resilient language agents as graphs.
 
 ### vercel-labs/agent-browser
 
-- **星数**: 28662 ⭐ ⭐待AI分析
+- **星数**: 28695 ⭐ ⭐待AI分析
 - **创建时间**: 2026-01-11
 - **URL**: https://github.com/vercel-labs/agent-browser
 - **简介**: Browser automation CLI for AI agents
 
 ### nrwl/nx
 
-- **星数**: 28510 ⭐ ⭐待AI分析
+- **星数**: 28512 ⭐ ⭐待AI分析
 - **创建时间**: 2017-08-11
 - **URL**: https://github.com/nrwl/nx
 - **简介**: The Monorepo Platform that amplifies both developers and AI agents. Nx optimizes your builds, scales your CI, and fixes failed PRs automatically. Ship in half the time.
 
 ### ashishpatel26/500-AI-Agents-Projects
 
-- **星数**: 28274 ⭐ ⭐待AI分析
+- **星数**: 28283 ⭐ ⭐待AI分析
 - **创建时间**: 2024-12-20
 - **URL**: https://github.com/ashishpatel26/500-AI-Agents-Projects
 - **简介**: The 500 AI Agents Projects is a curated collection of AI agent use cases across various industries. It showcases practical applications and provides links to open-source projects for implementation, illustrating how AI agents are transforming sectors such as healthcare, finance, education, retail, and more.
@@ -580,65 +580,65 @@
 - **URL**: https://github.com/Budibase/budibase
 - **简介**: AI agents, automations and apps that run your operations. Model agnostic.
 
+### Yeachan-Heo/oh-my-claudecode
+
+- **星数**: 27768 ⭐ ⭐待AI分析
+- **创建时间**: 2026-01-09
+- **URL**: https://github.com/Yeachan-Heo/oh-my-claudecode
+- **简介**: Teams-first Multi-agent orchestration for Claude Code
+
 ### huggingface/agents-course
 
-- **星数**: 27756 ⭐ ⭐待AI分析
+- **星数**: 27760 ⭐ ⭐待AI分析
 - **创建时间**: 2025-01-16
 - **URL**: https://github.com/huggingface/agents-course
 - **简介**: This repository contains the Hugging Face Agents Course. 
 
 ### ComposioHQ/composio
 
-- **星数**: 27740 ⭐ ⭐待AI分析
+- **星数**: 27742 ⭐ ⭐待AI分析
 - **创建时间**: 2024-02-23
 - **URL**: https://github.com/ComposioHQ/composio
 - **简介**: Composio powers 1000+ toolkits, tool search, context management, authentication, and a sandboxed workbench to help you build AI agents that turn intent into action.
 
 ### simstudioai/sim
 
-- **星数**: 27716 ⭐ ⭐待AI分析
+- **星数**: 27722 ⭐ ⭐待AI分析
 - **创建时间**: 2025-01-05
 - **URL**: https://github.com/simstudioai/sim
 - **简介**: Build, deploy, and orchestrate AI agents. Sim is the central intelligence layer for your AI workforce.
 
-### Yeachan-Heo/oh-my-claudecode
-
-- **星数**: 27702 ⭐ ⭐待AI分析
-- **创建时间**: 2026-01-09
-- **URL**: https://github.com/Yeachan-Heo/oh-my-claudecode
-- **简介**: Teams-first Multi-agent orchestration for Claude Code
-
 ### e2b-dev/awesome-ai-agents
 
-- **星数**: 27197 ⭐ ⭐待AI分析
+- **星数**: 27202 ⭐ ⭐待AI分析
 - **创建时间**: 2023-06-19
 - **URL**: https://github.com/e2b-dev/awesome-ai-agents
 - **简介**: A list of AI autonomous agents
 
 ### qwibitai/nanoclaw
 
-- **星数**: 27122 ⭐ ⭐待AI分析
+- **星数**: 27131 ⭐ ⭐待AI分析
 - **创建时间**: 2026-01-31
 - **URL**: https://github.com/qwibitai/nanoclaw
 - **简介**: A lightweight alternative to OpenClaw that runs in containers for security. Connects to WhatsApp, Telegram, Slack, Discord, Gmail and other messaging apps,, has memory, scheduled jobs, and runs directly on Anthropic's Agents SDK
 
 ### abhigyanpatwari/GitNexus
 
-- **星数**: 26576 ⭐ ⭐待AI分析
+- **星数**: 26634 ⭐ ⭐待AI分析
 - **创建时间**: 2025-08-02
 - **URL**: https://github.com/abhigyanpatwari/GitNexus
 - **简介**: GitNexus: The Zero-Server Code Intelligence Engine -       GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a GitHub repo or ZIP file, and get an interactive knowledge graph wit a built in Graph RAG Agent. Perfect for code exploration
 
 ### huggingface/smolagents
 
-- **星数**: 26552 ⭐ ⭐待AI分析
+- **星数**: 26555 ⭐ ⭐待AI分析
 - **创建时间**: 2024-12-05
 - **URL**: https://github.com/huggingface/smolagents
 - **简介**: 🤗 smolagents: a barebones library for agents that think in code.
 
 ### assafelovic/gpt-researcher
 
-- **星数**: 26378 ⭐ ⭐待AI分析
+- **星数**: 26381 ⭐ ⭐待AI分析
 - **创建时间**: 2023-05-12
 - **URL**: https://github.com/assafelovic/gpt-researcher
 - **简介**: An autonomous agent that conducts deep research on any data using any LLM providers
@@ -652,63 +652,63 @@
 
 ### Fosowl/agenticSeek
 
-- **星数**: 25892 ⭐ ⭐待AI分析
+- **星数**: 25891 ⭐ ⭐待AI分析
 - **创建时间**: 2025-02-19
 - **URL**: https://github.com/Fosowl/agenticSeek
 - **简介**: Fully Local Manus AI. No APIs, No $200 monthly bills. Enjoy an autonomous agent that thinks, browses the web, and code for the sole cost of electricity. 🔔 Official updates only via twitter @Martin993886460 (Beware of fake account)
 
 ### mlflow/mlflow
 
-- **星数**: 25287 ⭐ ⭐待AI分析
+- **星数**: 25291 ⭐ ⭐待AI分析
 - **创建时间**: 2018-06-05
 - **URL**: https://github.com/mlflow/mlflow
 - **简介**: The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, evaluate, monitor, and optimize production-quality AI applications while controlling costs and managing access to models and data.
 
 ### luongnv89/claude-howto
 
-- **星数**: 25155 ⭐ ⭐待AI分析
+- **星数**: 25232 ⭐ ⭐待AI分析
 - **创建时间**: 2025-11-07
 - **URL**: https://github.com/luongnv89/claude-howto
 - **简介**: A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.
 
 ### router-for-me/CLIProxyAPI
 
-- **星数**: 25065 ⭐ ⭐待AI分析
+- **星数**: 25094 ⭐ ⭐待AI分析
 - **创建时间**: 2025-07-01
 - **URL**: https://github.com/router-for-me/CLIProxyAPI
 - **简介**: Wrap Gemini CLI, Antigravity, ChatGPT Codex, Claude Code, Qwen Code, iFlow as an OpenAI/Gemini/Claude/Codex compatible API service, allowing you to enjoy the free Gemini 2.5 Pro, GPT 5, Claude, Qwen model through API
 
 ### vercel-labs/agent-skills
 
-- **星数**: 24904 ⭐ ⭐待AI分析
+- **星数**: 24912 ⭐ ⭐待AI分析
 - **创建时间**: 2025-12-08
 - **URL**: https://github.com/vercel-labs/agent-skills
 - **简介**: Vercel's official collection of agent skills
 
 ### zai-org/Open-AutoGLM
 
-- **星数**: 24866 ⭐ ⭐待AI分析
+- **星数**: 24867 ⭐ ⭐待AI分析
 - **创建时间**: 2025-12-08
 - **URL**: https://github.com/zai-org/Open-AutoGLM
 - **简介**: An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 ### BloopAI/vibe-kanban
 
-- **星数**: 24834 ⭐ ⭐待AI分析
+- **星数**: 24855 ⭐ ⭐待AI分析
 - **创建时间**: 2025-06-14
 - **URL**: https://github.com/BloopAI/vibe-kanban
 - **简介**: Get 10X more out of Claude Code, Codex or any coding agent
 
 ### deepset-ai/haystack
 
-- **星数**: 24807 ⭐ ⭐待AI分析
+- **星数**: 24808 ⭐ ⭐待AI分析
 - **创建时间**: 2019-11-14
 - **URL**: https://github.com/deepset-ai/haystack
 - **简介**: Open-source AI orchestration framework for building context-engineered, production-ready LLM applications. Design modular pipelines and agent workflows with explicit control over retrieval, routing, memory, and generation. Built for scalable agents, RAG, multimodal applications, semantic search, and conversational systems.
 
 ### getzep/graphiti
 
-- **星数**: 24782 ⭐ ⭐待AI分析
+- **星数**: 24790 ⭐ ⭐待AI分析
 - **创建时间**: 2024-08-08
 - **URL**: https://github.com/getzep/graphiti
 - **简介**: Build Real-Time Knowledge Graphs for AI Agents
@@ -722,35 +722,35 @@
 
 ### davila7/claude-code-templates
 
-- **星数**: 24450 ⭐ ⭐待AI分析
+- **星数**: 24457 ⭐ ⭐待AI分析
 - **创建时间**: 2025-07-04
 - **URL**: https://github.com/davila7/claude-code-templates
 - **简介**: CLI tool for configuring and monitoring Claude Code
 
 ### googleworkspace/cli
 
-- **星数**: 24408 ⭐ ⭐待AI分析
+- **星数**: 24421 ⭐ ⭐待AI分析
 - **创建时间**: 2026-03-02
 - **URL**: https://github.com/googleworkspace/cli
 - **简介**: Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheets, Docs, Chat, Admin, and more. Dynamically built from Google Discovery Service. Includes AI agent skills.
 
 ### rtk-ai/rtk
 
-- **星数**: 23727 ⭐ ⭐待AI分析
+- **星数**: 23903 ⭐ ⭐待AI分析
 - **创建时间**: 2026-01-22
 - **URL**: https://github.com/rtk-ai/rtk
 - **简介**: CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies
 
 ### agentscope-ai/agentscope
 
-- **星数**: 23424 ⭐ ⭐待AI分析
+- **星数**: 23436 ⭐ ⭐待AI分析
 - **创建时间**: 2024-01-12
 - **URL**: https://github.com/agentscope-ai/agentscope
 - **简介**: Build and run agents you can see, understand and trust.
 
 ### vercel/ai
 
-- **星数**: 23410 ⭐ ⭐待AI分析
+- **星数**: 23418 ⭐ ⭐待AI分析
 - **创建时间**: 2023-05-23
 - **URL**: https://github.com/vercel/ai
 - **简介**: The AI Toolkit for TypeScript. From the creators of Next.js, the AI SDK is a free open-source library for building AI-powered applications and agents 
@@ -764,112 +764,112 @@
 
 ### a2aproject/A2A
 
-- **星数**: 23141 ⭐ ⭐待AI分析
+- **星数**: 23145 ⭐ ⭐待AI分析
 - **创建时间**: 2025-03-25
 - **URL**: https://github.com/a2aproject/A2A
 - **简介**: Agent2Agent (A2A) is an open protocol enabling communication and interoperability between opaque agentic applications.
 
 ### RooCodeInc/Roo-Code
 
-- **星数**: 23082 ⭐ ⭐待AI分析
+- **星数**: 23085 ⭐ ⭐待AI分析
 - **创建时间**: 2024-10-31
 - **URL**: https://github.com/RooCodeInc/Roo-Code
 - **简介**: Roo Code gives you a whole dev team of AI agents in your code editor.
 
 ### mastra-ai/mastra
 
-- **星数**: 22903 ⭐ ⭐待AI分析
+- **星数**: 22904 ⭐ ⭐待AI分析
 - **创建时间**: 2024-08-06
 - **URL**: https://github.com/mastra-ai/mastra
 - **简介**: From the team behind Gatsby, Mastra is a framework for building AI-powered applications and agents with a modern TypeScript stack.
 
 ### charmbracelet/crush
 
-- **星数**: 22861 ⭐ ⭐待AI分析
+- **星数**: 22869 ⭐ ⭐待AI分析
 - **创建时间**: 2025-05-21
 - **URL**: https://github.com/charmbracelet/crush
 - **简介**: Glamourous agentic coding for all 💘
 
 ### oraios/serena
 
-- **星数**: 22794 ⭐ ⭐待AI分析
+- **星数**: 22799 ⭐ ⭐待AI分析
 - **创建时间**: 2025-03-23
 - **URL**: https://github.com/oraios/serena
 - **简介**: A powerful MCP toolkit for coding, providing semantic retrieval and editing capabilities  - the IDE for your agent
 
 ### QwenLM/qwen-code
 
-- **星数**: 22708 ⭐ ⭐待AI分析
+- **星数**: 22740 ⭐ ⭐待AI分析
 - **创建时间**: 2025-06-26
 - **URL**: https://github.com/QwenLM/qwen-code
 - **简介**: An open-source AI agent that lives in your terminal.
 
 ### SuperClaude-Org/SuperClaude_Framework
 
-- **星数**: 22236 ⭐ ⭐待AI分析
+- **星数**: 22239 ⭐ ⭐待AI分析
 - **创建时间**: 2025-06-22
 - **URL**: https://github.com/SuperClaude-Org/SuperClaude_Framework
 - **简介**: A configuration framework that enhances Claude Code with specialized commands, cognitive personas, and development methodologies.
 
 ### safishamsi/graphify
 
-- **星数**: 21882 ⭐ ⭐待AI分析
+- **星数**: 22203 ⭐ ⭐待AI分析
 - **创建时间**: 2026-04-03
 - **URL**: https://github.com/safishamsi/graphify
 - **简介**: AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, OpenClaw, Factory Droid, Trae). Turn any folder of code, docs, papers, images, videos, or YouTube links into a queryable knowledge graph
 
 ### iOfficeAI/AionUi
 
-- **星数**: 21520 ⭐ ⭐待AI分析
+- **星数**: 21532 ⭐ ⭐待AI分析
 - **创建时间**: 2025-08-07
 - **URL**: https://github.com/iOfficeAI/AionUi
 - **简介**: Free, local, open-source 24/7 Cowork app and OpenClaw for Gemini CLI, Claude Code, Codex, OpenCode, Qwen Code, Goose CLI, Auggie, and more | 🌟 Star if you like it!
 
 ### winfunc/opcode
 
-- **星数**: 21415 ⭐ ⭐待AI分析
+- **星数**: 21419 ⭐ ⭐待AI分析
 - **创建时间**: 2025-06-19
 - **URL**: https://github.com/winfunc/opcode
 - **简介**: A powerful GUI app and Toolkit for Claude Code - Create custom agents, manage interactive Claude Code sessions, run secure background agents, and more.
 
-### mvanhorn/last30days-skill
-
-- **星数**: 20656 ⭐ ⭐待AI分析
-- **创建时间**: 2026-01-23
-- **URL**: https://github.com/mvanhorn/last30days-skill
-- **简介**: AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary
-
 ### Gitlawb/openclaude
 
-- **星数**: 20649 ⭐ ⭐待AI分析
+- **星数**: 20707 ⭐ ⭐待AI分析
 - **创建时间**: 2026-04-01
 - **URL**: https://github.com/Gitlawb/openclaude
 - **简介**: Open Claude Is Open-source coding-agent CLI for OpenAI, Gemini, DeepSeek, Ollama, Codex, GitHub Models, and 200+ models via OpenAI-compatible APIs.
 
+### mvanhorn/last30days-skill
+
+- **星数**: 20706 ⭐ ⭐待AI分析
+- **创建时间**: 2026-01-23
+- **URL**: https://github.com/mvanhorn/last30days-skill
+- **简介**: AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary
+
 ### gastownhall/beads
 
-- **星数**: 20582 ⭐ ⭐待AI分析
+- **星数**: 20589 ⭐ ⭐待AI分析
 - **创建时间**: 2025-10-12
 - **URL**: https://github.com/gastownhall/beads
 - **简介**: Beads - A memory upgrade for your coding agent
 
-### langchain-ai/deepagents
-
-- **星数**: 20345 ⭐ ⭐待AI分析
-- **创建时间**: 2025-07-27
-- **URL**: https://github.com/langchain-ai/deepagents
-- **简介**: Agent harness built with LangChain and LangGraph. Equipped with a planning tool, a filesystem backend, and the ability to spawn subagents - well-equipped to handle complex agentic tasks.
-
 ### coreyhaines31/marketingskills
 
-- **星数**: 20343 ⭐ ⭐待AI分析
+- **星数**: 20377 ⭐ ⭐待AI分析
 - **创建时间**: 2026-01-15
 - **URL**: https://github.com/coreyhaines31/marketingskills
 - **简介**: Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.
 
+### langchain-ai/deepagents
+
+- **星数**: 20360 ⭐ ⭐待AI分析
+- **创建时间**: 2025-07-27
+- **URL**: https://github.com/langchain-ai/deepagents
+- **简介**: Agent harness built with LangChain and LangGraph. Equipped with a planning tool, a filesystem backend, and the ability to spawn subagents - well-equipped to handle complex agentic tasks.
+
 ### agentsmd/agents.md
 
-- **星数**: 20026 ⭐ ⭐待AI分析
+- **星数**: 20034 ⭐ ⭐待AI分析
 - **创建时间**: 2025-08-19
 - **URL**: https://github.com/agentsmd/agents.md
 - **简介**: AGENTS.md — a simple, open format for guiding coding agents
@@ -883,35 +883,42 @@
 
 ### google/adk-python
 
-- **星数**: 18873 ⭐ ⭐待AI分析
+- **星数**: 18879 ⭐ ⭐待AI分析
 - **创建时间**: 2025-04-01
 - **URL**: https://github.com/google/adk-python
 - **简介**: An open-source, code-first Python toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control.
 
 ### NirDiamant/agents-towards-production
 
-- **星数**: 18733 ⭐ ⭐待AI分析
+- **星数**: 18737 ⭐ ⭐待AI分析
 - **创建时间**: 2025-06-16
 - **URL**: https://github.com/NirDiamant/agents-towards-production
 - **简介**: End-to-end, code-first tutorials for building production-grade GenAI agents. From prototype to enterprise deployment.
 
+### JuliusBrussee/caveman
+
+- **星数**: 18731 ⭐ ⭐待AI分析
+- **创建时间**: 2026-04-04
+- **URL**: https://github.com/JuliusBrussee/caveman
+- **简介**: 🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman
+
 ### OthmanAdi/planning-with-files
 
-- **星数**: 18528 ⭐ ⭐待AI分析
+- **星数**: 18537 ⭐ ⭐待AI分析
 - **创建时间**: 2026-01-03
 - **URL**: https://github.com/OthmanAdi/planning-with-files
 - **简介**: Claude Code skill implementing Manus-style persistent markdown planning — the workflow pattern behind the $2B acquisition.
 
 ### pbakaus/impeccable
 
-- **星数**: 18458 ⭐ ⭐待AI分析
+- **星数**: 18503 ⭐ ⭐待AI分析
 - **创建时间**: 2025-11-16
 - **URL**: https://github.com/pbakaus/impeccable
 - **简介**: The design language that makes your AI harness better at design.
 
 ### jarrodwatts/claude-hud
 
-- **星数**: 18381 ⭐ ⭐待AI分析
+- **星数**: 18413 ⭐ ⭐待AI分析
 - **创建时间**: 2026-01-02
 - **URL**: https://github.com/jarrodwatts/claude-hud
 - **简介**: A Claude Code plugin that shows what's happening - context usage, active tools, running agents, and todo progress
@@ -923,16 +930,9 @@
 - **URL**: https://github.com/SnapKit/Masonry
 - **简介**: Harness the power of AutoLayout NSLayoutConstraints with a simplified, chainable and expressive syntax. Supports iOS and OSX Auto Layout
 
-### JuliusBrussee/caveman
-
-- **星数**: 17996 ⭐ ⭐待AI分析
-- **创建时间**: 2026-04-04
-- **URL**: https://github.com/JuliusBrussee/caveman
-- **简介**: 🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman
-
 ### Kilo-Org/kilocode
 
-- **星数**: 17962 ⭐ ⭐待AI分析
+- **星数**: 17969 ⭐ ⭐待AI分析
 - **创建时间**: 2025-03-10
 - **URL**: https://github.com/Kilo-Org/kilocode
 - **简介**: Kilo is the all-in-one agentic engineering platform. Build, ship, and iterate faster with the most popular open source coding agent. #1 coding agent on OpenRouter. 1.5M+ Kilo Coders. 25T+ tokens processed
@@ -946,42 +946,42 @@
 
 ### czlonkowski/n8n-mcp
 
-- **星数**: 17874 ⭐ ⭐待AI分析
+- **星数**: 17881 ⭐ ⭐待AI分析
 - **创建时间**: 2025-06-07
 - **URL**: https://github.com/czlonkowski/n8n-mcp
 - **简介**: A MCP for Claude Desktop / Claude Code / Windsurf / Cursor to build n8n workflows for you 
 
 ### slopus/happy
 
-- **星数**: 17705 ⭐ ⭐待AI分析
+- **星数**: 17719 ⭐ ⭐待AI分析
 - **创建时间**: 2025-07-18
 - **URL**: https://github.com/slopus/happy
 - **简介**: Mobile and Web client for Codex and Claude Code, with realtime voice, encryption and fully featured
 
 ### Panniantong/Agent-Reach
 
-- **星数**: 17000 ⭐ ⭐待AI分析
+- **星数**: 17028 ⭐ ⭐待AI分析
 - **创建时间**: 2026-02-24
 - **URL**: https://github.com/Panniantong/Agent-Reach
 - **简介**: Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.
 
 ### VoltAgent/awesome-claude-code-subagents
 
-- **星数**: 16977 ⭐ ⭐待AI分析
+- **星数**: 16993 ⭐ ⭐待AI分析
 - **创建时间**: 2025-07-30
 - **URL**: https://github.com/VoltAgent/awesome-claude-code-subagents
 - **简介**: A collection of 100+ specialized Claude Code subagents covering a wide range of development use cases
 
 ### anthropics/claude-plugins-official
 
-- **星数**: 16672 ⭐ ⭐待AI分析
+- **星数**: 16688 ⭐ ⭐待AI分析
 - **创建时间**: 2025-11-20
 - **URL**: https://github.com/anthropics/claude-plugins-official
 - **简介**: Official, Anthropic-managed directory of high quality Claude Code Plugins.
 
 ### coleam00/Archon
 
-- **星数**: 16395 ⭐ ⭐待AI分析
+- **星数**: 16508 ⭐ ⭐待AI分析
 - **创建时间**: 2025-02-07
 - **URL**: https://github.com/coleam00/Archon
 - **简介**: The first open-source harness builder for AI coding. Make AI coding deterministic and repeatable.
@@ -995,252 +995,252 @@
 
 ### claude-code-best/claude-code
 
-- **星数**: 15410 ⭐ ⭐待AI分析
+- **星数**: 15420 ⭐ ⭐待AI分析
 - **创建时间**: 2026-03-31
 - **URL**: https://github.com/claude-code-best/claude-code
 - **简介**: 原汁原昧 Claude Code 可运行,可构建, 可调试版; Typescript 类型全修复; 企业级可靠性; 安全无毒, lock 文件保真, 可直接 bun i; bun run dev 启动
 
 ### plandex-ai/plandex
 
-- **星数**: 15229 ⭐ ⭐待AI分析
+- **星数**: 15230 ⭐ ⭐待AI分析
 - **创建时间**: 2023-10-24
 - **URL**: https://github.com/plandex-ai/plandex
 - **简介**: Open source AI coding agent. Designed for large projects and real world tasks.
 
 ### VoltAgent/awesome-agent-skills
 
-- **星数**: 15183 ⭐ ⭐待AI分析
+- **星数**: 15213 ⭐ ⭐待AI分析
 - **创建时间**: 2025-10-28
 - **URL**: https://github.com/VoltAgent/awesome-agent-skills
 - **简介**: A curated collection of 1000+ agent skills from official dev teams and the community, compatible with Claude Code, Codex, Gemini CLI, Cursor, and more.
 
 ### HKUDS/DeepCode
 
-- **星数**: 15162 ⭐ ⭐待AI分析
+- **星数**: 15164 ⭐ ⭐待AI分析
 - **创建时间**: 2025-05-14
 - **URL**: https://github.com/HKUDS/DeepCode
 - **简介**: "DeepCode: Open Agentic Coding (Paper2Code & Text2Web & Text2Backend)"
 
 ### topoteretes/cognee
 
-- **星数**: 15112 ⭐ ⭐待AI分析
+- **星数**: 15121 ⭐ ⭐待AI分析
 - **创建时间**: 2023-08-16
 - **URL**: https://github.com/topoteretes/cognee
 - **简介**: Knowledge Engine for AI Agent Memory in 6 lines of code
 
 ### openai/symphony
 
-- **星数**: 14947 ⭐ ⭐待AI分析
+- **星数**: 14949 ⭐ ⭐待AI分析
 - **创建时间**: 2026-02-26
 - **URL**: https://github.com/openai/symphony
 - **简介**: Symphony turns project work into isolated, autonomous implementation runs, allowing teams to manage work instead of supervising coding agents.
 
 ### GLips/Figma-Context-MCP
 
-- **星数**: 14281 ⭐ ⭐待AI分析
+- **星数**: 14280 ⭐ ⭐待AI分析
 - **创建时间**: 2025-02-13
 - **URL**: https://github.com/GLips/Figma-Context-MCP
 - **简介**: MCP server to provide Figma layout information to AI coding agents like Cursor
 
 ### wasp-lang/open-saas
 
-- **星数**: 14033 ⭐ ⭐待AI分析
+- **星数**: 14036 ⭐ ⭐待AI分析
 - **创建时间**: 2023-12-01
 - **URL**: https://github.com/wasp-lang/open-saas
 - **简介**: A 100% free modern JS SaaS boilerplate (React, NodeJS, Prisma). Full-featured: Auth (email, google, github, slack, MS), Email sending, Background jobs, Landing page, Payments (Stripe, Polar.sh), Shadcn UI, S3 file upload. AI-ready with tailored AGENTS.md, skills, and Claude Code plugin. One cmd deploy. Powered by Wasp full-stack framework.
 
 ### EveryInc/compound-engineering-plugin
 
-- **星数**: 14012 ⭐ ⭐待AI分析
+- **星数**: 14021 ⭐ ⭐待AI分析
 - **创建时间**: 2025-10-09
 - **URL**: https://github.com/EveryInc/compound-engineering-plugin
 - **简介**: Official Compound Engineering plugin for Claude Code, Codex, and more
 
+### forrestchang/andrej-karpathy-skills
+
+- **星数**: 13753 ⭐ ⭐待AI分析
+- **创建时间**: 2026-01-27
+- **URL**: https://github.com/forrestchang/andrej-karpathy-skills
+- **简介**: A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.
+
 ### manaflow-ai/cmux
 
-- **星数**: 13664 ⭐ ⭐待AI分析
+- **星数**: 13687 ⭐ ⭐待AI分析
 - **创建时间**: 2026-01-28
 - **URL**: https://github.com/manaflow-ai/cmux
 - **简介**: Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents
 
 ### openai/codex-plugin-cc
 
-- **星数**: 13589 ⭐ ⭐待AI分析
+- **星数**: 13615 ⭐ ⭐待AI分析
 - **创建时间**: 2026-03-30
 - **URL**: https://github.com/openai/codex-plugin-cc
 - **简介**: Use Codex from Claude Code to review code or delegate tasks.
 
 ### blader/humanizer
 
-- **星数**: 13334 ⭐ ⭐待AI分析
+- **星数**: 13367 ⭐ ⭐待AI分析
 - **创建时间**: 2026-01-18
 - **URL**: https://github.com/blader/humanizer
 - **简介**: Claude Code skill that removes signs of AI-generated writing from text
 
-### forrestchang/andrej-karpathy-skills
-
-- **星数**: 13228 ⭐ ⭐待AI分析
-- **创建时间**: 2026-01-27
-- **URL**: https://github.com/forrestchang/andrej-karpathy-skills
-- **简介**: A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.
-
 ### coleam00/context-engineering-intro
 
-- **星数**: 13113 ⭐ ⭐待AI分析
+- **星数**: 13118 ⭐ ⭐待AI分析
 - **创建时间**: 2025-07-02
 - **URL**: https://github.com/coleam00/context-engineering-intro
 - **简介**: Context engineering is the new vibe coding - it's the way to actually make AI coding assistants work. Claude Code is the best for this so that's what this repo is centered around, but you can apply this strategy with any AI coding assistant!
 
-### ryoppippi/ccusage
-
-- **星数**: 12736 ⭐ ⭐待AI分析
-- **创建时间**: 2025-05-29
-- **URL**: https://github.com/ryoppippi/ccusage
-- **简介**: A CLI tool for analyzing Claude Code/Codex CLI usage from local JSONL files.
-
 ### addyosmani/agent-skills
 
-- **星数**: 12664 ⭐ ⭐待AI分析
+- **星数**: 12800 ⭐ ⭐待AI分析
 - **创建时间**: 2026-02-15
 - **URL**: https://github.com/addyosmani/agent-skills
 - **简介**: Production-grade engineering skills for AI coding agents.
 
+### ryoppippi/ccusage
+
+- **星数**: 12739 ⭐ ⭐待AI分析
+- **创建时间**: 2025-05-29
+- **URL**: https://github.com/ryoppippi/ccusage
+- **简介**: A CLI tool for analyzing Claude Code/Codex CLI usage from local JSONL files.
+
 ### EleutherAI/lm-evaluation-harness
 
-- **星数**: 12116 ⭐ ⭐待AI分析
+- **星数**: 12119 ⭐ ⭐待AI分析
 - **创建时间**: 2020-08-28
 - **URL**: https://github.com/EleutherAI/lm-evaluation-harness
 - **简介**: A framework for few-shot evaluation of language models.
 
 ### rowboatlabs/rowboat
 
-- **星数**: 12057 ⭐ ⭐待AI分析
+- **星数**: 12113 ⭐ ⭐待AI分析
 - **创建时间**: 2025-01-13
 - **URL**: https://github.com/rowboatlabs/rowboat
 - **简介**: Open-source AI coworker, with memory
 
 ### opencode-ai/opencode
 
-- **星数**: 11959 ⭐ ⭐待AI分析
+- **星数**: 11961 ⭐ ⭐待AI分析
 - **创建时间**: 2025-03-16
 - **URL**: https://github.com/opencode-ai/opencode
 - **简介**: A powerful AI coding agent. Built for the terminal.
 
 ### Wei-Shaw/sub2api
 
-- **星数**: 11766 ⭐ ⭐待AI分析
+- **星数**: 11790 ⭐ ⭐待AI分析
 - **创建时间**: 2025-12-18
 - **URL**: https://github.com/Wei-Shaw/sub2api
 - **简介**: Sub2API-CRS2 一站式开源中转服务，让 Claude、Openai 、Gemini、Antigravity订阅统一接入，支持拼车共享，更高效分摊成本，原生工具无缝使用。
 
 ### liyupi/ai-guide
 
-- **星数**: 11661 ⭐ ⭐待AI分析
+- **星数**: 11664 ⭐ ⭐待AI分析
 - **创建时间**: 2025-02-13
 - **URL**: https://github.com/liyupi/ai-guide
 - **简介**: 程序员鱼皮的 AI 资源大全 + Vibe Coding 零基础教程，分享 OpenClaw 保姆级教程、大模型玩法（DeepSeek / GPT / Gemini / Claude）、最新 AI 资讯、Prompt 提示词大全、AI 知识百科（Agent Skills / RAG / MCP / A2A）、AI 编程教程、AI 工具用法（Cursor / Claude Code / TRAE / Lovable / Copilot）、AI 开发框架教程（Spring AI / LangChain）、AI 产品变现指南，帮你快速掌握 AI 技术，走在时代前沿。本项目为开源文档，已升级为鱼皮 AI 导航网站
 
 ### sanbuphy/learn-coding-agent
 
-- **星数**: 11564 ⭐ ⭐待AI分析
+- **星数**: 11565 ⭐ ⭐待AI分析
 - **创建时间**: 2026-03-31
 - **URL**: https://github.com/sanbuphy/learn-coding-agent
 - **简介**: Research on Coding Agents
 
 ### BeehiveInnovations/pal-mcp-server
 
-- **星数**: 11406 ⭐ ⭐待AI分析
+- **星数**: 11407 ⭐ ⭐待AI分析
 - **创建时间**: 2025-06-08
 - **URL**: https://github.com/BeehiveInnovations/pal-mcp-server
 - **简介**: The power of Claude Code / GeminiCLI / CodexCLI + [Gemini / OpenAI / OpenRouter / Azure / Grok / Ollama / Custom Model / All Of The Above] working as one.
 
 ### travisvn/awesome-claude-skills
 
-- **星数**: 11031 ⭐ ⭐待AI分析
+- **星数**: 11039 ⭐ ⭐待AI分析
 - **创建时间**: 2025-10-16
 - **URL**: https://github.com/travisvn/awesome-claude-skills
 - **简介**: A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows — particularly Claude Code
 
 ### Wei-Shaw/claude-relay-service
 
-- **星数**: 10926 ⭐ ⭐待AI分析
+- **星数**: 10929 ⭐ ⭐待AI分析
 - **创建时间**: 2025-07-14
 - **URL**: https://github.com/Wei-Shaw/claude-relay-service
 - **简介**: CRS-自建Claude Code镜像，一站式开源中转服务，让 Claude、OpenAI、Gemini、Droid 订阅统一接入，支持拼车共享，更高效分摊成本，原生工具无缝使用。
 
 ### alirezarezvani/claude-skills
 
-- **星数**: 10522 ⭐ ⭐待AI分析
+- **星数**: 10552 ⭐ ⭐待AI分析
 - **创建时间**: 2025-10-19
 - **URL**: https://github.com/alirezarezvani/claude-skills
 - **简介**: 232+ Claude Code skills & agent plugins for Claude Code, Codex, Gemini CLI, Cursor, and 8 more coding agents — engineering, marketing, product, compliance, C-level advisory.
 
 ### steipete/CodexBar
 
-- **星数**: 10467 ⭐ ⭐待AI分析
+- **星数**: 10481 ⭐ ⭐待AI分析
 - **创建时间**: 2025-11-16
 - **URL**: https://github.com/steipete/CodexBar
 - **简介**: Show usage stats for OpenAI Codex and Claude Code, without having to login.
 
 ### humanlayer/humanlayer
 
-- **星数**: 10367 ⭐ ⭐待AI分析
+- **星数**: 10370 ⭐ ⭐待AI分析
 - **创建时间**: 2024-08-05
 - **URL**: https://github.com/humanlayer/humanlayer
 - **简介**: The best way to get AI coding agents to solve hard problems in complex codebases.
 
 ### JCodesMore/ai-website-cloner-template
 
-- **星数**: 10224 ⭐ ⭐待AI分析
+- **星数**: 10367 ⭐ ⭐待AI分析
 - **创建时间**: 2026-03-13
 - **URL**: https://github.com/JCodesMore/ai-website-cloner-template
 - **简介**: Clone any website with one command using AI coding agents
 
 ### aden-hive/hive
 
-- **星数**: 10163 ⭐ ⭐待AI分析
+- **星数**: 10164 ⭐ ⭐待AI分析
 - **创建时间**: 2026-01-12
 - **URL**: https://github.com/aden-hive/hive
 - **简介**: Multi-Agent Harness for Production AI
 
 ### teng-lin/notebooklm-py
 
-- **星数**: 10106 ⭐ ⭐待AI分析
+- **星数**: 10147 ⭐ ⭐待AI分析
 - **创建时间**: 2026-01-07
 - **URL**: https://github.com/teng-lin/notebooklm-py
 - **简介**: Unofficial Python API and agentic skill for Google NotebookLM. Full programmatic access to NotebookLM's features—including capabilities the web UI doesn't expose—via Python, CLI, and AI agents like Claude Code, Codex, and OpenClaw.
 
 ### github/copilot-cli
 
-- **星数**: 9966 ⭐ ⭐待AI分析
+- **星数**: 9969 ⭐ ⭐待AI分析
 - **创建时间**: 2023-01-06
 - **URL**: https://github.com/github/copilot-cli
 - **简介**: GitHub Copilot CLI brings the power of Copilot coding agent directly to your terminal. 
 
 ### mcp-use/mcp-use
 
-- **星数**: 9760 ⭐ ⭐待AI分析
+- **星数**: 9761 ⭐ ⭐待AI分析
 - **创建时间**: 2025-03-28
 - **URL**: https://github.com/mcp-use/mcp-use
 - **简介**: The fullstack MCP framework to develop MCP Apps for ChatGPT / Claude & MCP Servers for AI Agents.
 
 ### siteboon/claudecodeui
 
-- **星数**: 9697 ⭐ ⭐待AI分析
+- **星数**: 9703 ⭐ ⭐待AI分析
 - **创建时间**: 2025-06-25
 - **URL**: https://github.com/siteboon/claudecodeui
 - **简介**: Use Claude Code, Cursor CLI or Codex on mobile and web with CloudCLI (aka Claude Code UI). CloudCLI is a free open source webui/GUI that helps you manage your Claude Code session and projects remotely
 
 ### numman-ali/openskills
 
-- **星数**: 9651 ⭐ ⭐待AI分析
+- **星数**: 9658 ⭐ ⭐待AI分析
 - **创建时间**: 2025-10-26
 - **URL**: https://github.com/numman-ali/openskills
 - **简介**: Universal skills loader for AI coding agents - npm i -g openskills
 
 ### langchain-ai/open-swe
 
-- **星数**: 9454 ⭐ ⭐待AI分析
+- **星数**: 9466 ⭐ ⭐待AI分析
 - **创建时间**: 2025-05-21
 - **URL**: https://github.com/langchain-ai/open-swe
 - **简介**: An Open-Source Asynchronous Coding Agent
@@ -1254,7 +1254,7 @@
 
 ### superset-sh/superset
 
-- **星数**: 9377 ⭐ ⭐待AI分析
+- **星数**: 9404 ⭐ ⭐待AI分析
 - **创建时间**: 2025-10-21
 - **URL**: https://github.com/superset-sh/superset
 - **简介**: Code Editor for the AI Agents Era - Run an army of Claude Code, Codex, etc. on your machine
@@ -1268,77 +1268,84 @@
 
 ### HKUDS/AutoAgent
 
-- **星数**: 9102 ⭐ ⭐待AI分析
+- **星数**: 9103 ⭐ ⭐待AI分析
 - **创建时间**: 2025-02-06
 - **URL**: https://github.com/HKUDS/AutoAgent
 - **简介**: "AutoAgent: Fully-Automated and Zero-Code LLM Agent Framework"
 
 ### Kuberwastaken/claurst
 
-- **星数**: 8915 ⭐ ⭐待AI分析
+- **星数**: 8922 ⭐ ⭐待AI分析
 - **创建时间**: 2026-03-31
 - **URL**: https://github.com/Kuberwastaken/claurst
 - **简介**: Your favorite Terminal Coding Agent, now in Rust
 
 ### HKUDS/OpenHarness
 
-- **星数**: 8788 ⭐ ⭐待AI分析
+- **星数**: 8814 ⭐ ⭐待AI分析
 - **创建时间**: 2026-04-01
 - **URL**: https://github.com/HKUDS/OpenHarness
 - **简介**: "OpenHarness: Open Agent Harness with a Built-in Personal Agent--Ohmo!"
 
 ### ChinaSiro/claude-code-sourcemap
 
-- **星数**: 8771 ⭐ ⭐待AI分析
+- **星数**: 8773 ⭐ ⭐待AI分析
 - **创建时间**: 2026-03-31
 - **URL**: https://github.com/ChinaSiro/claude-code-sourcemap
 - **简介**: 
 
 ### Donchitos/Claude-Code-Game-Studios
 
-- **星数**: 8641 ⭐ ⭐待AI分析
+- **星数**: 8654 ⭐ ⭐待AI分析
 - **创建时间**: 2026-02-12
 - **URL**: https://github.com/Donchitos/Claude-Code-Game-Studios
 - **简介**: Turn Claude Code into a full game dev studio — 48 AI agents, 36 workflow skills, and a complete coordination system mirroring real studio hierarchy.
 
 ### frankbria/ralph-claude-code
 
-- **星数**: 8595 ⭐ ⭐待AI分析
+- **星数**: 8600 ⭐ ⭐待AI分析
 - **创建时间**: 2025-08-27
 - **URL**: https://github.com/frankbria/ralph-claude-code
 - **简介**: Autonomous AI development loop for Claude Code with intelligent exit detection
 
 ### Piebald-AI/claude-code-system-prompts
 
-- **星数**: 8592 ⭐ ⭐待AI分析
+- **星数**: 8599 ⭐ ⭐待AI分析
 - **创建时间**: 2025-11-18
 - **URL**: https://github.com/Piebald-AI/claude-code-system-prompts
 - **简介**: All parts of Claude Code's system prompt, 24 builtin tool descriptions, sub agent prompts (Plan/Explore/Task), utility prompts (CLAUDE.md, compact,  statusline, magic docs, WebFetch, Bash cmd, security review, agent creation).  Updated for each Claude Code version.
 
+### tirth8205/code-review-graph
+
+- **星数**: 8167 ⭐ ⭐待AI分析
+- **创建时间**: 2026-02-26
+- **URL**: https://github.com/tirth8205/code-review-graph
+- **简介**: Local knowledge graph for Claude Code. Builds a persistent map of your codebase so Claude reads only what matters — 6.8× fewer tokens on reviews and up to 49× on daily coding tasks.
+
 ### Lum1104/Understand-Anything
 
-- **星数**: 8137 ⭐ ⭐待AI分析
+- **星数**: 8142 ⭐ ⭐待AI分析
 - **创建时间**: 2026-03-15
 - **URL**: https://github.com/Lum1104/Understand-Anything
 - **简介**: Skill that turn any codebase, Dockerfile, or docs into an interactive knowledge graph you can explore, search, and ask questions about. Multi-platform: Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more.
 
 ### Jeffallan/claude-skills
 
-- **星数**: 8103 ⭐ ⭐待AI分析
+- **星数**: 8108 ⭐ ⭐待AI分析
 - **创建时间**: 2025-10-20
 - **URL**: https://github.com/Jeffallan/claude-skills
 - **简介**: 66 Specialized Skills for Full-Stack Developers. Transform Claude Code into your expert pair programmer.
 
-### tirth8205/code-review-graph
+### multica-ai/multica
 
-- **星数**: 7982 ⭐ ⭐待AI分析
-- **创建时间**: 2026-02-26
-- **URL**: https://github.com/tirth8205/code-review-graph
-- **简介**: Local knowledge graph for Claude Code. Builds a persistent map of your codebase so Claude reads only what matters — 6.8× fewer tokens on reviews and up to 49× on daily coding tasks.
+- **星数**: 8039 ⭐ ⭐待AI分析
+- **创建时间**: 2026-01-13
+- **URL**: https://github.com/multica-ai/multica
+- **简介**: The open-source managed agents platform. Turn coding agents into real teammates — assign tasks, track progress, compound skills.
 
 ### automazeio/ccpm
 
-- **星数**: 7945 ⭐ ⭐待AI分析
+- **星数**: 7946 ⭐ ⭐待AI分析
 - **创建时间**: 2025-08-18
 - **URL**: https://github.com/automazeio/ccpm
 - **简介**: Project management skill system for Agents that uses GitHub Issues and Git worktrees for parallel agent execution.
@@ -1350,51 +1357,44 @@
 - **URL**: https://github.com/MoonshotAI/kimi-cli
 - **简介**: Kimi Code CLI is your next CLI agent.
 
-### paoloanzn/free-code
-
-- **星数**: 7702 ⭐ ⭐待AI分析
-- **创建时间**: 2026-03-31
-- **URL**: https://github.com/paoloanzn/free-code
-- **简介**: [NOTE] Parent repo is migrating ownership, until the operation is done this repo is blocked. The free build of Claude Code. All telemetry removed, security-prompt guardrails stripped, all experimental features enabled.
-
-### multica-ai/multica
-
-- **星数**: 7700 ⭐ ⭐待AI分析
-- **创建时间**: 2026-01-13
-- **URL**: https://github.com/multica-ai/multica
-- **简介**: The open-source managed agents platform. Turn coding agents into real teammates — assign tasks, track progress, compound skills.
-
 ### slavingia/skills
 
-- **星数**: 7694 ⭐ ⭐待AI分析
+- **星数**: 7705 ⭐ ⭐待AI分析
 - **创建时间**: 2026-03-23
 - **URL**: https://github.com/slavingia/skills
 - **简介**: Claude Code skills based on The Minimalist Entrepreneur by Sahil Lavingia
 
+### paoloanzn/free-code
+
+- **星数**: 7705 ⭐ ⭐待AI分析
+- **创建时间**: 2026-03-31
+- **URL**: https://github.com/paoloanzn/free-code
+- **简介**: [NOTE] Parent repo is migrating ownership, until the operation is done this repo is blocked. The free build of Claude Code. All telemetry removed, security-prompt guardrails stripped, all experimental features enabled.
+
 ### google/adk-go
 
-- **星数**: 7517 ⭐ ⭐待AI分析
+- **星数**: 7519 ⭐ ⭐待AI分析
 - **创建时间**: 2025-05-05
 - **URL**: https://github.com/google/adk-go
 - **简介**: An open-source, code-first Go toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control.
 
 ### Maciek-roboblog/Claude-Code-Usage-Monitor
 
-- **星数**: 7495 ⭐ ⭐待AI分析
+- **星数**: 7496 ⭐ ⭐待AI分析
 - **创建时间**: 2025-06-19
 - **URL**: https://github.com/Maciek-roboblog/Claude-Code-Usage-Monitor
 - **简介**: Real-time Claude Code usage monitor with predictions and warnings
 
 ### YishenTu/claudian
 
-- **星数**: 7397 ⭐ ⭐待AI分析
+- **星数**: 7412 ⭐ ⭐待AI分析
 - **创建时间**: 2025-12-05
 - **URL**: https://github.com/YishenTu/claudian
 - **简介**: An Obsidian plugin that embeds Claude Code as an AI collaborator in your vault
 
 ### ykdojo/claude-code-tips
 
-- **星数**: 7357 ⭐ ⭐待AI分析
+- **星数**: 7360 ⭐ ⭐待AI分析
 - **创建时间**: 2025-11-28
 - **URL**: https://github.com/ykdojo/claude-code-tips
 - **简介**: 45 tips for getting the most out of Claude Code, from basics to advanced - includes a custom status line script, cutting the system prompt in half, using Gemini CLI as Claude Code's minion, and Claude Code running itself in a container. Also includes the dx plugin.
@@ -1408,24 +1408,31 @@
 
 ### sirmalloc/ccstatusline
 
-- **星数**: 7120 ⭐ ⭐待AI分析
+- **星数**: 7136 ⭐ ⭐待AI分析
 - **创建时间**: 2025-08-08
 - **URL**: https://github.com/sirmalloc/ccstatusline
 - **简介**: 🚀 Beautiful highly customizable statusline for Claude Code CLI with powerline support, themes, and more.
 
 ### mksglu/context-mode
 
-- **星数**: 7021 ⭐ ⭐待AI分析
+- **星数**: 7034 ⭐ ⭐待AI分析
 - **创建时间**: 2026-02-23
 - **URL**: https://github.com/mksglu/context-mode
 - **简介**: Context window optimization for AI coding agents. Sandboxes tool output, 98% reduction. 12 platforms
 
 ### anthropics/claude-code-action
 
-- **星数**: 7010 ⭐ ⭐待AI分析
+- **星数**: 7011 ⭐ ⭐待AI分析
 - **创建时间**: 2025-05-19
 - **URL**: https://github.com/anthropics/claude-code-action
 - **简介**: 
+
+### smtg-ai/claude-squad
+
+- **星数**: 6955 ⭐ ⭐待AI分析
+- **创建时间**: 2025-03-09
+- **URL**: https://github.com/smtg-ai/claude-squad
+- **简介**: Manage multiple AI terminal agents like Claude Code, Codex, OpenCode, and Amp.
 
 ### aidenybai/react-grab
 
@@ -1434,16 +1441,9 @@
 - **URL**: https://github.com/aidenybai/react-grab
 - **简介**: Select context for coding agents directly from your website
 
-### smtg-ai/claude-squad
-
-- **星数**: 6953 ⭐ ⭐待AI分析
-- **创建时间**: 2025-03-09
-- **URL**: https://github.com/smtg-ai/claude-squad
-- **简介**: Manage multiple AI terminal agents like Claude Code, Codex, OpenCode, and Amp.
-
 ### MervinPraison/PraisonAI
 
-- **星数**: 6901 ⭐ ⭐待AI分析
+- **星数**: 6903 ⭐ ⭐待AI分析
 - **创建时间**: 2024-03-19
 - **URL**: https://github.com/MervinPraison/PraisonAI
 - **简介**: PraisonAI 🦞 — Hire a 24/7 AI Workforce. Stop writing boilerplate and start shipping autonomous agents that research, plan, code, and execute tasks. Deployed in 5 lines of code with built-in memory, RAG, and support for 100+ LLMs.
@@ -1457,49 +1457,49 @@
 
 ### grab/cursor-talk-to-figma-mcp
 
-- **星数**: 6643 ⭐ ⭐待AI分析
+- **星数**: 6644 ⭐ ⭐待AI分析
 - **创建时间**: 2025-03-16
 - **URL**: https://github.com/grab/cursor-talk-to-figma-mcp
 - **简介**: TalkToFigma: MCP integration between AI Agent (Cursor, Claude Code) and Figma, allowing Agentic AI to communicate with Figma for reading designs and modifying them programmatically.
 
 ### Orchestra-Research/AI-Research-SKILLs
 
-- **星数**: 6591 ⭐ ⭐待AI分析
+- **星数**: 6596 ⭐ ⭐待AI分析
 - **创建时间**: 2025-11-03
 - **URL**: https://github.com/Orchestra-Research/AI-Research-SKILLs
 - **简介**: Comprehensive open-source library of AI research and engineering skills for any AI model. Package the skills and your claude code/codex/gemini agent will be an AI research agent with full horsepower. Maintained by Orchestra Research.
 
 ### stagewise-io/stagewise
 
-- **星数**: 6522 ⭐ ⭐待AI分析
+- **星数**: 6523 ⭐ ⭐待AI分析
 - **创建时间**: 2025-04-26
 - **URL**: https://github.com/stagewise-io/stagewise
 - **简介**: The coding agent built for the web. stagewise is a purpose-built browser for developers with a coding agent built right in.
 
 ### olimorris/codecompanion.nvim
 
-- **星数**: 6439 ⭐ ⭐待AI分析
+- **星数**: 6438 ⭐ ⭐待AI分析
 - **创建时间**: 2023-12-27
 - **URL**: https://github.com/olimorris/codecompanion.nvim
 - **简介**: ✨ AI Coding, Vim Style
 
 ### wanshuiyin/Auto-claude-code-research-in-sleep
 
-- **星数**: 6183 ⭐ ⭐待AI分析
+- **星数**: 6193 ⭐ ⭐待AI分析
 - **创建时间**: 2026-03-10
 - **URL**: https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep
 - **简介**: ARIS ⚔️ (Auto-Research-In-Sleep) — Lightweight Markdown-only skills for autonomous ML research: cross-model review loops, idea discovery, and experiment automation. No framework, no lock-in — works with Claude Code, Codex, OpenClaw, or any LLM agent.
 
 ### millionco/react-doctor
 
-- **星数**: 6170 ⭐ ⭐待AI分析
+- **星数**: 6173 ⭐ ⭐待AI分析
 - **创建时间**: 2026-02-13
 - **URL**: https://github.com/millionco/react-doctor
 - **简介**: Let coding agents diagnose and fix your React code
 
 ### ComposioHQ/agent-orchestrator
 
-- **星数**: 6163 ⭐ ⭐待AI分析
+- **星数**: 6171 ⭐ ⭐待AI分析
 - **创建时间**: 2026-02-13
 - **URL**: https://github.com/ComposioHQ/agent-orchestrator
 - **简介**:  Agentic orchestrator for parallel coding agents — plans tasks, spawns agents, and autonomously handles CI    fixes, merge conflicts, and code reviews.
@@ -1520,35 +1520,35 @@
 
 ### algorithmicsuperintelligence/openevolve
 
-- **星数**: 5939 ⭐ ⭐待AI分析
+- **星数**: 5941 ⭐ ⭐待AI分析
 - **创建时间**: 2025-05-15
 - **URL**: https://github.com/algorithmicsuperintelligence/openevolve
 - **简介**: Open-source implementation of AlphaEvolve
 
 ### op7418/Humanizer-zh
 
-- **星数**: 5915 ⭐ ⭐待AI分析
+- **星数**: 5917 ⭐ ⭐待AI分析
 - **创建时间**: 2026-01-19
 - **URL**: https://github.com/op7418/Humanizer-zh
 - **简介**: Humanizer 的汉化版本，Claude Code Skills，旨在消除文本中 AI 生成的痕迹。
 
 ### UfoMiao/zcf
 
-- **星数**: 5905 ⭐ ⭐待AI分析
+- **星数**: 5906 ⭐ ⭐待AI分析
 - **创建时间**: 2025-07-30
 - **URL**: https://github.com/UfoMiao/zcf
 - **简介**: Zero-Config Code Flow for Claude code & Codex
 
 ### zilliztech/claude-context
 
-- **星数**: 5896 ⭐ ⭐待AI分析
+- **星数**: 5897 ⭐ ⭐待AI分析
 - **创建时间**: 2025-06-06
 - **URL**: https://github.com/zilliztech/claude-context
 - **简介**: Code search MCP for Claude Code. Make entire codebase the context for any coding agent.
 
 ### NanmiCoder/cc-haha
 
-- **星数**: 5797 ⭐ ⭐待AI分析
+- **星数**: 5805 ⭐ ⭐待AI分析
 - **创建时间**: 2026-03-31
 - **URL**: https://github.com/NanmiCoder/cc-haha
 - **简介**: Claude Code 泄露源码 - 本地可运行版本（附带核心模块解析）
@@ -1560,23 +1560,23 @@
 - **URL**: https://github.com/tape-testing/tape
 - **简介**: tap-producing test harness for node and browsers
 
-### ChrisWiles/claude-code-showcase
-
-- **星数**: 5772 ⭐ ⭐待AI分析
-- **创建时间**: 2026-01-06
-- **URL**: https://github.com/ChrisWiles/claude-code-showcase
-- **简介**: Comprehensive Claude Code project configuration example with hooks, skills, agents, commands, and GitHub Actions workflows
-
 ### jnMetaCode/agency-agents-zh
 
-- **星数**: 5768 ⭐ ⭐待AI分析
+- **星数**: 5784 ⭐ ⭐待AI分析
 - **创建时间**: 2026-03-06
 - **URL**: https://github.com/jnMetaCode/agency-agents-zh
 - **简介**: 🎭 193 个即插即用的 AI 专家角色 — 支持 OpenClaw/Hermes Agent/Claude Code/Cursor/Copilot 等 16 种工具，覆盖工程/设计/营销/产品等 18 个部门。含 46 个中国市场原创智能体（小红书/抖音/微信/飞书/钉钉等）
 
+### ChrisWiles/claude-code-showcase
+
+- **星数**: 5774 ⭐ ⭐待AI分析
+- **创建时间**: 2026-01-06
+- **URL**: https://github.com/ChrisWiles/claude-code-showcase
+- **简介**: Comprehensive Claude Code project configuration example with hooks, skills, agents, commands, and GitHub Actions workflows
+
 ### dontriskit/awesome-ai-system-prompts
 
-- **星数**: 5709 ⭐ ⭐待AI分析
+- **星数**: 5711 ⭐ ⭐待AI分析
 - **创建时间**: 2025-03-05
 - **URL**: https://github.com/dontriskit/awesome-ai-system-prompts
 - **简介**: 🧠 Curated collection of system prompts for top AI tools. Perfect for AI agent builders and prompt engineers. Incuding: ChatGPT, Claude, Perplexity, Manus, Claude-Code, Loveable, v0, Grok, same new, windsurf, notion, and MetaAI. 
@@ -1590,28 +1590,28 @@
 
 ### strands-agents/sdk-python
 
-- **星数**: 5602 ⭐ ⭐待AI分析
+- **星数**: 5605 ⭐ ⭐待AI分析
 - **创建时间**: 2025-05-14
 - **URL**: https://github.com/strands-agents/sdk-python
 - **简介**: A model-driven approach to building AI agents in just a few lines of code.
 
 ### ghuntley/how-to-build-a-coding-agent
 
-- **星数**: 5429 ⭐ ⭐待AI分析
+- **星数**: 5430 ⭐ ⭐待AI分析
 - **创建时间**: 2025-07-24
 - **URL**: https://github.com/ghuntley/how-to-build-a-coding-agent
 - **简介**: A workshop that teaches you how to build your own coding agent. Similar to Roo code, Cline, Amp, Cursor, Windsurf or OpenCode.
 
 ### 21st-dev/1code
 
-- **星数**: 5423 ⭐ ⭐待AI分析
+- **星数**: 5424 ⭐ ⭐待AI分析
 - **创建时间**: 2026-01-14
 - **URL**: https://github.com/21st-dev/1code
 - **简介**: Orchestration layer for coding agents (Claude Code, Codex)
 
 ### rllm-org/rllm
 
-- **星数**: 5407 ⭐ ⭐待AI分析
+- **星数**: 5410 ⭐ ⭐待AI分析
 - **创建时间**: 2025-01-26
 - **URL**: https://github.com/rllm-org/rllm
 - **简介**: Democratizing Reinforcement Learning for LLMs
@@ -1625,7 +1625,7 @@
 
 ### mindfold-ai/Trellis
 
-- **星数**: 5079 ⭐ ⭐待AI分析
+- **星数**: 5088 ⭐ ⭐待AI分析
 - **创建时间**: 2026-01-26
 - **URL**: https://github.com/mindfold-ai/Trellis
 - **简介**: The best agent harness.
@@ -1646,14 +1646,14 @@
 
 ### chenhg5/cc-connect
 
-- **星数**: 4921 ⭐ ⭐待AI分析
+- **星数**: 4931 ⭐ ⭐待AI分析
 - **创建时间**: 2026-02-28
 - **URL**: https://github.com/chenhg5/cc-connect
 - **简介**: Bridge local AI coding agents (Claude Code, Cursor, Gemini CLI, Codex) to messaging platforms (Feishu/Lark, DingTalk, Slack, Telegram, Discord, LINE, WeChat Work). Chat with your AI dev assistant from anywhere — no public IP required for most platforms.
 
 ### osaurus-ai/osaurus
 
-- **星数**: 4914 ⭐ ⭐待AI分析
+- **星数**: 4916 ⭐ ⭐待AI分析
 - **创建时间**: 2025-08-17
 - **URL**: https://github.com/osaurus-ai/osaurus
 - **简介**: Own your AI. The native macOS harness for AI agents -- any model, persistent memory, autonomous execution, cryptographic identity. Built in Swift. Fully offline. Open source.
@@ -1674,14 +1674,14 @@
 
 ### baserow/baserow
 
-- **星数**: 4612 ⭐ ⭐待AI分析
+- **星数**: 4614 ⭐ ⭐待AI分析
 - **创建时间**: 2020-07-20
 - **URL**: https://github.com/baserow/baserow
 - **简介**: Build databases, automations, apps & agents with AI — no code.  Open source platform available on cloud and self-hosted. GDPR, HIPAA, SOC 2 compliant. Best Airtable alternative.
 
 ### campfirein/byterover-cli
 
-- **星数**: 4423 ⭐ ⭐待AI分析
+- **星数**: 4424 ⭐ ⭐待AI分析
 - **创建时间**: 2025-06-19
 - **URL**: https://github.com/campfirein/byterover-cli
 - **简介**: ByteRover CLI (brv) - The portable memory layer for  autonomous coding agents (formerly Cipher)
@@ -1695,10 +1695,17 @@
 
 ### zai-org/GLM-4.5
 
-- **星数**: 4312 ⭐ ⭐待AI分析
+- **星数**: 4313 ⭐ ⭐待AI分析
 - **创建时间**: 2025-07-20
 - **URL**: https://github.com/zai-org/GLM-4.5
 - **简介**: GLM-4.5: Agentic, Reasoning, and Coding (ARC) Foundation Models
+
+### ModelEngine-Group/nexent
+
+- **星数**: 4290 ⭐ ⭐待AI分析
+- **创建时间**: 2025-04-28
+- **URL**: https://github.com/ModelEngine-Group/nexent
+- **简介**: Nexent is a zero-code platform for auto-generating production-grade AI agents using Harness Engineering principles — unified tools, skills, memory, and orchestration with built-in constraints, feedback loops, and control planes.
 
 ### BuilderIO/micro-agent
 
@@ -1707,16 +1714,9 @@
 - **URL**: https://github.com/BuilderIO/micro-agent
 - **简介**: An AI agent that writes (actually useful) code for you
 
-### ModelEngine-Group/nexent
-
-- **星数**: 4288 ⭐ ⭐待AI分析
-- **创建时间**: 2025-04-28
-- **URL**: https://github.com/ModelEngine-Group/nexent
-- **简介**: Nexent is a zero-code platform for auto-generating production-grade AI agents using Harness Engineering principles — unified tools, skills, memory, and orchestration with built-in constraints, feedback loops, and control planes.
-
 ### kevinrgu/autoagent
 
-- **星数**: 4017 ⭐ ⭐待AI分析
+- **星数**: 4023 ⭐ ⭐待AI分析
 - **创建时间**: 2026-04-02
 - **URL**: https://github.com/kevinrgu/autoagent
 - **简介**: autonomous harness engineering
@@ -1730,7 +1730,7 @@
 
 ### can1357/oh-my-pi
 
-- **星数**: 2875 ⭐ ⭐待AI分析
+- **星数**: 2885 ⭐ ⭐待AI分析
 - **创建时间**: 2025-12-31
 - **URL**: https://github.com/can1357/oh-my-pi
 - **简介**: ⌥  AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more
@@ -1744,28 +1744,28 @@
 
 ### peteromallet/desloppify
 
-- **星数**: 2714 ⭐ ⭐待AI分析
+- **星数**: 2716 ⭐ ⭐待AI分析
 - **创建时间**: 2026-02-11
 - **URL**: https://github.com/peteromallet/desloppify
 - **简介**: Agent harness to make your slop code well-engineered and beautiful.
 
 ### lintsinghua/claude-code-book
 
-- **星数**: 2569 ⭐ ⭐待AI分析
+- **星数**: 2573 ⭐ ⭐待AI分析
 - **创建时间**: 2026-03-31
 - **URL**: https://github.com/lintsinghua/claude-code-book
 - **简介**: 《御舆：解码 Agent Harness》42万字拆解 AI Agent 的Harness骨架与神经 —— Claude Code 架构深度剖析，15 章从对话循环到构建你自己的 Agent Harness。在线阅读网站：
 
 ### nextlevelbuilder/goclaw
 
-- **星数**: 2545 ⭐ ⭐待AI分析
+- **星数**: 2549 ⭐ ⭐待AI分析
 - **创建时间**: 2026-02-22
 - **URL**: https://github.com/nextlevelbuilder/goclaw
 - **简介**: GoClaw - GoClaw is OpenClaw rebuilt in Go — with multi-tenant isolation, 5-layer security, and native concurrency. Deploy AI agent teams at scale without compromising on safety.
 
 ### revfactory/harness
 
-- **星数**: 2310 ⭐ ⭐待AI分析
+- **星数**: 2322 ⭐ ⭐待AI分析
 - **创建时间**: 2026-03-26
 - **URL**: https://github.com/revfactory/harness
 - **简介**: A meta-skill that designs domain-specific agent teams, defines specialized agents, and generates the skills they use.
@@ -1779,14 +1779,14 @@
 
 ### walkinglabs/awesome-harness-engineering
 
-- **星数**: 1578 ⭐ ⭐待AI分析
+- **星数**: 1585 ⭐ ⭐待AI分析
 - **创建时间**: 2026-03-29
 - **URL**: https://github.com/walkinglabs/awesome-harness-engineering
 - **简介**: 🛠️ Awesome tools & guides for harness engineering.
 
 ### wquguru/harness-books
 
-- **星数**: 1519 ⭐ ⭐待AI分析
+- **星数**: 1546 ⭐ ⭐待AI分析
 - **创建时间**: 2026-04-01
 - **URL**: https://github.com/wquguru/harness-books
 - **简介**: 
@@ -1800,7 +1800,7 @@
 
 ### zilliztech/memsearch
 
-- **星数**: 1186 ⭐ ⭐待AI分析
+- **星数**: 1188 ⭐ ⭐待AI分析
 - **创建时间**: 2026-02-09
 - **URL**: https://github.com/zilliztech/memsearch
 - **简介**: A Markdown-first memory system, a standalone library for any AI agent. Inspired by OpenClaw.
@@ -1819,6 +1819,13 @@
 - **URL**: https://github.com/tavily-ai/tavily-python
 - **简介**: The Tavily Python SDK allows for easy interaction with the Tavily API, offering the full range of our search, extract, crawl, map, and research functionalities directly from your Python programs. Easily integrate smart search, content extraction, and research capabilities into your applications, harnessing Tavily's powerful features.
 
+### deusyu/harness-engineering
+
+- **星数**: 1122 ⭐ ⭐待AI分析
+- **创建时间**: 2026-03-23
+- **URL**: https://github.com/deusyu/harness-engineering
+- **简介**: Harness Engineering 学习指南 — 从概念理解到独立实践的深度学习档案
+
 ### XPixelGroup/HYPIR
 
 - **星数**: 1121 ⭐ ⭐待AI分析
@@ -1826,16 +1833,9 @@
 - **URL**: https://github.com/XPixelGroup/HYPIR
 - **简介**: Official implementation of HYPIR: Harnessing Diffusion-Yielded Score Priors for Image Restoration (SIGGRAPH 2025)
 
-### deusyu/harness-engineering
-
-- **星数**: 1116 ⭐ ⭐待AI分析
-- **创建时间**: 2026-03-23
-- **URL**: https://github.com/deusyu/harness-engineering
-- **简介**: Harness Engineering 学习指南 — 从概念理解到独立实践的深度学习档案
-
 ### chrysb/alphaclaw
 
-- **星数**: 1094 ⭐ ⭐待AI分析
+- **星数**: 1098 ⭐ ⭐待AI分析
 - **创建时间**: 2026-02-25
 - **URL**: https://github.com/chrysb/alphaclaw
 - **简介**: The ultimate setup harness for OpenClaw. Deploy in minutes. Stay running for months. No CLI required.
@@ -1898,7 +1898,7 @@
 
 ### ZhangHanDong/harness-engineering-from-cc-to-ai-coding
 
-- **星数**: 922 ⭐ ⭐待AI分析
+- **星数**: 925 ⭐ ⭐待AI分析
 - **创建时间**: 2026-04-01
 - **URL**: https://github.com/ZhangHanDong/harness-engineering-from-cc-to-ai-coding
 - **简介**: Harness Engineering From Claude Code source code to AI Coding
@@ -1912,14 +1912,14 @@
 
 ### shouc/agentflow
 
-- **星数**: 835 ⭐ ⭐待AI分析
+- **星数**: 836 ⭐ ⭐待AI分析
 - **创建时间**: 2026-03-08
 - **URL**: https://github.com/shouc/agentflow
 - **简介**: Orchestrate thousands of agents and harnesses as a graph programatically
 
 ### stanford-iris-lab/meta-harness-tbench2-artifact
 
-- **星数**: 811 ⭐ ⭐待AI分析
+- **星数**: 818 ⭐ ⭐待AI分析
 - **创建时间**: 2026-03-26
 - **URL**: https://github.com/stanford-iris-lab/meta-harness-tbench2-artifact
 - **简介**: Meta-Harness: 76.4% on Terminal-Bench 2.0 (Claude Opus 4.6)
@@ -1940,17 +1940,31 @@
 
 ### e10nMa2k/cc-mini
 
-- **星数**: 775 ⭐ ⭐待AI分析
+- **星数**: 776 ⭐ ⭐待AI分析
 - **创建时间**: 2026-03-31
 - **URL**: https://github.com/e10nMa2k/cc-mini
 - **简介**: Ultra-light Harness scaffolding for AI agents, a mini version of claude code 
 
+### rohitg00/agentmemory
+
+- **星数**: 751 ⭐ ⭐待AI分析
+- **创建时间**: 2026-02-25
+- **URL**: https://github.com/rohitg00/agentmemory
+- **简介**: #1 Persistent memory for AI coding agents based on real-world benchmarks
+
 ### TheNickOfTime/handbrake-web
 
-- **星数**: 749 ⭐ ⭐待AI分析
+- **星数**: 750 ⭐ ⭐待AI分析
 - **创建时间**: 2024-05-21
 - **URL**: https://github.com/TheNickOfTime/handbrake-web
 - **简介**: A self-hosted platform to use HandBrake on your headless devices via a bespoke web interface. Harness the processing power of multiple devices to work on a single queue.
+
+### greyhaven-ai/autocontext
+
+- **星数**: 726 ⭐ ⭐待AI分析
+- **创建时间**: 2026-02-11
+- **URL**: https://github.com/greyhaven-ai/autocontext
+- **简介**: a recursive self-improving harness designed to help your agents (and future iterations of those agents) succeed on any task
 
 ### opendr-eu/opendr
 
@@ -1959,16 +1973,9 @@
 - **URL**: https://github.com/opendr-eu/opendr
 - **简介**: A modular, open and non-proprietary toolkit for core robotic functionalities by harnessing deep learning
 
-### greyhaven-ai/autocontext
-
-- **星数**: 723 ⭐ ⭐待AI分析
-- **创建时间**: 2026-02-11
-- **URL**: https://github.com/greyhaven-ai/autocontext
-- **简介**: a recursive self-improving harness designed to help your agents (and future iterations of those agents) succeed on any task
-
 ### walkinglabs/learn-harness-engineering
 
-- **星数**: 663 ⭐ ⭐待AI分析
+- **星数**: 665 ⭐ ⭐待AI分析
 - **创建时间**: 2026-03-29
 - **URL**: https://github.com/walkinglabs/learn-harness-engineering
 - **简介**: Harness engineering official style beginner tutorial, from 0 to 1
@@ -1994,19 +2001,19 @@
 - **URL**: https://github.com/MozillaSecurity/funfuzz
 - **简介**: A collection of fuzzers in a harness for testing the SpiderMonkey JavaScript engine.
 
+### first-fluke/oh-my-agent
+
+- **星数**: 609 ⭐ ⭐待AI分析
+- **创建时间**: 2026-01-30
+- **URL**: https://github.com/first-fluke/oh-my-agent
+- **简介**: Portable multi-agent harness for .agents-based skills, workflows, and standards-aware agent teams across Antigravity, Claude Code, Codex, Cursor, OpenCode, and more.
+
 ### truffle-ai/dexto
 
 - **星数**: 608 ⭐ ⭐待AI分析
 - **创建时间**: 2025-03-24
 - **URL**: https://github.com/truffle-ai/dexto
 - **简介**: A coding agent and general agent harness for building and orchestrating agentic applications.
-
-### first-fluke/oh-my-agent
-
-- **星数**: 607 ⭐ ⭐待AI分析
-- **创建时间**: 2026-01-30
-- **URL**: https://github.com/first-fluke/oh-my-agent
-- **简介**: Portable multi-agent harness for .agents-based skills, workflows, and standards-aware agent teams across Antigravity, Claude Code, Codex, Cursor, OpenCode, and more.
 
 ### minghao-wu/transagents
 
@@ -2017,7 +2024,7 @@
 
 ### rasbt/mini-coding-agent
 
-- **星数**: 579 ⭐ ⭐待AI分析
+- **星数**: 583 ⭐ ⭐待AI分析
 - **创建时间**: 2026-04-02
 - **URL**: https://github.com/rasbt/mini-coding-agent
 - **简介**: Minimal and readable coding agent harness implementation in Python to explain the core components of coding agents.
@@ -2038,7 +2045,7 @@
 
 ### revfactory/harness-100
 
-- **星数**: 534 ⭐ ⭐待AI分析
+- **星数**: 536 ⭐ ⭐待AI分析
 - **创建时间**: 2026-03-22
 - **URL**: https://github.com/revfactory/harness-100
 - **简介**: 
@@ -2052,7 +2059,7 @@
 
 ### AltimateAI/altimate-code
 
-- **星数**: 520 ⭐ ⭐待AI分析
+- **星数**: 522 ⭐ ⭐待AI分析
 - **创建时间**: 2026-02-27
 - **URL**: https://github.com/AltimateAI/altimate-code
 - **简介**: Open-source agentic data engineering harness for dbt, SQL, and cloud warehouses. 100+ tools, 10 warehouses, AI-powered.
@@ -2080,28 +2087,28 @@
 
 ### SethGammon/Citadel
 
-- **星数**: 490 ⭐ ⭐待AI分析
+- **星数**: 491 ⭐ ⭐待AI分析
 - **创建时间**: 2026-03-20
 - **URL**: https://github.com/SethGammon/Citadel
 - **简介**: Agent orchestration harness for Claude Code. Four-tier routing (/do), campaign persistence across sessions, parallel agents in isolated worktrees, discovery relay between waves, lifecycle hooks, circuit breaker, and 6 production-quality skills. From solo developer to institutional scale.
 
 ### Chachamaru127/claude-code-harness
 
-- **星数**: 484 ⭐ ⭐待AI分析
+- **星数**: 486 ⭐ ⭐待AI分析
 - **创建时间**: 2025-12-12
 - **URL**: https://github.com/Chachamaru127/claude-code-harness
 - **简介**: Claude Code Dedicated Development Harness - Achieving High-Quality Development Through an Autonomous Plan→Work→Review Cycle
 
 ### vkehfdl1/slides-grab
 
-- **星数**: 448 ⭐ ⭐待AI分析
+- **星数**: 449 ⭐ ⭐待AI分析
 - **创建时间**: 2026-03-08
 - **URL**: https://github.com/vkehfdl1/slides-grab
 - **简介**: Best harness + editor + linter for generating slides in Claude Code / Codex
 
 ### kweaver-ai/kweaver-core
 
-- **星数**: 437 ⭐ ⭐待AI分析
+- **星数**: 440 ⭐ ⭐待AI分析
 - **创建时间**: 2022-09-05
 - **URL**: https://github.com/kweaver-ai/kweaver-core
 - **简介**: KWeaver Core is a harness-first foundation for enterprise decision agents. It turns fragmented data, knowledge, tools, and policies into governed context, safe execution, and verifiable feedback loops. With semantic modeling, real-time access, runtime control, and TraceAI, it helps AI systems reason, adapt, and act reliable in complex enterprises.
@@ -2127,6 +2134,13 @@
 - **URL**: https://github.com/neiii/bridle
 - **简介**: TUI / CLI config manager for agentic harnesses (Amp, Claude Code, Opencode, Goose, Copilot CLI, Crush, Droid)
 
+### neosigmaai/auto-harness
+
+- **星数**: 402 ⭐ ⭐待AI分析
+- **创建时间**: 2026-04-03
+- **URL**: https://github.com/neosigmaai/auto-harness
+- **简介**: Bring your own agent and build a self-improving agentic system. Automatically mine failures, optimize the agent harness, and gate against regressions.
+
 ### w1oves/Rein
 
 - **星数**: 401 ⭐ ⭐待AI分析
@@ -2134,23 +2148,16 @@
 - **URL**: https://github.com/w1oves/Rein
 - **简介**: [CVPR 2024] Official implement of <Stronger, Fewer, & Superior: Harnessing Vision Foundation Models for Domain Generalized Semantic Segmentation>
 
-### neosigmaai/auto-harness
-
-- **星数**: 401 ⭐ ⭐待AI分析
-- **创建时间**: 2026-04-03
-- **URL**: https://github.com/neosigmaai/auto-harness
-- **简介**: 
-
 ### Chorus-AIDLC/Chorus
 
-- **星数**: 399 ⭐ ⭐待AI分析
+- **星数**: 401 ⭐ ⭐待AI分析
 - **创建时间**: 2026-02-04
 - **URL**: https://github.com/Chorus-AIDLC/Chorus
 - **简介**: The Agent Harness for AI-Human Collaboration, inspired by the AI-DLC (AI-Driven Development Lifecycle)
 
 ### claw-eval/claw-eval
 
-- **星数**: 395 ⭐ ⭐待AI分析
+- **星数**: 396 ⭐ ⭐待AI分析
 - **创建时间**: 2026-03-11
 - **URL**: https://github.com/claw-eval/claw-eval
 - **简介**: Claw-Eval is an evaluation harness for evaluating LLM as agents. All tasks verified by humans.
@@ -2220,17 +2227,17 @@
 
 ### alexziskind1/llama-throughput-lab
 
-- **星数**: 344 ⭐ ⭐待AI分析
+- **星数**: 345 ⭐ ⭐待AI分析
 - **创建时间**: 2026-01-16
 - **URL**: https://github.com/alexziskind1/llama-throughput-lab
 - **简介**: Interactive launcher and benchmarking harness for llama.cpp server throughput, with tests, sweeps, and round‑robin load tools.
 
-### suyoumo/OpenClawProBench
+### suyoumo/ClawProBench
 
-- **星数**: 340 ⭐ ⭐待AI分析
+- **星数**: 343 ⭐ ⭐待AI分析
 - **创建时间**: 2025-03-02
-- **URL**: https://github.com/suyoumo/OpenClawProBench
-- **简介**: OpenClawProBench is a live-first benchmark harness for evaluating LLM agents   in the OpenClaw runtime with deterministic grading and repeated-trial   reliability.
+- **URL**: https://github.com/suyoumo/ClawProBench
+- **简介**: ClawProBench is a live-first benchmark harness for evaluating LLM agents   in the OpenClaw runtime with deterministic grading and repeated-trial   reliability.
 
 ### kdcokenny/opencode-workspace
 
@@ -2259,12 +2266,5 @@
 - **创建时间**: 2021-02-22
 - **URL**: https://github.com/facebookincubator/flowtorch
 - **简介**: This library would form a permanent home for reusable components for deep probabilistic programming. The library would form and harness a community of users and contributors by focusing initially on complete infra and documentation for how to use and create components.
-
-### parikhakshat/autoharness
-
-- **星数**: 290 ⭐ ⭐待AI分析
-- **创建时间**: 2021-05-16
-- **URL**: https://github.com/parikhakshat/autoharness
-- **简介**: A tool that automatically creates fuzzing harnesses based on a library
 
 ---
